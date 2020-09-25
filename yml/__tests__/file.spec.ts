@@ -11,7 +11,7 @@ const files = yamlGlob(path.resolve(__dirname, `../../yml/*/*.yml`)).filter(
 );
 const filenames: string[] = [];
 
-const isbnPath = path.resolve(__dirname, `../../../cli/src/cmd/isbns/isbns.json`);
+const isbnPath = path.resolve(__dirname, `../../isbns.json`);
 const isbnPool = JSON.parse(readFileSync(isbnPath).toString());
 const isbns: string[] = [];
 const ids: string[] = [];
