@@ -1,7 +1,9 @@
 {
   "files.exclude": {
     "node_modules/": true,
+    "dist/": true,
     "package-lock.json": true,
+    "tsconfig.tsbuildinfo": true,
     "jest.config.js": true
   }
 }
