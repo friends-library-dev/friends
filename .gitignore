@@ -1,4 +1,6 @@
 node_modules/
+dist/
+tsconfig.tsbuildinfo
 .DS_Store
 jest.config.js
 yml/en/jane-doe.yml

@@ -2,7 +2,8 @@
   "name": "@friends-library/friends",
   "description": "yml-based flat file datastore for friends library",
   "version": "1.0.0",
-  "main": "./src/index.ts",
+  "main": "./dist/index.js",
+  "browser": "./src/index.ts",
   "license": "MIT",
   "repository": "github:friends-library-dev/friends",
   "sideEffects": false,
@@ -12,7 +13,9 @@
     "lint": "fldev lint",
     "lint:fix": "fldev lint:fix",
     "ts:check": "fldev ts:check",
-    "format": "fldev format"
+    "format": "fldev format",
+    "compile": "fldev ts:compile",
+    "prepublishOnly": "npm run compile"
   },
   "dependencies": {
     "@friends-library/types": "1.0.0",
@@ -22,7 +25,7 @@
     "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "@friends-library/dev": "4.0.1",
+    "@friends-library/dev": "4.0.7",
     "@types/js-yaml": "^3.12.1"
   }
 }
