@@ -1,4 +1,5 @@
 node_modules/
 .DS_Store
+jest.config.js
 yml/en/jane-doe.yml
 yml/en/john-doe.yml
