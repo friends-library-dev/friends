@@ -9,9 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: bahmutov/npm-install@v1
-      - name: run
-        run: |
-          npm run lint
-          npm run ts:check
-          npm run test
-          npm run format -- --check
+      - name: lint
+        run: npm run lint
+      - name: ts
+        run: npm run ts:check
+      - name: test
+        run: npm run test
+      - name: prettier
+        run: npm run format -- --check
