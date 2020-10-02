@@ -18,14 +18,14 @@
     "prepublishOnly": "npm run compile"
   },
   "dependencies": {
-    "@friends-library/types": "1.0.0",
+    "@friends-library/types": "^1.1.1",
     "glob": "^7.1.4",
     "js-yaml": "^3.12.0",
     "jsonschema": "^1.2.6",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "@friends-library/dev": "4.0.7",
+    "@friends-library/dev": "^4.0.8",
     "@types/js-yaml": "^3.12.1"
   }
 }
