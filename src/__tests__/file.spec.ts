@@ -3,7 +3,8 @@ import { kebabCase } from 'lodash';
 import { safeLoad } from 'js-yaml';
 import { readFileSync } from 'fs';
 import { yamlGlob, editions, hasProp } from './file-helpers';
-import { FriendData, DocumentData } from '../../src/types';
+import { FriendData, DocumentData } from '../types';
+import isbnPool from '../isbns';
 import { Lang } from '@friends-library/types';
 
 const files = yamlGlob(path.resolve(__dirname, `../../yml/*/*.yml`)).filter(
@@ -11,8 +12,6 @@ const files = yamlGlob(path.resolve(__dirname, `../../yml/*/*.yml`)).filter(
 );
 const filenames: string[] = [];
 
-const isbnPath = path.resolve(__dirname, `../../isbns.json`);
-const isbnPool = JSON.parse(readFileSync(isbnPath).toString());
 const isbns: string[] = [];
 const ids: string[] = [];
 const friends: FriendData[] = [];
