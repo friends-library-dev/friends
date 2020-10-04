@@ -4,7 +4,7 @@ import { safeLoad } from 'js-yaml';
 import { readFileSync } from 'fs';
 import { yamlGlob, editions, hasProp } from './file-helpers';
 import { FriendData, DocumentData } from '../../src/types';
-import { isDefined, Lang } from '@friends-library/types';
+import { Lang } from '@friends-library/types';
 
 const files = yamlGlob(path.resolve(__dirname, `../../yml/*/*.yml`)).filter(
   (file) => ![`en/jane-doe.yml`, `en/john-doe.yml`].includes(file.short),
@@ -212,7 +212,7 @@ describe(`document.alt_language_id`, () => {
         });
       }
 
-      if (isDefined(altId)) {
+      if (altId !== undefined) {
         test(`${docPath} doc.alt_language_id must exist`, () => {
           expect(docMap.has(altId)).toBe(true);
         });
