@@ -2,7 +2,7 @@ import path from 'path';
 import { kebabCase } from 'lodash';
 import { safeLoad } from 'js-yaml';
 import { readFileSync } from 'fs';
-import { yamlGlob, editions, hasProp } from '../test-helpers';
+import { yamlGlob, editions, hasProp } from './file-helpers';
 import { FriendData, DocumentData } from '../../src/types';
 import { isDefined, Lang } from '@friends-library/types';
 

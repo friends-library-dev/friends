@@ -12,5 +12,5 @@
     "incremental": true,
     "lib": ["ESNext"]
   },
-  "exclude": ["**/__tests__/*", "./dist", "./yml"]
+  "exclude": ["./dist"]
 }
