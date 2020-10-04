@@ -1,6 +1,7 @@
+import { isDefined } from 'x-ts-utils';
+import { Name, Lang, Uuid, Slug, Description } from '@friends-library/types';
 import { FriendData } from './types';
 import Document from './Document';
-import { Name, Lang, Uuid, Slug, Description, isDefined } from '@friends-library/types';
 
 export default class Friend {
   public documents: Document[] = [];

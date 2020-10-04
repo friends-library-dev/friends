@@ -1,7 +1,7 @@
 import path from 'path';
 import { safeLoad } from 'js-yaml';
 import { readFileSync } from 'fs';
-import { yamlGlob, audioParts } from '../test-helpers';
+import { yamlGlob, audioParts } from './file-helpers';
 
 const files = yamlGlob(path.resolve(__dirname, `../../yml/*/*.yml`));
 

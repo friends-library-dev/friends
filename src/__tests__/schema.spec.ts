@@ -2,7 +2,7 @@ import path from 'path';
 import { Validator } from 'jsonschema';
 import { safeLoad } from 'js-yaml';
 import { readFileSync } from 'fs';
-import { yamlGlob } from '../test-helpers';
+import { yamlGlob } from './file-helpers';
 import schema, { subSchemas } from '../../src/schema';
 
 const validator = new Validator();
