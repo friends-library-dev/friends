@@ -26,7 +26,7 @@
     "x-ts-utils": "^1.0.1"
   },
   "devDependencies": {
-    "@friends-library/dev": "^4.0.8",
+    "@friends-library/dev": "^4.1.10",
     "@types/js-yaml": "^3.12.1"
   }
 }
