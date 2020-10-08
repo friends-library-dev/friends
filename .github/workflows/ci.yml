@@ -2,6 +2,13 @@ name: basic-ci
 
 on: push
 
+env:
+  DOCS_REPOS_ROOT: ${{ github.workspace }}
+  DOCUMENT_META_AUTH_TOKEN: ${{ secrets.DOCUMENT_META_AUTH_TOKEN }}
+  DOCUMENT_META_GIST_ID: ${{ secrets.DOCUMENT_META_GIST_ID }}
+  DOCUMENT_META_GIST_FILENAME: ${{ secrets.DOCUMENT_META_GIST_FILENAME }}
+  CLOUD_STORAGE_BUCKET_URL: ${{ secrets.CLOUD_STORAGE_BUCKET_URL }}
+
 jobs:
   ci:
     name: run
@@ -17,3 +24,11 @@ jobs:
         run: npm run test
       - name: prettier
         run: npm run format -- --check
+      - name: compile
+        run: npm run compile
+      - name: clone-friend-repos
+        run: npx friend-repos-clone-all .
+      - name: verify:assets
+        run: npm run verify:assets
+      - name: verify:intake
+        run: npm run verify:intake

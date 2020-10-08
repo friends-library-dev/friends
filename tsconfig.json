@@ -5,12 +5,12 @@
     "resolveJsonModule": true,
     "declaration": true,
     "outDir": "./dist",
-    "rootDir": "./src",
+    "rootDirs": ["./src", "./verify"],
     "skipLibCheck": true,
     "target": "ES2019",
     "module": "CommonJS",
     "incremental": true,
     "lib": ["ESNext"]
   },
-  "exclude": ["./dist"]
+  "exclude": ["./dist", "./verify", "**/__tests__/*"]
 }
