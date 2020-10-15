@@ -11,7 +11,7 @@ env:
 
 jobs:
   ci:
-    name: run
+    name: test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -28,7 +28,11 @@ jobs:
         run: npm run compile
       - name: clone-friend-repos
         run: npx friend-repos-clone-all .
+      - name: verify:intake
+        run: |
+          npm install @friends-library/dpc-fs
+          rm -rf ./node_modules/@friends-library/friends
+          ln -s $PWD ./node_modules/@friends-library/friends
+          npm run verify:intake
       - name: verify:assets
         run: npm run verify:assets
-      - name: verify:intake
-        run: npm run verify:intake

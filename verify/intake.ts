@@ -1,4 +1,5 @@
 import '@friends-library/env/load';
+// @ts-ignore -- dpc-fs pkg is installed in CI env to run this test
 import { query, hydrate } from '@friends-library/dpc-fs';
 
 function main(): void {
