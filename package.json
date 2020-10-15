@@ -30,7 +30,6 @@
   "devDependencies": {
     "@friends-library/dev": "^4.1.10",
     "@friends-library/document-meta": "^1.0.0",
-    "@friends-library/dpc-fs": "^1.0.1",
     "@friends-library/env": "^1.2.0",
     "@friends-library/friend-repos": "^1.1.0",
     "@types/js-yaml": "^3.12.1",
