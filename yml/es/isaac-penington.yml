@@ -268,3 +268,50 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-164-9
+        audio:
+          added: 2020-10-27T20:17:57.122Z
+          incomplete: true
+          external_playlist_id_hq: 1152486475
+          external_playlist_id_lq: 1152486487
+          reader: Jason R. Henderson
+          parts:
+            - title: Capítulo 1
+              external_id_hq: 918615958
+              external_id_lq: 918616096
+              filesize_hq: 50279069
+              filesize_lq: 26690430
+              seconds: 5326
+              chapters:
+                - 1
+            - title: Capítulo 2
+              external_id_hq: 918616387
+              external_id_lq: 918616522
+              filesize_hq: 44112295
+              filesize_lq: 25259965
+              seconds: 5040
+              chapters:
+                - 2
+            - title: Capítulo 3
+              external_id_hq: 918616636
+              external_id_lq: 918616711
+              filesize_hq: 28147924
+              filesize_lq: 14440961
+              seconds: 2876
+              chapters:
+                - 3
+            - title: Capítulo 4
+              external_id_hq: 918617014
+              external_id_lq: 918617203
+              filesize_hq: 46707363
+              filesize_lq: 23450855
+              seconds: 4678
+              chapters:
+                - 4
+            - title: Capítulo 5
+              external_id_hq: 918617548
+              external_id_lq: 918617695
+              filesize_hq: 34370602
+              filesize_lq: 17027214
+              seconds: 3393
+              chapters:
+                - 5
