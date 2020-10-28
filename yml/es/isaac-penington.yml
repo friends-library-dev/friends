@@ -315,3 +315,11 @@ documents:
               seconds: 3393
               chapters:
                 - 5
+            - title: Capítulo 6
+              external_id_hq: 919034632
+              external_id_lq: 919035892
+              filesize_hq: 29329591
+              filesize_lq: 14600830
+              seconds: 2908
+              chapters:
+                - 6
