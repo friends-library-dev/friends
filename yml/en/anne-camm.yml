@@ -1,0 +1,61 @@
+id: f8bf55d6-69b7-4286-8369-ecd9dda4506f
+name: Anne Camm
+slug: anne-camm
+gender: female
+# TODO change to real date
+added: 2020-10-28T17:18:24.035Z
+born: 1627
+died: 1705
+quotes:
+  - source: Anne Camm (on her deathbed)
+    text:
+      I have both a sight and sense of eternal rest with God in the world to come; and
+      therefore, I labour hard to be swallowed up in immortal life, and to be made
+      possessor of that rest which cannot be disturbed, where sorrow will cease forever. O
+      my soul!—this is your glorious portion, therefore bless the Lord and wait patiently
+      His appointed season.
+residences:
+  - city: Kendal
+    region: England
+description:
+  As a young woman, Anne Camm (1627-1705) connected herself with the Puritans, from an
+  apprehension that they were the most pious and consistent among the professors of
+  Christianity. But being desirous of finding a more perfect way, she joined herself to a
+  company of sincere seekers, some of whom were convinced by the powerful preaching of
+  George Fox, at Fairbank Chapel, in the year 1652. Coming thereby to more fully
+  understand and experience that baptism which is with the Holy Spirit and fire, Anne and
+  her husband Thomas (1641-1707) became valuable laborers in the Lord’s vineyard, freely
+  sacrificing their time and substance, the comforts of home and each other’s company, and
+  enduring many hardships and bitter sufferings for their testimony to the Truth.
+documents:
+  - id: a242c43b-2c05-43d8-836d-08efb90c7844
+    title: The Life of Anne and Thomas Camm
+    original_title:
+      A Short Account of the Life of Anne Camm, A Minister of the Gospel, In the Society
+      of Friends.
+    slug: life
+    filename: Life_of_Anne_Thomas_Camm
+    description:
+      As a young woman, Anne Camm (1627-1705) connected herself with the Puritans, from an
+      apprehension that they were the most pious and consistent among the professors of
+      Christianity. But being desirous of finding a more perfect way, she joined herself
+      to a company of sincere seekers, some of whom were convinced by the powerful
+      preaching of George Fox, at Fairbank Chapel, in the year 1652. Coming thereby to
+      more fully understand and experience that baptism which is with the Holy Spirit and
+      fire, Anne and her husband Thomas (1641-1707) became valuable laborers in the Lord’s
+      vineyard, freely sacrificing their time and substance, the comforts of home and each
+      other’s company, and enduring many hardships and bitter sufferings for their
+      testimony to the Truth.
+    partial_description:
+      A short account of the lives of Anne Camm and her husband Thomas Camm, giving a
+      summary relation of their faithful labors in the gospel, their sufferings for the
+      same, and their peaceful and triumphant exit out of this troublesome world.
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-252-3
+        draft: true
+      - type: original
+        isbn: 978-1-64476-253-0
+        draft: true
