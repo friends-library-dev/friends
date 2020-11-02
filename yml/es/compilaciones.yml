@@ -49,27 +49,27 @@ documents:
               external_id_hq: 783185221
               chapters:
                 - 0
-            - title: La Vida de Stephen Crisp
+            - title: Selección de la Vida de Stephen Crisp
               external_id_lq: 783183337
               external_id_hq: 783188566
               chapters:
                 - 1
-            - title: La Vida de John Richardson
+            - title: Selección de la Vida de John Richardson
               external_id_lq: 783183361
               external_id_hq: 783188599
               chapters:
                 - 2
-            - title: La Carta de Elizabeth Webb
+            - title: Selección de la Carta de Elizabeth Webb
               external_id_lq: 783183415
               external_id_hq: 783188656
               chapters:
                 - 3
-            - title: El Diario de John Burnyeat
+            - title: Selección del Diario de John Burnyeat
               external_id_lq: 797683438
               external_id_hq: 797687104
               chapters:
                 - 4
-            - title: La Vida de Joseph Pike
+            - title: Selección de la Vida de Joseph Pike
               external_id_lq: 808283821
               external_id_hq: 808306186
               chapters:
@@ -79,3 +79,8 @@ documents:
               external_id_lq: 861902434
               chapters:
                 - 6
+            - title: Selección de la Vida de John Crook
+              external_id_hq: 922206979
+              external_id_lq: 922207780
+              chapters:
+                - 7
