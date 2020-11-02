@@ -7,7 +7,7 @@ born: 1772
 died: 1852
 quotes:
   - source: William Evans
-    text:
+    text: >-
       Set off for Woodbury, and called to see our aged friend Rebecca Hubbs; confined from
       the effects of paralysis. She is an extraordinary instance of the power of Divine
       grace, in preparing one of little knowledge, who has been faithful to its teachings,
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: Woodstown
     region: New Jersey
-description:
+description: >-
   It is said of Rebecca Hubbs (1772-1852), that though she was not highly educated or
   gifted for literary conversation, and though she had a very humble view of herself in
   every way, yet her ministry savored richly of the power of the anointing, conveyed “not
@@ -29,7 +29,7 @@ documents:
     title: Journal of Rebecca Hubbs
     slug: journal
     filename: Journal_of_Rebecca_Hubbs
-    description:
+    description: >-
       It is said of Rebecca Hubbs (1772-1852), that though she was not highly educated or
       gifted for literary conversation, and though she had a very humble view of herself
       in every way, yet her ministry savored richly of the power of the anointing,
@@ -38,7 +38,7 @@ documents:
       weakness, and was used of the Lord in some remarkable ways, including a personal
       visit to president James Madison, to declare unto him the burden of word of the Lord
       that weighed heavily on her heart.
-    partial_description:
+    partial_description: >-
       A journal of the life of Rebecca Hubbs, showing how she was early awakened from the
       seductive vanities of time, willingly brought under the teaching and sanctifying
       power of grace, and made a worthy instrument in the Lord’s hand for the promotion of

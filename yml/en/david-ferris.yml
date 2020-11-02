@@ -7,14 +7,14 @@ born: 1707
 died: 1779
 quotes:
   - source: Samuel Neale
-    text:
+    text: >-
       David Ferris was with me in this journey oftentimes in cold weather, close exercise,
       and hard travelling; and his company was helpful as well as agreeable, he being a
       lover of Truth and its testimony.
 residences:
   - city: Wilmington
     region: Delaware
-description:
+description: >-
   David Ferris (1707-1779) was favored as a young child with a merciful visitation of the
   Lord whereby he was called out of the vanities of the world and enabled to see through
   the empty forms and superstitions of man-made religion. He was brought up a Presbyterian
@@ -28,11 +28,11 @@ documents:
     title: The Journal of David Ferris
     slug: journal
     filename: Journal_of_David_Ferris
-    original_title:
+    original_title: >-
       Memoirs of the Life of David Ferris An Approved Minister in the Society of Friends
       Late of Wilmington, in the State of Delaware
     published: 1825
-    description:
+    description: >-
       David Ferris (1707-1779) was favored as a young child with a merciful visitation of
       the Lord whereby he was called out of the vanities of the world and enabled to see
       through the empty forms and superstitions of man-made religion. He was brought up a
@@ -41,7 +41,7 @@ documents:
       knowledge of their doctrines or practices). Being timid and diffident by nature, he
       resisted the Lord’s call to ministry for many years, but at length gave up to preach
       the gospel and travel in the Lord’s service.
-    partial_description:
+    partial_description: >-
       A journal of the life David Ferris, recounting his remarkable convincement of
       Truth’s principles apart from any human instrumentality, his timidness in giving up
       to speak as a minister of the gospel, and his eventual growth and usefulness in the
@@ -55,7 +55,7 @@ documents:
         isbn: 978-1-64476-020-8
     related_documents:
       - id: c3428a4c-4a2f-480b-8612-f96e104914dd
-        description:
+        description: >-
           For about ten months of Samuel Neale’s lengthy visit to the American colonies,
           he had the agreeable company of David Ferris as a fellow-minister and traveling
           companion. Together they labored in the Lord’s vineyard among churches in

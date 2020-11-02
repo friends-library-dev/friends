@@ -7,7 +7,7 @@ born: 1727
 died: 1794
 quotes:
   - source: Sarah R. Grubb
-    text:
+    text: >-
       About two years ago, to my humble admiration, in a season of great proving of spirit
       it was so renewed and sealed to me (the inward attraction being so strong, and the
       evidence so undoubtable) that [Catherine Payton] was a faithful follower of the
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: Dudley
     region: England
-description:
+description: >-
   Catherine Payton (1727-1794 — also known by her married name, Catherine Phillips) was an
   eminently gifted minister in the Society of Friends, who traveled almost continually for
   forty years in the service of Truth throughout England, Ireland, and North America. Her
@@ -26,19 +26,19 @@ description:
 documents:
   - id: 0e7ca047-14ff-4883-8977-877d36632d11
     title: The Life and Letters of Catherine Payton
-    original_title:
-      'Memoirs of the Life of Catherine Phillips: To Which are Added Some of Her Epistles'
+    original_title: >-
+      Memoirs of the Life of Catherine Phillips: To Which are Added Some of Her Epistles
     published: 1797
     slug: life-and-letters
     filename: Life_and_Letters_of_Catherine_Payton
-    description:
+    description: >-
       Catherine Payton (1727-1794 — also known by her married name, Catherine Phillips)
       was an eminently gifted minister in the Society of Friends, who traveled almost
       continually for forty years in the service of Truth throughout England, Ireland, and
       North America. Her journal and letters clearly demonstrate a life entirely
       surrendered to the cross of Christ, a mind supplied with wisdom and utterance from
       on high, and a heart filled with love for God and for mankind.
-    partial_description:
+    partial_description: >-
       A journal of the life and Christian labors of Catherine Payton (Phillips),
       containing many letters of correspondence and an account of her ministerial travels
       in England, Ireland, Holland, Wales, and the American colonies.
@@ -52,13 +52,13 @@ documents:
         isbn: 978-1-64476-008-6
     related_documents:
       - id: 53f21a86-f264-460f-b879-3cd4a7ddf615
-        description:
+        description: >-
           For many years an intimate friendship and frequent correspondence was maintained
           between Samuel Fothergill and Catherine Payton. The Life of Samuel Fothergill
           contains numerous letters to and from Payton, as well as accounts of several
           experiences together in the work on the ministry.
       - id: 9bd10df3-80aa-4623-b66a-61e00f112b47
-        description:
+        description: >-
           Until her death in 1757, Mary Peisley (Neale) was a frequent traveling companion
           of Catherine Payton, and perhaps her most intimate friend in the work of the
           ministry.
@@ -66,7 +66,7 @@ documents:
     title: Letter to a Backslidden Brother
     slug: letter-to-brother
     filename: Letter_to_Backslidden_Brother
-    description:
+    description: >-
       Catherine Payton (1727-1794 — also known by her married name, Catherine Phillips)
       was an eminently gifted minister in the Society of Friends, who traveled almost
       continually for forty years in the service of Truth. Her journal and letters clearly
@@ -74,7 +74,7 @@ documents:
       wisdom and utterance from on high, and a heart filled with love for God and for
       mankind. This short extract contains a serious and convincing letter to her brother
       Henry, whom she feared had drifted away from the path of peace.
-    partial_description:
+    partial_description: >-
       This letter was written by Catherine Phillips in 1753 to her brother Henry Payton,
       who she feared had “strayed from the path of peace and safety, to seek satisfaction
       in the grasp of empty bubbles, which had assumed the form, in his sight, of
@@ -88,7 +88,7 @@ documents:
     title: Selection from the Life and Letters of Catherine Payton
     slug: life-and-letters-selection
     filename: Selection_Life_and_Letters_of_Catherine_Payton
-    description:
+    description: >-
       Catherine Payton (1727-1794, also known by her married name, Catherine Phillips) was
       a well-known and highly-esteemed minister in the Society of Friends, whose labors in
       the gospel turned many from  darkness to light, and from the power of Satan to God.
@@ -97,7 +97,7 @@ documents:
       and her call to the ministry, followed by a sample of her letters which manifest her
       extraordinary gift of administering heavenly counsel and admonition to a variety of
       spiritual conditions.
-    partial_description:
+    partial_description: >-
       A selection from the Life and Letters of Catherine Payton (1727-1794, also known by
       her married name, Catherine Phillips) containing a biographical narrative of her
       upbringing and early surrender to the Lord, along with four remarkable letters,
@@ -116,8 +116,5 @@ documents:
             - title: Selection from the Life and Letters of Catherine Payton
               external_id_hq: 862574746
               external_id_lq: 862574338
-              filesize_hq: 75939921
-              filesize_lq: 20552922
-              seconds: 4110
               chapters:
                 - 0

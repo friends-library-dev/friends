@@ -7,14 +7,14 @@ born: 1670
 died: 1704
 quotes:
   - source: Samuel Bownas
-    text:
+    text: >-
       I set out, having in company a young man who had been bred at college, whose name
       was Samuel Crisp; a meek spirited youth, having received the knowledge of the truth
       the right way.
 residences:
   - city: London
     region: England
-description:
+description: >-
   Samuel Crisp (1670—1704) was a brilliant young priest in the Church of England whose
   hunger for truth and righteousness led him to leave off all formal, shadowy religion and
   join with the despised people called Quakers to worship God in spirit and truth. This
@@ -27,10 +27,10 @@ documents:
     title: Life and Letters of Samuel Crisp
     slug: life-and-letters
     filename: Life_and_Letters_of_Samuel_Crisp
-    original_title:
+    original_title: >-
       Letters and Extracts from a Treatise Written by Samuel Crisp; to which is prefixed a
       short Memoir of His Life.
-    description:
+    description: >-
       Samuel Crisp (1670—1704) was a brilliant young priest in the Church of England whose
       hunger for truth and righteousness led him to leave off all formal, shadowy religion
       and join with the despised people called Quakers to worship God in spirit and truth.
@@ -38,7 +38,7 @@ documents:
       reasons for leaving the national worship, and describing how the Lord revealed His
       Son in him, “at the brightness of whose appearance the clouds are scattered and the
       shadows flee away.”
-    partial_description:
+    partial_description: >-
       Three valuable letters of Samuel Crisp, with extracts from his work entitled “A
       Vindication of the People Called Quakers,” to which is prefixed a short memoir of
       his life.
@@ -59,8 +59,5 @@ documents:
             - title: Life and Letters of Samuel Crisp
               external_id_hq: 868065337
               external_id_lq: 868064755
-              filesize_hq: 77365312
-              filesize_lq: 20464758
-              seconds: 4092
               chapters:
                 - 0

@@ -7,7 +7,7 @@ born: 1755
 died: 1845
 quotes:
   - source: Sarah L. Grubb (in a letter to Mary Capper)
-    text:
+    text: >-
       Oh, how truly cheering it is to witness and contemplate the state in which Divine
       Goodness has kept you to this day! I can look back to my childhood, when I first saw
       with wonder the tears flowing from your eyes in meetings; when you were an example
@@ -15,7 +15,7 @@ quotes:
 residences:
   - city: Birmingham
     region: England
-description:
+description: >-
   Mary Capper (1755-1845) was raised up in the strict observance of the rites and
   ceremonies of the church of England, but found her heart longing for a greater
   experience of the inward life and power of the gospel. Upon being convinced of the
@@ -29,7 +29,7 @@ documents:
     title: A Memoir of Mary Capper
     slug: memoir
     filename: Memoir_of_Mary_Capper
-    description:
+    description: >-
       Mary Capper (1755-1845) was raised up in the strict observance of the rites and
       ceremonies of the church of England, but found her heart longing for a greater
       experience of the inward life and power of the gospel. Upon being convinced of the
@@ -39,7 +39,7 @@ documents:
       requirements, she continued in faithful adherence to the way of the cross, and in
       time could boldly testify that “every sacrifice made in obedience, was rewarded a
       hundred fold.”
-    partial_description:
+    partial_description: >-
       The journal and letters of Mary Capper, relating her early awakening to the
       convictions of the Spirit, her expulsion from home for having embraced Friend’s
       principles, her steady growth in life of the gospel, and her subsequent usefulness

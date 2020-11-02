@@ -18,19 +18,6 @@ export default class AudioPart {
   public get title(): string {
     return this.data.title;
   }
-
-  public get seconds(): number {
-    return this.data.seconds;
-  }
-
-  public get filesizeHq(): number {
-    return this.data.filesize_hq;
-  }
-
-  public get filesizeLq(): number {
-    return this.data.filesize_lq;
-  }
-
   public get externalIdHq(): number {
     return this.data.external_id_hq;
   }
@@ -45,9 +32,6 @@ export default class AudioPart {
 
   public toJSON(): Omit<AudioPart, 'audio' | 'toJSON'> {
     return {
-      seconds: this.seconds,
-      filesizeHq: this.filesizeHq,
-      filesizeLq: this.filesizeLq,
       externalIdHq: this.externalIdHq,
       externalIdLq: this.externalIdLq,
       title: this.title,

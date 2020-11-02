@@ -7,7 +7,7 @@ born: 1667
 died: 1753
 quotes:
   - source: Daniel Stanton
-    text:
+    text: >-
       I went to that dear ancient Friend John Richardson’s, who had been twice to America
       on religious visits, and had taken much pains in his day and time for the spreading
       and promoting the gospel of peace and salvation in the earth. Although he was
@@ -15,7 +15,7 @@ quotes:
       heart was refreshed in the unity and fellowship of divine life, in being in his
       company.
   - source: Samuel Fothergill
-    text:
+    text: >-
       Next day I was at Castleton. I spent an hour with that emblem of innocence, and in
       the afternoon rode ten miles, to the house where the ark rests, i. e., John
       Richardson’s, who went with me next day to Pickering, and I went back with him to
@@ -23,7 +23,7 @@ quotes:
 residences:
   - city: York
     region: England
-description:
+description: >-
   The life of John Richardson (1667-1753) is a powerful confirmation of Jesus’ words, that
   heavenly things “are hidden from the wise and prudent and revealed unto babes,” and that
   His “power is made perfect in weakness.” Though starting out in life a poor farm boy
@@ -39,7 +39,7 @@ documents:
     title: Selection from the Journal of John Richardson
     slug: journal-selection
     filename: Selection_Journal_of_John_Richardson
-    description:
+    description: >-
       The life of John Richardson (1667-1753) is a powerful confirmation of Jesus’ words,
       that heavenly things “are hidden from the wise and prudent and revealed unto babes,”
       and that His “power is made perfect in weakness.” Though starting out in life a poor
@@ -48,7 +48,7 @@ documents:
       mysteries, but came to experience his garments washed, his mind renewed, and his
       heart changed. This instructive portion is an excerpt from his journal relating his
       early years, spiritual growth, and call to ministry.
-    partial_description:
+    partial_description: >-
       A selection from the journal of that servant of Jesus Christ, John Richardson,
       giving a relation of his trials and exercises in his youth, his remarkable spiritual
       experiences, and his first services in the work of the Ministry.
@@ -65,20 +65,17 @@ documents:
             - title: Selection from the Journal of John Richardson
               external_id_hq: 748335568
               external_id_lq: 748335253
-              filesize_hq: 59460459
-              filesize_lq: 13252482
-              seconds: 3312
               chapters:
                 - 0
   - id: 1e81ab5f-4f72-4570-93a1-e446e1e70267
     title: The Journal of John Richardson
     slug: journal
-    original_title:
+    original_title: >-
       An Account of the Life of that Ancient Servant of Jesus Christ, John Richardson,
       Giving a Relation of his Trials and Exercises in his Youth, and his services in the
       Work of the Ministry, in England, Ireland, America, etc.
     filename: Journal_of_John_Richardson
-    description:
+    description: >-
       The life of John Richardson (1667-1753) is a powerful confirmation of Jesus’ words,
       that heavenly things “are hidden from the wise and prudent and revealed unto babes,”
       and that His “power is made perfect in weakness.” Though starting out in life a poor
@@ -88,7 +85,7 @@ documents:
       heart changed. Originally from England, he travelled as a minister for most of his
       adult life, twice visiting the American colonies, where he triumphantly defended the
       truth against “that sad apostate” George Keith.
-    partial_description:
+    partial_description: >-
       An account of the life of that servant of Jesus Christ, John Richardson, giving a
       relation of his trials and exercises in his youth, his remarkable spiritual
       experiences, and his services in the work of the Ministry in England, Ireland, and

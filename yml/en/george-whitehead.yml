@@ -8,7 +8,7 @@ died: 1723
 residences:
   - city: Sedbergh
     region: England
-description:
+description: >-
   George Whitehead (1636-1723) was one of the most well-known and influential ministers in
   the early Society of Friends. He was convinced of the Truth when only 17 years old, and
   through faithfulness grew quickly in the life and power of Christ. In his services for
@@ -23,7 +23,7 @@ documents:
     title: Selection from the Journal of George Whitehead
     slug: journal-selection
     filename: Selection_Journal_of_George_Whitehead
-    description:
+    description: >-
       George Whitehead (1636-1723) was one of the most well-known and influential
       ministers among the early Society of Friends. He was convinced of the Truth when
       only 17 years old, and through faithfulness grew quickly in the life and power of
@@ -33,7 +33,7 @@ documents:
       pillar and elder in the church of God, constantly laboring for the advancement of
       Truth and many times appearing before kings and magistrates to plead the cause of
       his persecuted brethren.
-    partial_description:
+    partial_description: >-
       An excerpt from the Journal of George Whitehead, relating his honest pursuit of
       virtue and the true knowledge of God from his youth, the inward experience of the
       Lord’s sanctifying work in his heart, and the beginning of is ministerial labors,
@@ -52,22 +52,19 @@ documents:
             - title: Selection from the Journal of George Whitehead
               external_id_hq: 550690464
               external_id_lq: 550690539
-              filesize_hq: 87176033
-              filesize_lq: 19392825
-              seconds: 4848
               chapters:
                 - 0
   - id: eca687be-9a29-49d3-8394-2ed21b85f9a3
     title: The Christian Progress of George Whitehead
     published: 1725
-    original_title:
+    original_title: >-
       The Christian Progress of that Ancient Servant and Minister of Jesus Christ, George
       Whitehead. Historically Relating His Experience, Ministry, Sufferings, Trials and
       Service, in Defence of the Truth, and God’s Persecuted People, Commonly Called
       Quakers.
     slug: journal
     filename: Christian_Progress_of_George_Whitehead
-    description:
+    description: >-
       George Whitehead (1636-1723) was one of the most well-known and influential
       ministers in the early Society of Friends. He was convinced of the Truth when only
       17 years old, and through faithfulness grew quickly in the life and power of Christ.
@@ -77,7 +74,7 @@ documents:
       pillar and elder in the church of God, constantly laboring for the advancement of
       Truth and many times appearing before kings and magistrates to plead the cause of
       his persecuted brethren.
-    partial_description:
+    partial_description: >-
       The Journal of George Whitehead, relating his pursuit of the living God from a
       child, his growth in grace and usefulness to the church, and his many appearances
       before kings and magistrates to plead the cause of his persecuted brethren.
@@ -86,17 +83,17 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-032-1
-  - id: 7ce161fc-7ca9-47fc-aac9-929eaad5480a # change to existing ID above ^
+  - id: 7ce161fc-7ca9-47fc-aac9-929eaad5480a
     title: The Journal of George Whitehead
     published: 1725
-    original_title:
+    original_title: >-
       The Christian Progress of that Ancient Servant and Minister of Jesus Christ, George
       Whitehead. Historically Relating His Experience, Ministry, Sufferings, Trials and
       Service, in Defence of the Truth, and God’s Persecuted People, Commonly Called
       Quakers.
-    slug: journal-temp # change to just `journal`
+    slug: journal-temp
     filename: Journal_of_George_Whitehead
-    description:
+    description: >-
       George Whitehead (1636-1723) was one of the most well-known and influential
       ministers in the early Society of Friends. He was convinced of the Truth when only
       17 years old, and through faithfulness grew quickly in the life and power of Christ.
@@ -106,7 +103,7 @@ documents:
       pillar and elder in the church of God, constantly laboring for the advancement of
       Truth and many times appearing before kings and magistrates to plead the cause of
       his persecuted brethren.
-    partial_description:
+    partial_description: >-
       The Journal of George Whitehead, relating his pursuit of the living God from a
       child, his growth in grace and usefulness to the church, and his many appearances
       before kings and magistrates to plead the cause of his persecuted brethren.
@@ -118,4 +115,4 @@ documents:
         draft: true
       - type: modernized
         draft: true
-        isbn: 978-1-64476-242-4 # change for existing modernized ISBN above ^
+        isbn: 978-1-64476-242-4

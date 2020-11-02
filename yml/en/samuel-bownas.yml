@@ -7,14 +7,14 @@ born: 1676
 died: 1753
 quotes:
   - source: Thomas Story
-    text:
+    text: >-
       Our friend Samuel Bownas, that able and experienced minister of the gospel, being
       there, I was also comforted in his ministry, as were many more both there and at
       Bristol.
 residences:
   - city: Bridport
     region: England
-description:
+description: >-
   As a young man, Samuel Bownas (1676-1753) was awakened to his lost condition through the
   powerful ministry of a young woman named Anne Wilson who, pointing to him in a meeting,
   told him he was but “a Quaker by tradition,” and a stranger to the transforming power of
@@ -29,12 +29,12 @@ description:
 documents:
   - id: 51303b80-b6c1-4d45-a740-bf3eaf0767e4
     title: Life of Samuel Bownas
-    original_title:
+    original_title: >-
       An Account of the Life, Travels and Christian Experiences of Samuel Bownas, a
       Minister in the Society of Friends
     slug: journal
     filename: Life_of_Samuel_Bownas
-    description:
+    description: >-
       As a young man, Samuel Bownas (1676-1753) was awakened to his lost condition through
       the powerful ministry of a young woman named Anne Wilson who, pointing to him in a
       meeting, told him he was but “a Quaker by tradition,” and a stranger to the
@@ -47,7 +47,7 @@ documents:
       understanding concerning the work of the ministry, and became the author of a
       highly-regarded book entitled, “A Description of the Qualifications Necessary to a
       Gospel Minister.”
-    partial_description:
+    partial_description: >-
       A journal of the life, travels, and Christian experiences of Samuel Bownas, giving
       an account of his sudden awakening to the truth of the gospel, his call to the
       ministry, his imprisonment in America, and his long and fruitful life in the service

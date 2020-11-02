@@ -7,12 +7,12 @@ born: 1628
 died: 1692
 quotes:
   - source: Samuel Tuke
-    text:
+    text: >-
       There was perhaps, with the exception of George Fox, no individual who had upon him
       a greater share of the weight and charge of the new Society [of Friends] than
       Stephen Crisp.
   - source: Stephen Crisp
-    text:
+    text: >-
       For though it is true that none can obey the Lord but by His grace and power given
       unto them, yet He has made His grace—-even that grace which brings salvation—-appear
       unto all men, as is said in Titus 2:11. And this grace has appeared unto you, and in
@@ -21,7 +21,7 @@ quotes:
 residences:
   - city: Colchester
     region: England
-description:
+description: >-
   Stephen Crisp (1628-1692) is an example of one whose desperate search for Truth (lasting
   twenty long years) at last brought him to an experiential knowledge of the grace and
   truth that are in Jesus Christ. Having found the Pearl of great price, he sold all to
@@ -36,7 +36,7 @@ documents:
     title: Selection from the Journal of Stephen Crisp
     slug: journal-selection
     filename: Selection_Journal_of_Stephen_Crisp
-    description:
+    description: >-
       Stephen Crisp (1628-1692) is an example of one whose desperate search for Truth
       (lasting twenty long years) at last brought him to an experiential knowledge of the
       grace and truth that are in Jesus Christ. Having found the Pearl of great price, he
@@ -45,7 +45,7 @@ documents:
       the power and wisdom of the Spirit, traveling throughout England, Scotland, Holland,
       and Germany, and writing many valuable epistles and treatises to the church in both
       the English and Dutch languages.
-    partial_description:
+    partial_description: >-
       A selection from the journal of Stephen Crisp, giving an account of his strong
       desires after purity when young, his convincement of the truth through the ministry
       of James Parnell, and his subsequent ministry and fatherly oversight in the early
@@ -64,9 +64,6 @@ documents:
             - title: Journal of Stephen Crisp
               external_id_hq: 748336360
               external_id_lq: 748335982
-              filesize_hq: 56720508
-              filesize_lq: 12793347
-              seconds: 3197
               chapters:
                 - 0
   - id: 2eb862e1-cc3e-4588-a504-98db07a85474
@@ -74,13 +71,13 @@ documents:
     title: A Plain Pathway
     slug: plain-pathway
     filename: Plain_Pathway
-    description:
+    description: >-
       The Plain Pathway is a short treatise written by Stephen Crisp concerning the
       appearance of Christ’s light in the heart. In the words of the author, it was
       written “for the answering of all doubts and objections which arise against Christ’s
       light and truth in the inward parts, by which many are kept from obedience, and so
       from peace to their panting souls.”
-    partial_description:
+    partial_description: >-
       A treatise describing the nature of Christ’s appearance in the heart as a reprover
       for sin and transgression, and the necessity and benefit of submitting to His light
       and grace in order to be washed from within, and transformed into His likeness.
@@ -97,9 +94,6 @@ documents:
             - title: A Plain Pathway
               external_id_hq: 333353574
               external_id_lq: 333353583
-              filesize_hq: 45647137
-              filesize_lq: 15094302
-              seconds: 2515
               chapters:
                 - 0
   - id: 2e80b149-e111-4c8c-ab7a-c5e1ed3861f4
@@ -107,14 +101,14 @@ documents:
     title: A Short History of a Long Travel from Babylon to Bethel
     slug: babylon-to-bethel
     filename: Babylon_to_Bethel
-    description:
+    description: >-
       In this short allegory, Stephen Crisp relates a young man’s desperate search for the
       true house of God. Beginning his journey with genuine hunger and zeal, he is soon
       lost in a labyrinth of false religion and man-made imitations. But feeling
       dissatisfied with Babylon’s many images and facades, he is met by a new Guide who
       enlightens his path, and leads him through deserts, bogs, and dangerous valleys to
       the true dwelling place of God.
-    partial_description:
+    partial_description: >-
       A short but instructive allegory by Stephen Crisp written to illustrate the perilous
       journey of the Christian soul from Babylon (the man-made city of religious
       confusion) to Bethel, the true dwelling place of God.
@@ -130,9 +124,6 @@ documents:
             - title: A Short History of a Long Travel from Babylon to Bethel
               external_id_hq: 436511247
               external_id_lq: 436511268
-              filesize_hq: 40841822
-              filesize_lq: 8860985
-              seconds: 2215
               chapters:
                 - 0
       - type: original
@@ -141,7 +132,7 @@ documents:
     title: Complete Works of Stephen Crisp
     slug: works
     filename: Works_of_Stephen_Crisp
-    description:
+    description: >-
       Stephen Crisp (1628-1692) is an example of one whose desperate search for Truth
       (lasting twenty long years) at last brought him to an experiential knowledge of the
       grace and truth that are in Jesus Christ. Having found the Pearl of great price, he
@@ -150,7 +141,7 @@ documents:
       the power and wisdom of the Spirit, traveling throughout England, Scotland, Holland,
       and Germany, and writing many valuable epistles and treatises to the church in both
       the English and Dutch languages.
-    partial_description:
+    partial_description: >-
       The complete works of Stephen Crisp, including his full journal, a collection of
       letters to individuals and epistles to churches, various papers, treatises, and
       defenses of Friend’s principles, and testimonies to his faithfulness in the work of

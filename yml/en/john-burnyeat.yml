@@ -7,10 +7,10 @@ born: 1631
 died: 1690
 quotes:
   - source: George Fox
-    text:
-      '[John Burnyeat] was a faithful friend and brother, and an able minister of Christ
+    text: >-
+      [John Burnyeat] was a faithful friend and brother, and an able minister of Christ
       Jesus…an elder, and a pillar in the house of God…a true apostle of Jesus Christ, who
-      preached Him freely, both by sea and land.'
+      preached Him freely, both by sea and land.
 residences:
   - city: Broughton
     region: England
@@ -22,7 +22,7 @@ residences:
     durations:
       - start: 1673
         end: 1690
-description:
+description: >-
   John Burnyeat (1631-1690) was an elder and pillar in the early Society of Friends, whose
   powerful ministry turned many from darkness to light, and from the power of Satan to the
   power of God. Having been awakened to see the fallacy of an imputed righteousness that
@@ -38,7 +38,7 @@ documents:
     title: Selection from the Journal of John Burnyeat
     slug: journal-selection
     filename: Selection_Journal_of_John_Burnyeat
-    description:
+    description: >-
       John Burnyeat (1631-1690) was an elder and pillar in the early Society of Friends,
       whose powerful ministry turned many from darkness to light, and from the power of
       Satan to the power of God. Having been awakened to see the fallacy of an imputed
@@ -49,7 +49,7 @@ documents:
       for His faithfulness to Jesus Christ. Truly it can be said of John Burnyeat that he
       followed the Lord fully in his generation, putting his hand to the plow and never
       looking back.
-    partial_description:
+    partial_description: >-
       A selection from the Journal and Letters of John Burnyeat, showing how the Lord
       prepared him for his extensive work in the ministry and sent him forth in the power
       of the Spirit to preach the gospel in England, Ireland, Barbados, and the American
@@ -67,20 +67,17 @@ documents:
             - title: Selection from the Journal of John Burnyeat
               external_id_hq: 748334119
               external_id_lq: 748333786
-              filesize_hq: 64945342
-              filesize_lq: 14042525
-              seconds: 3510
               chapters:
                 - 0
   - id: 2bb79cd9-88c3-4801-ae66-ac70970c97bc
     title: The Journal and Letters of John Burnyeat
     slug: journal-letters
     published: 1691
-    original_title:
+    original_title: >-
       The Truth Exalted In the Writings of That Eminent and Faithful Servant of Christ,
       John Burnyeat.
     filename: Unabridged_Journal_of_John_Burnyeat
-    description:
+    description: >-
       John Burnyeat (1631-1690) was an elder and pillar in the early Society of Friends,
       whose powerful ministry turned many from darkness to light, and from the power of
       Satan to the power of God. Having been awakened to see the fallacy of an imputed
@@ -91,7 +88,7 @@ documents:
       for His faithfulness to Jesus Christ. Truly it can be said of John Burnyeat that he
       followed the Lord fully in his generation, putting his hand to the plow and never
       looking back.
-    partial_description:
+    partial_description: >-
       The Journal and Letters of John Burnyeat, showing how the Lord prepared him for his
       extensive work in the ministry and sent him forth in the power of the Spirit to
       preach the gospel in England, Ireland, Barbados, and the American Colonies.

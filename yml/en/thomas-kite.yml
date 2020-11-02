@@ -7,7 +7,7 @@ born: 1785
 died: 1845
 quotes:
   - source: Thomas Kite
-    text:
+    text: >-
       We were not sent into the world to amuse ourselves, nor to accumulate earthly
       treasures, nor to gratify our own wills, nor the will of others, but to work out our
       own salvation with fear and trembling, and to stand devoted to the Lord’s cause in
@@ -15,7 +15,7 @@ quotes:
 residences:
   - city: Philadelphia
     region: Pennsylvania
-description:
+description: >-
   Thomas Kite (1785-1845) lived in Philadelphia, Pennsylvania, and was a printer by trade.
   His early years, he says, “were exposed to the influence of bad example, and were marked
   by many follies,” yet the Lord followed him with the convictions of His Spirit and at
@@ -29,11 +29,11 @@ documents:
   - id: c960e64d-3daf-410d-b028-cbf3d2cb1f77
     title: The Life and Letters of Thomas Kite
     slug: life-and-letters
-    original_title:
+    original_title: >-
       Memoirs And Letters Of Thomas Kite, A Minister Of The Gospel In The Society Of
       Friends. Prepared By His Family.
     filename: Life_and_Letters_of_Thomas_Kite
-    description:
+    description: >-
       Thomas Kite (1785-1845) lived in Philadelphia, Pennsylvania, and was a printer by
       trade. His early years, he says, “were exposed to the influence of bad example, and
       were marked by many follies,” yet the Lord followed him with the convictions of His
@@ -43,7 +43,7 @@ documents:
       of both childlike humility and unflinching boldness, contending earnestly for the
       faith which was once for all delivered to the saints, and remaining faithful to it
       during the troublesome times of the Hicksite and Gurneyite separations.
-    partial_description:
+    partial_description: >-
       The journal and letters of Thomas Kite, giving a relation of his growth in the
       truth, his steadfastness in contending for the original principals and practices of
       Friends, and his labors in the ministry during a time of trouble and declension in

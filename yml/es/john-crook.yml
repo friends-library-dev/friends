@@ -7,7 +7,7 @@ born: 1617
 died: 1699
 quotes:
   - source: John Crook
-    text:
+    text: >-
       Este Santo Espíritu ha sido para mí tanto comida como bebida, tal como la Roca de la
       antigüedad que seguía a los israelitas. Diez veces (según recuerdo) he estado preso,
       y todo por el bien de una buena consciencia delante de mi Dios. Sin embargo, este
@@ -18,7 +18,7 @@ quotes:
 residences:
   - city: London
     region: England
-description:
+description: >-
   Como muchos otros antiguos Cuáqueros, John Crook (1617-1699) era un buscador de la
   verdad desde temprana edad. Fue educado en Londres, y por un tiempo ocupó el puesto de
   Juez de la Paz en Bedfordshire, pero cuando fue convencido de la verdad en 1654 (por
@@ -31,7 +31,7 @@ documents:
     title: Selección de la Vida de John Crook
     slug: seleccion-de-la-vida
     filename: Seleccion_de_la_Vida_de_John_Crook
-    description:
+    description: >-
       Como muchos otros antiguos Cuáqueros, John Crook (1617-1699) era un buscador de la
       verdad desde temprana edad. Fue educado en Londres, y por un tiempo ocupó el puesto
       de Juez de la Paz en Bedfordshire, pero cuando fue convencido de la verdad en 1654
@@ -41,7 +41,7 @@ documents:
       relata su búsqueda de Dios a temprana edad, su convencimiento de la verdad y su
       crecimiento en ella, y algunas de sus labores ministeriales en la antigua Sociedad
       de Amigos.
-    partial_description:
+    partial_description: >-
       Un extracto del diario y escritos de John Crook, que relata su sed de santidad en su
       juventud, su convencimiento de la verdad y su crecimiento en ella, y algunas de sus
       labores ministeriales en la antigua Sociedad de Amigos.

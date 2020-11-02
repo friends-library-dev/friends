@@ -7,14 +7,14 @@ born: 1750
 died: 1804
 quotes:
   - source: Jonathan Evans
-    text:
+    text: >-
       I was intimately acquainted with William Savery, and esteemed him as a brother
       beloved. His submission to the power of Divine love in his own heart, by which he
       was brought out of sin and corruption, and his indefatigable devotion to the cause
       of Christ, present an instructive example, calculated to invite old and young to
       diligence and faithfulness in the path of manifested duty.
   - source: Thomas Scattergood
-    text:
+    text: >-
       William Savery closed the meeting in solemn prayer, in which I united with tears,
       and perhaps I never felt greater love for him at any time in my life than in this
       meeting. I spent the evening with him, and took an affectionate farewell; and this
@@ -24,7 +24,7 @@ quotes:
 residences:
   - city: Philadelphia
     region: Pennsylvania
-description:
+description: >-
   Though raised by godly parents, William Savery (1750-1804) turned aside from the path of
   peace and joined in company with vain and careless youth until the twenty-eighth year of
   his age. But finding his heart pierced by conviction at a meeting of Friends, he was so
@@ -38,13 +38,13 @@ description:
 documents:
   - id: 25755480-7f1c-4f7f-8900-3f472001fae4
     title: The Journal of William Savery
-    original_title:
+    original_title: >-
       A Journal of the Life, Travels and Religious Labours of William Savery, A Minister
       of the Gospel of Christ, In the Society of Friends, Late of Philadelphia Compiled
       From His Original Memoranda, by Jonathan Evans.
     slug: journal
     filename: Journal_of_William_Savery
-    description:
+    description: >-
       Though raised by godly parents, William Savery (1750-1804) turned aside from the
       path of peace and joined in company with vain and careless youth until the
       twenty-eighth year of his age. But finding his heart pierced by conviction at a
@@ -56,7 +56,7 @@ documents:
       accompanying them in their treaties and negotiations with the United States
       government, doing all in his power to ensure that they were not misled or
       mistreated.
-    partial_description:
+    partial_description: >-
       A journal of the life, travels, and Christian labors of William Savery, giving a
       relation of his awakening to truth when twenty-eight years of age, his call to the
       ministry, his involvement as an advocate for the Native Americans, and his services

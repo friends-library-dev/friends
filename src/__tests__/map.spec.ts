@@ -39,9 +39,6 @@ describe(`friendFromJS()`, () => {
                     title: `Part 1`,
                     external_id_hq: 123,
                     external_id_lq: 234,
-                    filesize_hq: 3345,
-                    filesize_lq: 2234,
-                    seconds: 33,
                     chapters: [0, 1, 2],
                   },
                 ],
@@ -127,11 +124,8 @@ describe(`friendFromJS()`, () => {
     const part = friendFromJS(js).documents[0].editions[0].audio!.parts[0];
 
     expect(part.title).toBe(`Part 1`);
-    expect(part.seconds).toBe(33);
     expect(part.externalIdHq).toBe(123);
     expect(part.externalIdLq).toBe(234);
-    expect(part.filesizeHq).toBe(3345);
-    expect(part.filesizeLq).toBe(2234);
     expect(part.chapters).toEqual([0, 1, 2]);
   });
 

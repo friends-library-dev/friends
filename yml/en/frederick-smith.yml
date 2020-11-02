@@ -8,7 +8,7 @@ died: 1823
 residences:
   - city: London
     region: England
-description:
+description: >-
   Frederick Smith (1757-1823) was not born into the Society of Friends, and according to
   his own account, spent the first part of his life in great rebellion against both the
   convictions of the Spirit and the admonitions of his parents. By nine years of age, he
@@ -24,10 +24,10 @@ documents:
     title: The Life of Frederick Smith
     slug: life
     filename: Life_of_Frederick_Smith
-    original_title:
+    original_title: >-
       Memoirs of Frederick Smith Who Died at Croydon in Surrey The 22nd of The Fourth
       Month, 1823.
-    description:
+    description: >-
       Frederick Smith (1757-1823) was not born into the Society of Friends, and according
       to his own account, spent the first part of his life in great rebellion against both
       the convictions of the Spirit and the admonitions of his parents. By nine years of
@@ -38,7 +38,7 @@ documents:
       into many “agonizing tortures” in both family and career, and into judgments mixed
       with mercy in the depths of his own heart, his life became an undeniable instance of
       the “washing of regeneration and renewing of the Holy Spirit.”
-    partial_description:
+    partial_description: >-
       The journal of Frederick Smith, giving an account of his early rebellion against the
       convictions of the  Spirit and the admonitions of his parents, his awakening out of
       the sleep of sin to follow the Lord with uncompromising conviction, and the various

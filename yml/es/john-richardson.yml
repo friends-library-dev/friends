@@ -8,7 +8,7 @@ died: 1753
 residences:
   - city: York
     region: England
-description:
+description: >-
   La vida de John Richardson (1667-1753) es una poderosa confirmación de las palabras de
   Jesús, que las cosas celestiales “están escondidas de los sabios y de los entendidos, y
   son reveladas a los niños,” y que Su “poder se perfecciona en la debilidad.” Aunque
@@ -22,14 +22,14 @@ description:
   contra de “ese lamentable apóstata” George Keith.
 quotes:
   - source: Daniel Stanton
-    text:
+    text: >-
       Fui a visitar a ese querido y antiguo Amigo John Richardson, quien visitó dos veces
       América por causa de la verdad, y se esforzó demasiado durante su día por esparcir y
       promover el evangelio de paz y salvación en la tierra. Aunque era anciano y débil de
       cuerpo, él estaba fresco y vivo en la vida de la religión, y cuando estuve con él,
       mi corazón fue refrescado en la unidad y comunión de la vida divina.
   - source: Samuel Fothergill
-    text:
+    text: >-
       Al siguiente día estuve en Castleton. Pasé una hora con ese emblema de inocencia, y
       en la tarde cabalgué diez millas hacia la casa donde reposa el arca, es decir, a la
       casa de John Richardson, quien al siguiente día fue conmigo a Pickering, y luego
@@ -40,7 +40,7 @@ documents:
     title: Selección del Diario de John Richardson
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_John_Richardson
-    description:
+    description: >-
       La vida de John Richardson (1667-1753) es una poderosa confirmación de las palabras
       de Jesús, que las cosas celestiales “están escondidas de los sabios y de los
       entendidos, y son reveladas a los niños,” y que Su “poder se perfecciona en la
@@ -50,7 +50,7 @@ documents:
       experimentar sus ropas lavadas, su mente renovada y su corazón transformado. Esta
       instructiva porción es un extracto de su diario que relata sus primeros años, su
       crecimiento espiritual y su llamado al ministerio.
-    partial_description:
+    partial_description: >-
       Un extracto del diario del siervo de Dios, John Richardson, que contiene un relato
       de las pruebas y tribulaciones de su juventud, sus increíbles experiencias
       espirituales, y sus primeros servicios en la obra del Ministerio.
@@ -66,8 +66,5 @@ documents:
             - title: Selección del Diario de John Richardson
               external_id_hq: 809099992
               external_id_lq: 809098726
-              filesize_hq: 63286490
-              filesize_lq: 15032526
-              seconds: 3757
               chapters:
                 - 0

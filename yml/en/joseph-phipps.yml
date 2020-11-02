@@ -7,7 +7,7 @@ born: 1708
 died: 1787
 quotes:
   - source: Joseph Phipps
-    text:
+    text: >-
       Perfect redemption then consists, first, in paying the price of ransom; and second,
       in bringing out of bondage, and setting the prisoner at liberty. Our Savior paid the
       first by His suffering and sacrifice, and He performs the last by the effectual
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: Norwich
     region: England
-description:
+description: >-
   Though a shoe maker by trade, Joseph Phipps (1708–1787) was the author of several
   scholarly publications explaining and defending the tenets of Early Friends. In 1772, in
   response to a critical publication by a man named Samuel Newton, Phipps wrote “The
@@ -31,13 +31,13 @@ documents:
     title: The Original and Present State of Man
     slug: original-and-present-state-of-man
     filename: Original_and_Present_State_of_Man
-    original_title:
+    original_title: >-
       The Original, and Present State of Man, briefly considered; wherein is shewn, the
       Nature of his Fall, and the Necessity, Means, and Manner of his Restoration, through
       the Sacrifice of Christ, and the sensible Operation of that Divine Principle of
       Grace and Truth, held forth to the World by the People called Quakers. To which are
       added, Some Remarks on the Arguments of Samuel Newton, of Norwich.
-    description:
+    description: >-
       Though a shoe maker by trade, Joseph Phipps (1708–1787) was the author of several
       scholarly publications explaining and defending the tenets of Early Friends. In
       1772, in response to a critical publication by a man named Samuel Newton, Phipps
@@ -47,7 +47,7 @@ documents:
       “The nature of man’s fall, and the necessity, means, and manner of his restoration
       through the sacrifice of Christ, and the discernible operation of that Divine Spirit
       of grace and truth.”
-    partial_description:
+    partial_description: >-
       The Original and Present State of Man, demonstrating the nature of man’s fall, the
       necessity, means, and manner of his restoration through the sacrifice of Christ, and
       the discernible operation of that Divine Spirit of grace and truth.
@@ -66,9 +66,6 @@ documents:
             - title: Part 1
               external_id_hq: 314958747
               external_id_lq: 314958750
-              filesize_hq: 36015010
-              filesize_lq: 12034446
-              seconds: 2006
               chapters:
                 - 0
                 - 1
@@ -76,9 +73,6 @@ documents:
             - title: Part 2
               external_id_hq: 314958685
               external_id_lq: 314958688
-              filesize_hq: 51483609
-              filesize_lq: 17079558
-              seconds: 2846
               chapters:
                 - 3
                 - 4
@@ -86,42 +80,30 @@ documents:
             - title: Part 3
               external_id_hq: 314958514
               external_id_lq: 314958518
-              filesize_hq: 36003575
-              filesize_lq: 12391494
-              seconds: 2065
               chapters:
                 - 6
                 - 7
             - title: Part 4
               external_id_hq: 314970845
               external_id_lq: 314970855
-              filesize_hq: 48595791
-              filesize_lq: 16662894
-              seconds: 2777
               chapters:
                 - 8
                 - 9
             - title: Part 5
               external_id_hq: 315109426
               external_id_lq: 315109431
-              filesize_hq: 29947341
-              filesize_lq: 10225230
-              seconds: 1704
               chapters:
                 - 10
                 - 11
             - title: Part 6
               external_id_hq: 315109737
               external_id_lq: 315109744
-              filesize_hq: 37905863
-              filesize_lq: 13063254
-              seconds: 2177
               chapters:
                 - 12
                 - 13
     related_documents:
       - id: a8da908c-c9b4-4583-a2a3-ee460a90a4b9
-        description:
+        description: >-
           Those who appreciate the solid and biblical arguments of Joseph Phipps in the
           “The Original and Preset State of Man,” will most certainly enjoy Robert
           Barclay’s famous “Apology for the True Christian Divinity,” which is doubtless

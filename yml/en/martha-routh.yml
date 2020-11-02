@@ -8,7 +8,7 @@ died: 1817
 residences:
   - city: Stourbridge
     region: England
-description:
+description: >-
   ​Martha Routh (1743-1817) was working as the principal of a Friend’s boarding school in
   Nottingham, England when, at age of 30, she was called by the Lord to travel in the work
   of the ministry. The remaining 44 years of her life were devoted to preaching the gospel
@@ -23,7 +23,7 @@ documents:
     title: The Life of Martha Routh
     slug: journal
     filename: Journal_of_Martha_Routh
-    description:
+    description: >-
       Martha Routh (1743-1817) was working as the principal of a Friend’s boarding school
       in Nottingham, England when, at age of 30, she was called by the Lord to travel in
       the work of the ministry. The remaining 44 years of her life were devoted to
@@ -33,7 +33,7 @@ documents:
       returned to America in 1801 with her husband (who died shortly after his arrival in
       New York). Martha Routh’s life and ministry were exemplary in every respect, and her
       preaching was “in demonstration of the Spirit and of power.”
-    partial_description:
+    partial_description: >-
       A journal of the life, travels, and religious experiences of Martha Routh, giving a
       relation of her forty years of tireless service in the work of the ministry
       throughout many parts of England, Ireland, Scotland, and America.
@@ -46,13 +46,13 @@ documents:
         isbn: 978-1-64476-095-6
     related_documents:
       - id: 84ca0ff5-f17c-49ff-9bde-6c9f67a6a352
-        description:
+        description: >-
           During a great part of her first trip to the United States, Martha Routh was
           often a companion in the work of the ministry to John Wigham, whom she
           frequently mentions with great esteem in her journal, calling him her “valued
           friend and brother in gospel fellowship.”
       - id: 45dca7c2-3ff9-4a83-acdf-55ec1630cb25
-        description:
+        description: >-
           Though a native of England, Martha Routh spent many years in America in the
           service of the gospel, where she met and befriended that humble but
           highly-esteemed minister of Christ, Rebecca Jones. Rebecca’s journal makes many

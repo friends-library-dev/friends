@@ -7,7 +7,7 @@ born: 1617
 died: 1699
 quotes:
   - source: John Crook
-    text:
+    text: >-
       This Holy Spirit has been to me both meat and drink, even as the Rock of old that
       followed the Israelites. Ten times (as I remember) I have been in bonds, and all for
       the sake of a good conscience before my God. But this Holy Spirit never left me, but
@@ -17,7 +17,7 @@ quotes:
 residences:
   - city: London
     region: England
-description:
+description: >-
   Like many other early Quakers, John Crook (1617-1699) was a seeker of truth from his
   earliest days. He was educated in London, and for a time held the office of Justice of
   the Peace in Bedfordshire, but after being convinced of the truth in 1654 by the
@@ -31,12 +31,12 @@ description:
 documents:
   - id: ad348a05-9f91-4f36-90eb-cf5ad94835b1
     title: Selection from the Life of John Crook
-    original_title:
+    original_title: >-
       Selections from the Writings of That Ancient, Faithful Servant of Christ Jesus John
       Crook. To which is Prefixed a Short Account of His Life Written by Himself.
     slug: writings
     filename: Writings_of_John_Crook
-    description:
+    description: >-
       Like many other early Quakers, John Crook (1617-1699) was a seeker of truth from his
       earliest days. He was educated in London, and for a time held the office of Justice
       of the Peace in Bedfordshire, but after being convinced of the truth in 1654 by the
@@ -47,7 +47,7 @@ documents:
       faithfully labored by preaching and writing to the end that all who profess the
       Truth might “come into the true sense and experience thereof, by a true, living, and
       feeling faith in Christ, and sincere obedience to Him.”
-    partial_description:
+    partial_description: >-
       A collection of the various treatises, epistles, and doctrinal writings of John
       Crook, to which is prefixed a short account of his life, written by himself; also
       containing a relation of his memorable trial at the General Sessions in London, in
@@ -64,12 +64,12 @@ documents:
   - id: cf6f05e2-e5c9-4ec3-8096-d283f3e4c020
     alt_language_id: 8fbadbad-0fc1-4dfa-9fb4-d96e7c00ff58
     title: Selection from the Life of John Crook
-    original_title:
+    original_title: >-
       Selections from the Writings of That Ancient, Faithful Servant of Christ Jesus John
       Crook. To which is Prefixed a Short Account of His Life Written by Himself.
     slug: life-selection
     filename: Selection_Life_of_John_Crook
-    description:
+    description: >-
       Like many other early Quakers, John Crook (1617-1699) was a seeker of truth from his
       earliest days. He was educated in London, and for a time held the office of Justice
       of the Peace in Bedfordshire, but when he was convinced of the truth in 1654 by the
@@ -78,7 +78,7 @@ documents:
       the hands of “unreasonable and wicked men.” In this selection from his writings, he
       relates his early searching after God, his convincement of and growth in the truth,
       and some of his ministerial labors in the early Society of Friends.
-    partial_description:
+    partial_description: >-
       A selection from the journal and writings of John Crook, relating his thirst after
       holiness in his younger years, his convincement of and growth in the truth, and some
       of his ministerial labors in the early Society of Friends.
@@ -95,8 +95,5 @@ documents:
             - title: The Life of John Crook
               external_id_hq: 748334620
               external_id_lq: 748334257
-              filesize_hq: 59981386
-              filesize_lq: 13143695
-              seconds: 3285
               chapters:
                 - 0

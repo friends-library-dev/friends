@@ -7,7 +7,7 @@ born: 1637
 died: 1698
 quotes:
   - source: Charles Marshall
-    text:
+    text: >-
       I have learned from the beginning of the work of restoration and redemption, that
       everyone’s preservation is found in pure inward retiredness unto the Lord; and in
       His pure fear, awe and dread to keep low, feeling after His soul-redeeming,
@@ -17,7 +17,7 @@ quotes:
 residences:
   - city: Bristol
     region: England
-description:
+description: >-
   Charles Marshall (1637-1698) was convinced of the Truth at age seventeen by the powerful
   ministry of John Audland and John Camm, and eventually became a worthy minister and
   elder himself in the early Society of Friends. This short but instructive journal
@@ -29,14 +29,14 @@ documents:
     title: The Journal of Charles Marshall
     slug: journal
     filename: Journal_of_Charles_Marshall
-    description:
+    description: >-
       Charles Marshall (1637-1698) was convinced of the Truth at age seventeen by the
       powerful ministry of John Audland and John Camm, and eventually became a worthy
       minister and elder himself in the early Society of Friends. This publication
       contains his full journal, a large collection of his letters and epistles to the
       churches, and a number of treatises and other publications, including “The Way of
       Life Revealed and the Way of Death Discovered.”
-    partial_description:
+    partial_description: >-
       This publication contains the full journal of Charles Marshall, a large collection
       of his letters and epistles to the churches, and a number of treatises and other
       publications, including, “The Way of Life Revealed and the Way of Death Discovered.”
@@ -54,14 +54,14 @@ documents:
     title: Selection from the Journal of Charles Marshall
     slug: journal-selection
     filename: Selection_Journal_of_Charles_Marshall
-    description:
+    description: >-
       Charles Marshall (1637-1698) was convinced of the Truth at age seventeen by the
       powerful ministry of John Audland and John Camm, and eventually became a worthy
       minister and elder himself in the early Society of Friends. This short but
       instructive journal describes Marshall’s progressive experience of the light of
       Jesus Christ, both as his judge and teacher, and also uncovers the several snares
       and temptations of the enemy that he met with and overcame along the way.
-    partial_description:
+    partial_description: >-
       A short but instructive selection from the Journal of Charles Marshall, in which he
       describes his progressive experience of the light of Jesus Christ, both as judge and
       teacher, and also uncovers the several snares and temptations of the enemy that he
@@ -79,9 +79,6 @@ documents:
             - title: Selection from the Journal of Charles Marshall
               external_id_hq: 748332928
               external_id_lq: 748332562
-              filesize_hq: 41478829
-              filesize_lq: 9128690
-              seconds: 2281
               chapters:
                 - 0
   - id: 769b12e4-b909-4fb0-9177-b74a1bef9f35
@@ -89,19 +86,19 @@ documents:
     title: The Way of Life Revealed and the Way of Death Discovered
     slug: way-of-life-revealed
     filename: Way_of_Life_Revealed
-    original_title:
+    original_title: >-
       The Way of Life Revealed and the Way of Death Discovered; Wherein is Declared Man’s
       Happy State Before the Fall, His Miserable State in the Fall, and the Way of
       Restoration Out of the Fall, Into the Image of God Again, In Which Man Was Before
       the Fall.
-    description:
+    description: >-
       Charles Marshall (1637-1698) was convinced of the Truth at age seventeen by the
       powerful ministry of John Audland and John Camm, and eventually became a worthy
       minister and elder himself in the early Society of Friends. This short treatise,
       written in 1673, describes the miserable condition of man in the fall, the means by
       which God restores the penitent soul into the image of God, and many snares,
       deceptions and temptations of the enemy of man’s happiness.
-    partial_description:
+    partial_description: >-
       The Way of Life Revealed and the Way of Death Discovered—Wherein is Declared Man’s
       Happy State Before the Fall, His Miserable State in the Fall, and the Way of
       Restoration Out of the Fall, Into the Image of God Again, In Which Man Was Before
@@ -119,9 +116,6 @@ documents:
             - title: The Way of Life Revealed and the Way of Death Discovered
               external_id_hq: 881273452
               external_id_lq: 881272624
-              filesize_hq: 100130447
-              filesize_lq: 26645591
-              seconds: 5328
               chapters:
                 - 0
       - type: modernized

@@ -3,7 +3,7 @@ name: Compilations
 slug: compilations
 gender: mixed
 added: 2019-11-23T17:08:01.000Z
-description:
+description: >-
   A few of our books were not written by a single person, but are collections of writings
   or letters from several different authors. Some of these books were compiled and
   published long ago by early Friends, and some were compiled more recently by the editors
@@ -14,13 +14,13 @@ documents:
     title: Truth in the Inward Parts -- Volume 1
     slug: truth-in-the-inward-parts-v1
     filename: Truth_in_the_Inward_Parts_v1
-    featured_description:
+    featured_description: >-
       This book contains the autobiographical accounts of ten men and women who
       experienced the transforming power of “Truth in the inward parts” (Psalm 51:6).
       Amidst a sea of Christian opinions and traditions, these believers would settle for
       nothing less than the light, power, and righteousness of Christ reigning in their
       purified hearts.
-    description:
+    description: >-
       This book contains the stories of ten men and women who knew the transforming work
       of “Truth in the inward parts.” Amidst a sea of Christian practice and profession,
       these believers would settle for nothing less than the light, power, and
@@ -28,7 +28,7 @@ documents:
       Pearl of great price by His own inward appearing, but they then sold all to buy this
       treasure, counting all things loss for the excellence of the knowledge of Christ
       Jesus their Lord. (Compiled and edited by Jason R. Henderson)
-    partial_description:
+    partial_description: >-
       This book contains the autobiographical accounts of ten men and women who
       experienced the transforming power of “Truth in the inward parts.” (Psalm 51:6)
     tags:
@@ -46,97 +46,64 @@ documents:
             - title: Introduction
               external_id_hq: 276638170
               external_id_lq: 276638179
-              filesize_hq: 20240898
-              filesize_lq: 6721062
-              seconds: 1120
               chapters:
                 - 0
             - title: Life of Stephen Crisp
               external_id_hq: 276790389
               external_id_lq: 276790407
-              filesize_hq: 55916850
-              filesize_lq: 19218174
-              seconds: 3203
               chapters:
                 - 1
             - title: Life of John Richardson
               external_id_hq: 276947054
               external_id_lq: 276947064
-              filesize_hq: 59021156
-              filesize_lq: 19906998
-              seconds: 3318
               chapters:
                 - 2
             - title: Letter of Elizabeth Webb
               external_id_hq: 277542991
               external_id_lq: 277543001
-              filesize_hq: 50831853
-              filesize_lq: 17091654
-              seconds: 2848
               chapters:
                 - 3
             - title: Journal of John Burnyeat
               external_id_hq: 277873585
               external_id_lq: 277873611
-              filesize_hq: 64074294
-              filesize_lq: 21090894
-              seconds: 3515
               chapters:
                 - 4
             - title: Life of Joseph Pike
               external_id_hq: 278405473
               external_id_lq: 278405495
-              filesize_hq: 39920794
-              filesize_lq: 13279038
-              seconds: 2213
               chapters:
                 - 5
             - title: Journal of John Griffith
               external_id_hq: 278743551
               external_id_lq: 278743565
-              filesize_hq: 57467106
-              filesize_lq: 19362030
-              seconds: 3227
               chapters:
                 - 6
             - title: Memoirs of John Crook
               external_id_hq: 279389047
               external_id_lq: 279389077
-              filesize_hq: 59009075
-              filesize_lq: 19747590
-              seconds: 3291
               chapters:
                 - 7
             - title: Life of Elizabeth Stirredge
               external_id_hq: 279985715
               external_id_lq: 279985720
-              filesize_hq: 42199677
-              filesize_lq: 14553870
-              seconds: 2425
               chapters:
                 - 8
             - title: Journal of Charles Marshall
               external_id_hq: 280576517
               external_id_lq: 280576523
-              filesize_hq: 40912174
-              filesize_lq: 13724862
-              seconds: 2287
               chapters:
                 - 9
             - title: Life of Thomas Story
               external_id_hq: 281992929
               external_id_lq: 281992954
-              filesize_hq: 67694765
-              filesize_lq: 22560990
-              seconds: 3760
               chapters:
                 - 10
   - id: 1613ce28-3ff2-4802-b22f-111039e6e0ac
-    title: Piety Promoted, Volume I
+    title: 'Piety Promoted, Volume I'
     slug: piety-promoted-v1
     filename: Piety_Promoted_v1
     print_size: m
-    description:
+    description: >-
       The full title of this work is, “Piety Promoted in a Collection of the Dying Sayings
       of Many of the People Called Quakers; With a Brief Account of Some of Their Labors
       in the Gospel, and Sufferings for the Same.” These four volumes extend over a period
@@ -146,7 +113,7 @@ documents:
       growth in spiritual knowledge and experience; but they all agree in a united
       testimony to the blessed effects of Christ’s reign in the soul, and to the
       consolation and support it furnishes on a death bed.
-    partial_description:
+    partial_description: >-
       Volume I of Piety Promoted contains short testimonies and the dying sayings of 204
       early Friends, including James Parnell, Edward Burrough, Francis Howgill, George
       Fox, Stephen Crisp, William Dewsbury, John Crook, and the four Quakers executed in
@@ -157,11 +124,11 @@ documents:
       - type: modernized
         isbn: 978-1-64476-030-7
   - id: 8e77ebe3-8678-44d2-9826-8c1be2633dcc
-    title: Piety Promoted, Volume II
+    title: 'Piety Promoted, Volume II'
     slug: piety-promoted-v2
     filename: Piety_Promoted_v2
     print_size: m
-    description:
+    description: >-
       The full title of this work is, “Piety Promoted in a Collection of the Dying Sayings
       of Many of the People Called Quakers; With a Brief Account of Some of Their Labors
       in the Gospel, and Sufferings for the Same.” These four volumes extend over a period
@@ -171,7 +138,7 @@ documents:
       growth in spiritual knowledge and experience; but they all agree in a united
       testimony to the blessed effects of Christ’s reign in the soul, and to the
       consolation and support it furnishes on a death bed.
-    partial_description:
+    partial_description: >-
       Volume II of Piety Promoted contains short testimonies and the dying sayings of 171
       early Friends, including Deborah Bell, Sarah Stephenson, John Fothergill, Daniel
       Stanton, Thomas Wilson, William Crouch, George Whitehead, and Thomas Aldam.
@@ -181,11 +148,11 @@ documents:
       - type: modernized
         isbn: 978-1-64476-173-1
   - id: 951f52bb-fc11-4e76-a08d-c3dc52b8a07c
-    title: Piety Promoted, Volume III
+    title: 'Piety Promoted, Volume III'
     slug: piety-promoted-v3
     filename: Piety_Promoted_v3
     print_size: m
-    description:
+    description: >-
       The full title of this work is, “Piety Promoted in a Collection of the Dying Sayings
       of Many of the People Called Quakers; With a Brief Account of Some of Their Labors
       in the Gospel, and Sufferings for the Same.” These four volumes extend over a period
@@ -195,7 +162,7 @@ documents:
       growth in spiritual knowledge and experience; but they all agree in a united
       testimony to the blessed effects of Christ’s reign in the soul, and to the
       consolation and support it furnishes on a death bed.
-    partial_description:
+    partial_description: >-
       Volume III of Piety Promoted contains short testimonies and the dying sayings of 146
       early Friends, including  John Woolman, Samuel Fothergill, Margaret Fox, Joseph
       Oxley, Sarah Grubb, Samuel Emlen, Esther Tuke, William Savery, Mary Peisley Neale,
@@ -206,11 +173,11 @@ documents:
       - type: modernized
         isbn: 978-1-64476-174-8
   - id: 46cffe12-7fac-486d-8597-afecee546baa
-    title: Piety Promoted, Volume IV
+    title: 'Piety Promoted, Volume IV'
     slug: piety-promoted-v4
     filename: Piety_Promoted_v4
     print_size: m
-    description:
+    description: >-
       The full title of this work is, “Piety Promoted in a Collection of the Dying Sayings
       of Many of the People Called Quakers; With a Brief Account of Some of Their Labors
       in the Gospel, and Sufferings for the Same.” These four volumes extend over a period
@@ -220,7 +187,7 @@ documents:
       growth in spiritual knowledge and experience; but they all agree in a united
       testimony to the blessed effects of Christ’s reign in the soul, and to the
       consolation and support it furnishes on a death bed.
-    partial_description:
+    partial_description: >-
       Volume IV of Piety Promoted contains short testimonies and the dying sayings of 141
       early Friends, including Henry Tuke, Joseph Gurney Bevan, John Kendall, Jane
       Pearson, Mary Dudley, Ann Crowley, Thomas Chalkley, Israel Pemberton, and John
@@ -232,20 +199,20 @@ documents:
         isbn: 978-1-64476-175-5
   - id: 960e1f3b-deb2-480a-83bf-ca7dfd3b965c
     title: Examples of Youthful Piety
-    original_title:
+    original_title: >-
       Examples of Youthful Piety Principally Intended for the Instruction of Young Persons
     slug: youthful-piety
     filename: Youthful_Piety
-    description:
-      'The full title of this work is, “Examples of Youthful Piety, Principally Intended
+    description: >-
+      The full title of this work is, “Examples of Youthful Piety, Principally Intended
       for the Instruction of Young Persons.” This inspiring publication gathers together
       all of the spiritual experiences and dying testimonies of children from the four
       volumes of Piety Promoted, also adding many others not previously published. The
       testimonies in this work—taken from young persons between the ages of six and
       twenty-five—span a period of about 200 years and are a united and powerful
       confirmation of the importance of Solomon’s exhortation: “Remember now your creator
-      in the days of your youth.”'
-    partial_description:
+      in the days of your youth.”
+    partial_description: >-
       This inspiring publication gathers together all of the spiritual experiences and
       dying testimonies of children from the four volumes of Piety Promoted, also adding
       many others not previously published. The testimonies in this work span a period of
@@ -262,13 +229,13 @@ documents:
     title: Truth in the Inward Parts -- Volume 2
     slug: truth-in-the-inward-parts-v2
     filename: Truth_in_the_Inward_Parts_v2
-    featured_description:
+    featured_description: >-
       This book contains the autobiographical accounts of nine men and women who
       experienced the transforming power of “Truth in the inward parts” (Psalm 51:6).
       Amidst a sea of Christian opinions and traditions, these believers would settle for
       nothing less than the light, power, and righteousness of Christ reigning in their
       purified hearts.
-    description:
+    description: >-
       This book contains the stories of nine men and women who knew the transforming work
       of “Truth in the inward parts.” Amidst a sea of Christian practice and profession,
       these believers would settle for nothing less than the light, power, and
@@ -276,7 +243,7 @@ documents:
       Pearl of great price by His own inward appearing, but they then sold all to buy this
       treasure, counting all things loss for the excellence of the knowledge of Christ
       Jesus their Lord. (Compiled and edited by Jason R. Henderson)
-    partial_description:
+    partial_description: >-
       This book contains the autobiographical accounts of nine men and women who
       experienced the transforming power of “Truth in the inward parts.” (Psalm 51:6)
     tags:
@@ -295,72 +262,45 @@ documents:
             - title: Selection from the Journal of Job Scott
               external_id_hq: 872349178
               external_id_lq: 872348896
-              filesize_lq: 18259037
-              filesize_hq: 84426405
-              seconds: 4444
               chapters:
                 - 0
             - title: Selection from the Journal of John Gratton
               external_id_hq: 872349547
               external_id_lq: 872349220
-              filesize_lq: 20679131
-              filesize_hq: 97443642
-              seconds: 5169
               chapters:
                 - 1
             - title: The Life and Letters of Samuel Crisp
               external_id_lq: 872349622
               external_id_hq: 872349916
-              filesize_lq: 16390755
-              filesize_hq: 77654611
-              seconds: 4097
               chapters:
                 - 2
             - title: Selection from the Journal of George Whitehead
               external_id_lq: 872349988
               external_id_hq: 872350267
-              filesize_lq: 19385764
-              filesize_hq: 87701300
-              seconds: 4846
               chapters:
                 - 3
             - title: Selection from the Journal of George Fox
               external_id_lq: 872350387
               external_id_hq: 872350858
-              filesize_lq: 25395170
-              filesize_hq: 117430784
-              seconds: 6348
               chapters:
                 - 4
             - title: Selection from the Life and Letters of Catherine Payton
               external_id_lq: 872350960
               external_id_hq: 872351218
-              filesize_lq: 16466642
-              filesize_hq: 76239095
-              seconds: 4116
               chapters:
                 - 5
             - title: Selection from the Journal of John Conran
               external_id_lq: 872351263
               external_id_hq: 872351599
-              filesize_lq: 15911782
-              filesize_hq: 76622674
-              seconds: 3977
               chapters:
                 - 6
             - title: Selection from the Journal of John Banks
               external_id_lq: 872351656
               external_id_hq: 872351836
-              filesize_lq: 14460208
-              filesize_hq: 65877334
-              seconds: 3614
               chapters:
                 - 7
             - title: Selection from the Life of Jane Pearson
               external_id_lq: 872351899
               external_id_hq: 872352223
-              filesize_lq: 21701561
-              filesize_hq: 99091740
-              seconds: 5424
               chapters:
                 - 8

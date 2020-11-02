@@ -7,19 +7,19 @@ born: 1717
 died: 1757
 quotes:
   - source: James Gough
-    text:
+    text: >-
       I am ready to conclude that no one in our day, from the time of the effectual
       visitation of Christ in her soul, adhered with more steadiness to His guidance,
       through a variety of probations.
   - source: Mary Peisley
-    text:
+    text: >-
       I know there is a kingdom of heaven, because I already feel it within me,—Christ in
       me, as said the apostle, the hope of glory; and because He lives, I live also; not
       merely an animal life which must perish, but a life hid with Christ in God.
 residences:
   - city: Ballymore
     region: Ireland
-description:
+description: >-
   Mary Neale (1717-1757), dying suddenly only three days after her marriage to Samuel
   Neale, is best known by her maiden name, Mary Peisley. Having been early turned from the
   pursuit of worldly pleasures and vanities by the inward appearing of the Lord Jesus,
@@ -33,7 +33,7 @@ documents:
     title: The Life and Letters of Mary Peisley Neale
     slug: journal
     filename: Journal_of_Mary_Peisley_Neale
-    description:
+    description: >-
       Mary Neale (1717-1757), dying suddenly only three days after her marriage to Samuel
       Neale, is best known by her maiden name, Mary Peisley. Having been early turned from
       the pursuit of worldly pleasures and vanities by the inward appearing of the Lord
@@ -42,7 +42,7 @@ documents:
       esteemed minister in the Society of Friends) wrote, “I am ready to conclude that no
       one in our day, from the time of the effectual visitation of Christ in her soul,
       adhered with more steadiness to His guidance, through a variety of probations.”
-    partial_description:
+    partial_description: >-
       An account of the life, Christian experiences, and work in the ministry of Mary
       Peisley Neale, chiefly comprised of her own memorandums and letters, compiled and
       published by her husband Samuel Neale.
@@ -56,7 +56,7 @@ documents:
         isbn: 978-1-64476-105-2
     related_documents:
       - id: 0e7ca047-14ff-4883-8977-877d36632d11
-        description:
+        description: >-
           Mary Peisley and Catherine Payton were companions together in the bonds of the
           gospel, and their unity in the living Truth was strong and deep. They often
           travelled together in the work of the ministry, and were considered by many to

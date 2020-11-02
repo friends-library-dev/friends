@@ -7,13 +7,13 @@ born: 1627
 died: 1712
 quotes:
   - source: John Wesley
-    text:
+    text: >-
       I met here with the Journal of William Edmundson, one of their preachers in the last
       century. If the original equaled the picture, (which I see no reason to doubt,) what
       an amiable man was this! What faith, love, gentleness, long-suffering! I scruple not
       to say, “Let my soul be with the soul of William Edmundson!”
   - source: John Fothergill
-    text:
+    text: >-
       Here I met with our ancient and honourable friend William Edmundson, whom I had a
       great desire to see, having a deep and reverent value for him from seeing him before
       in England, though he knew little or nothing of me. I believed, if I was not what I
@@ -29,7 +29,7 @@ residences:
     durations:
       - start: 1652
         end: 1712
-description:
+description: >-
   William Edmundson (1627—1712) is generally considered to be both the first and the most
   distinguished member of Society of Friends in Ireland. He was convinced of the truth in
   1653 by the powerful preaching of James Nayler, and spent over 50 years traveling and
@@ -45,7 +45,7 @@ documents:
     title: The Journal of William Edmundson
     slug: journal
     filename: Journal_of_William_Edmundson
-    description:
+    description: >-
       William Edmundson (1627—1712) is generally considered to be both the first and the
       most distinguished member of Society of Friends in Ireland. He was convinced of the
       truth in 1653 by the powerful preaching of James Nayler, and spent over 50 years
@@ -56,7 +56,7 @@ documents:
       obedience to Christ. But through all he remained faithful, and was preserved in
       strength of body and mind to a good old age, tirelessly serving the church and
       bearing much fruit to the end of his days.
-    partial_description:
+    partial_description: >-
       The journal, epistles, and papers of William Edmundson, giving an account of his
       convincement of the truth through the preaching of James Nayler, his trials and
       sufferings for the gospel in Ireland, and his extensive ministerial labors in

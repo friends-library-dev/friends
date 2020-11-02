@@ -7,12 +7,12 @@ died: 1692
 added: 2019-05-08T14:57:06.000Z
 quotes:
   - source: Samuel Tuke
-    text:
+    text: >-
       Con la excepción de George Fox, no creo que haya nadie que haya tenido una mayor
       parte en el liderazgo y responsabilidad de la nueva Sociedad [de Amigos] que Stephen
       Crisp.
   - source: Stephen Crisp
-    text:
+    text: >-
       Porque, aunque es verdad que nadie puede obedecer al Señor excepto por medio de Su
       gracia y poder dados a ellos, sin embargo, Él ha hecho que Su gracia—aquella gracia
       que trae salvación—se manifieste a todos los hombres, como es dicho en Tito 2:11. Y
@@ -22,7 +22,7 @@ quotes:
 residences:
   - city: Colchester
     region: England
-description:
+description: >-
   Stephen Crisp (1628-1692) fue otro cuya búsqueda desesperada de la Verdad (que duró
   veinte largos años) finalmente lo llevó a un conocimiento y experiencia de la gracia y
   la verdad que están en Jesucristo. Después de haber encontrado la Perla de gran precio,
@@ -36,14 +36,14 @@ documents:
     title: Un Camino Simple
     slug: camino-simple
     filename: Camino_Simple
-    description:
+    description: >-
       Este documento es un tratado corto escrito por Stephen Cristo acerca de la aparición
       de la luz de Cristo en el corazón, y de la necesidad de que cada creyente lo
       entregue todo para seguirlo. En palabras de Crisp, fue escrito para responder “todas
       las dudas y objeciones que se levantan en contra de la aparición de la luz y de la
       verdad de Cristo internamente; por las cuales muchos han dejado la obediencia, y así
       la paz de sus almas anhelantes.”
-    partial_description:
+    partial_description: >-
       Un tratado que describe la naturaleza de la aparición de Cristo en el corazón como
       uno que reprueba por el pecado y la transgresión, y la necesidad y beneficio de
       someterse a Su luz y gracia para poder ser lavados desde el interior, y
@@ -58,14 +58,14 @@ documents:
     title: Una Historia Corta de un Largo Viaje desde Babilonia hasta Bet-el
     slug: babilonia-hasta-bet-el
     filename: Babilonia_hasta_Bet-el
-    description:
+    description: >-
       Esta breve alegoría, escrita por Stephen Crisp, ilustra el peligroso viaje del alma
       cristiana desde Babilonia (la ciudad de confusión religiosa, hecha por el hombre) a
       Betel, la verdadera casa de Dios. Al amar y seguir la luz de Jesucristo, el viajero
       cristiano es sacado de todo falso descanso, llevado a través de las diversas trampas
       y enemigos en el desierto, e introducido en la morada de Dios, donde hereda
       justicia, paz y alegría para siempre.
-    partial_description:
+    partial_description: >-
       Una corta pero instructiva alegoría escrita por Stephen Crisp para ilustrar los
       peligros del viaje que el alma cristiana emprende desde Babilonia (la ciudad de
       confusión religiosa hecha por el hombre) hasta Bethel, la verdadera morada de Dios.
@@ -81,9 +81,6 @@ documents:
             - title: Babilonia hacia Betel - Una Alegoria
               external_id_lq: 783189274
               external_id_hq: 783192781
-              seconds: 2604
-              filesize_hq: 44833391
-              filesize_lq: 13024352
               chapters:
                 - 0
   - id: 947049d8-78f9-4f8b-9b5a-56413b3fe60a
@@ -91,7 +88,7 @@ documents:
     title: Selección del Diario de Stephen Crisp
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_Stephen_Crisp
-    description:
+    description: >-
       Stephen Crisp (1628-1692) fue otro cuya búsqueda desesperada de la Verdad (que duró
       veinte largos años) finalmente lo llevó a un conocimiento y experiencia de la gracia
       y la verdad que están en Jesucristo. Después de haber encontrado la Perla de gran
@@ -99,7 +96,7 @@ documents:
       entre la primitiva Sociedad de los Amigos, trabajando por los siguientes treinta y
       cinco años en    el poder y la sabiduría del Espíritu a lo largo de Inglaterra,
       Escocia, Holanda y Alemania.
-    partial_description:
+    partial_description: >-
       Un extracto del diario de Stephen Crisp, que contiene un relato de sus fuertes
       deseos de pureza cuando era joven, del tiempo en que fue convencido de la verdad a
       través del ministerio de James Parnell, y de su subsecuente ministerio y cuidado
@@ -117,8 +114,5 @@ documents:
             - title: Selección del Diario de Stephen Crisp
               external_id_hq: 809067742
               external_id_lq: 809066086
-              filesize_hq: 61775436
-              filesize_lq: 14408348
-              seconds: 3601
               chapters:
                 - 0

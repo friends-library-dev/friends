@@ -7,7 +7,7 @@ born: 1713
 died: 1776
 quotes:
   - source: John Griffith
-    text:
+    text: >-
       Muy grande es el engaño de aquellos que piensan que toda la obra de regeneración
       ocurre instantáneamente. Esto no puede ser otra cosa más que un engaño de Satanás
       para hacer que las personas reposen en un estado de auto-seguridad tanto como
@@ -30,7 +30,7 @@ residences:
     durations:
       - start: 1750
         end: 1776
-description:
+description: >-
   John Griffith (1713-1776), de ser un joven desenfrenado y descuidado, se convirtió en un
   sabio y cuidadoso ministro del evangelio. Su diario está lleno de sabiduría celestial,
   la cual obtuvo de su experiencia personal tanto de la bondad y guía del Señor, como de
@@ -45,7 +45,7 @@ documents:
     title: Selección del Diario de John Griffith
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_John_Griffith
-    description:
+    description: >-
       John Griffith (1713-1776), de ser un joven desenfrenado y descuidado, se convirtió
       en un sabio y cuidadoso ministro del evangelio. Su diario está lleno de sabiduría
       celestial, la cual obtuvo de su experiencia personal tanto de la bondad y guía del
@@ -55,7 +55,7 @@ documents:
       entre un pueblo que una vez fue distinguido por su experiencia del poder y pureza
       internos del Espíritu Santo. Esta instructiva porción de su largo diario trata de su
       conversión, crecimiento espiritual y llamado al ministerio.
-    partial_description:
+    partial_description: >-
       Un extracto del diario de la vida, viajes y labor en la obra del ministerio de John
       Griffith, que proporciona una profunda explicación de la naturaleza del verdadero
       Cristianismo, de la obra del ministerio y de la condición actual de la iglesia.
@@ -71,8 +71,5 @@ documents:
             - title: Selección del Diario de John Griffith
               external_id_hq: 862048561
               external_id_lq: 862048036
-              filesize_hq: 63606969
-              filesize_lq: 14928732
-              seconds: 3732
               chapters:
                 - 0

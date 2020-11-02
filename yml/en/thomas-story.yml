@@ -7,7 +7,7 @@ born: 1662
 died: 1742
 quotes:
   - source: Thomas Story
-    text:
+    text: >-
       But, as the diadem of all, and the only true and certain way, when it pleased the
       Most High (by the effusion of His own goodness) to reveal in me the Son of His love,
       even His wisdom and power, by whom He designed and effected all things, then I was
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: Carlisle
     region: England
-description:
+description: >-
   Thomas Story (1662-1742) was an extremely gifted and serviceable minister in the Society
   of Friends, who traveled all over England, Ireland, Scotland, Holland, Jamaica,
   Barbados, and the American colonies in his service for the gospel. He was well-known for
@@ -32,7 +32,7 @@ documents:
     title: Selection from the Journal of Thomas Story
     slug: journal-selection
     filename: Selection_Journal_of_Thomas_Story
-    description:
+    description: >-
       Thomas Story (1662-1742) was an extremely gifted and serviceable minister in the
       Society of Friends, who traveled all over England, Ireland, Scotland, Holland,
       Jamaica, Barbados, and the American colonies in his service for the gospel. He was
@@ -42,7 +42,7 @@ documents:
       slander and oppose the teachings of early Friends. The many compelling doctrinal
       arguments found in his journal became very influential among Quakers, and will still
       be read with great benefit by every genuine seeker of truth.
-    partial_description:
+    partial_description: >-
       A selection from the journal of Thomas Story, giving an account of his dramatic
       awakening to the truth apart from any human agency, and his subsequent usefulness in
       the church as a minister of the gospel, being one in whom there was an unusual
@@ -60,16 +60,13 @@ documents:
             - title: Journal of Thomas Story
               external_id_hq: 748336924
               external_id_lq: 748336549
-              filesize_hq: 68597316
-              filesize_lq: 15023891
-              seconds: 3755
               chapters:
                 - 0
   - id: 62e5131b-33a2-425e-8d33-e912b2b9f0ca
     title: Journal of Thomas Story
     slug: journal
     filename: Journal_of_Thomas_Story
-    description:
+    description: >-
       Thomas Story (1662-1742) was an extremely gifted and serviceable minister in the
       Society of Friends, who traveled all over England, Ireland, Scotland, Holland,
       Jamaica, Barbados, and the American colonies in his service for the gospel. He was
@@ -79,7 +76,7 @@ documents:
       slander and oppose the teachings of early Friends. The many compelling doctrinal
       arguments found in his journal became very influential among Quakers, and will still
       be read with great benefit by every genuine seeker of truth.
-    partial_description:
+    partial_description: >-
       A selection from the journal of Thomas Story, giving an account of his dramatic
       awakening to the truth apart from any human agency, and his subsequent usefulness in
       the church as a minister of the gospel, being a man in whom there was an unusual
@@ -96,12 +93,12 @@ documents:
     title: Salvation By Christ
     slug: salvation-by-christ
     filename: Salvation_by_Christ
-    description:
+    description: >-
       An excerpt from the journal of Thomas Story concerning the nature of salvation,
       showing it to depend upon both the outward work of Christ as a sacrifice for sin,
       and the inward work of Christ in the heart as the light, life, and leader of man in
       the path of regeneration.
-    partial_description:
+    partial_description: >-
       An excerpt from the journal of Thomas Story concerning the nature of salvation,
       showing it to depend upon both the outward work of Christ as a sacrifice for sin,
       and the inward work of Christ in the heart as the light, life, and leader of man in
@@ -115,12 +112,12 @@ documents:
     title: Letter to a Doubter
     slug: letter-to-a-doubter
     filename: Letter_to_a_Doubter
-    description:
+    description: >-
       An excerpt from the journal of Thomas Story containing an impressive and convincing
       letter, treating upon the true meaning and nature of the Lord’s Supper and baptism,
       along with questions relating to sin and perfection, salvation, love, and the
       outward adornment of the gospel.
-    partial_description:
+    partial_description: >-
       An excerpt from the journal of Thomas Story containing a remarkably compelling
       response written to one who, through misunderstanding, had charged Story and the
       Society of Friends with error.

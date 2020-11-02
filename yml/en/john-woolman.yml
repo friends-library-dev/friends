@@ -7,20 +7,20 @@ born: 1720
 died: 1772
 quotes:
   - source: Job Scott
-    text:
+    text: >-
       Disappointment has a tendency, if we are well-disposed, to drive us nearer to God by
       weaning us, little by little, from other things. Thus came that wonder of his age,
       the blessed John Woolman, to witness his works go so fully beforehand to judgment,
       that he was dead whilst yet alive in the body.
   - source: Samuel Neale
-    text:
+    text: >-
       Here I saw John Woolman for the first time; I take him to be a sweet, clean-spirited
       Friend; his unity with the true Seed may be felt by his savory conversation and
       pious self-denying life.
 residences:
   - city: Mount Holly
     region: New Jersey
-description:
+description: >-
   Because of his writings against slavery and other social evils, John Woolman (1720-1772)
   is one of the most well-known Quakers from the 18th century. Unfortunately, several
   heavily edited versions of his journal exist today which have removed important aspects
@@ -32,13 +32,13 @@ description:
 documents:
   - id: 9ec7c639-b4eb-4e58-aa37-fdc23817f5f3
     title: The Journal and Writings of John Woolman
-    original_title:
+    original_title: >-
       The Journal, Life, Gospel Labours, and Christian Experiences of that Faithful
       Minister of Jesus Christ, John Woolman. To Which Are Added His Last Epistle, and
       Other Writings.
     slug: journal-writings
     filename: Journal_and_Writings_of_John_Woolman
-    description:
+    description: >-
       Because of his writings against slavery and other social evils, John Woolman
       (1720-1772) is one of the most well-known Quakers from the 18th century.
       Unfortunately, several heavily edited versions of his journal exist today which have
@@ -47,7 +47,7 @@ documents:
       servant of Jesus Christ, a preacher of truth and righteousness, and a man filled
       with the Spirit and love of God that overflowed towards his fellow creatures. This
       edition contains his unabridged journal and works.
-    partial_description:
+    partial_description: >-
       The journal, life, gospel labors, and Christian experiences of that faithful
       minister of Jesus Christ, John Woolman; to which are added his last epistle to
       Friends, and his writings on slavery, love, and several other important subjects.

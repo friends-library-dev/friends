@@ -8,7 +8,7 @@ died: 1714
 residences:
   - city: Oxford
     region: England
-description:
+description: >-
   ​Thomas Ellwood (1639-1714) was a beloved elder and an eminent writer in the early
   Society of Friends. When a young man, his father took great offense at his joining in
   society with the despised people called Quakers, and frequently beat him with both fists
@@ -21,7 +21,7 @@ documents:
     title: The Life of Thomas Ellwood
     slug: life
     filename: Life_of_Thomas_Ellwood
-    description:
+    description: >-
       Thomas Ellwood (1639-1714) was a beloved elder and an eminent writer in the early
       Society of Friends. When a young man, his father took great offense at his joining
       in society with the despised people called Quakers, and frequently beat him with
@@ -30,7 +30,7 @@ documents:
       served as tutor to the Penington’s young children. Thomas Ellwood is best known
       among Friends for his many publications in defense of the Truth, and for being the
       editor of George Fox’s journal.
-    partial_description:
+    partial_description: >-
       A journal of the life of Thomas Ellwood, relating his early submission to the
       dictates of Truth in the midst of suffering and persecution, the great benefit
       received from his residing in the home of Isaac and Mary Penington, and his many
@@ -45,7 +45,7 @@ documents:
         isbn: 978-1-64476-134-2
     related_documents:
       - id: c248c2e7-947b-4629-8296-0cdff67a6d99
-        description:
+        description: >-
           Knowing that he was being abused by his father for his obedience to the Truth,
           Isaac Penington invited young Thomas Ellwood to live in his home and tutor his
           children. Ellwood remained in this family for several years, and grew to love,

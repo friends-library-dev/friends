@@ -6,8 +6,8 @@ added: 2018-11-05T16:37:46.000Z
 born: 1797
 died: 1875
 quotes:
-  - source: Joseph Edgerton (to his wife, upon the death of their daughter)
-    text:
+  - source: 'Joseph Edgerton (to his wife, upon the death of their daughter)'
+    text: >-
       I feel for our dear children, knowing the severe stroke is very keenly felt by them.
       Oh, I want you all to love Him who has dealt thus with us in His wisdom, though it
       be in causing us to drink the waters of “Marah” and affliction. For He is very
@@ -17,7 +17,7 @@ quotes:
 residences:
   - city: Barnesville
     region: Ohio
-description:
+description: >-
   Joseph Edgerton (1797-1875) was one of the few faithful Friends in the mid 19th century
   that held fast to the Truth, even as the long-favored Society of Friends crumbled to
   pieces on the right hand and on the left. He was acknowledged a minister of the gospel
@@ -31,12 +31,12 @@ description:
 documents:
   - id: 0451a301-8654-42e3-8701-6288579e5bbb
     title: The Journal of Joseph Edgerton
-    original_title:
+    original_title: >-
       Some Account of the Life and Religious Services of Joseph Edgerton, a Minister of
       the Gospel in the Society of Friends. With Extracts from His Correspondence.
     slug: journal
     filename: Journal_of_Joseph_Edgerton
-    description:
+    description: >-
       Joseph Edgerton (1797-1875) was one of the few faithful Friends in the mid 19th
       century that held fast to the Truth, even as the long-favored Society of Friends
       crumbled to pieces on the right hand and on the left. He was acknowledged a minister
@@ -47,13 +47,13 @@ documents:
       in the heart was frequently the subject of his preaching, and his greatest desire
       was that all would experience a growth in the true grace of God, and so be
       continually “taking root downward, and bringing forth fruit upward.”
-    partial_description:
+    partial_description: >-
       A journal of the life and religious services of Joseph Edgerton, a minister of the
       gospel in the Society of Friends; including extracts from his correspondence and his
       “Address to Friends,” published in 1841.
     related_documents:
       - id: 841500ef-cd48-4a42-8bd4-90ee841d19b4
-        description:
+        description: >-
           At a time when many were departing from the original principles and practices of
           Friends, Joseph Edgerton found encouragement and fellowship in his life-long
           friend and fellow-minister, Ann Branson. Both were members of the Ohio Yearly
