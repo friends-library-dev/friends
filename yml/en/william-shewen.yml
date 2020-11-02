@@ -7,7 +7,7 @@ born: 1631
 died: 1695
 quotes:
   - source: William Shewen
-    text:
+    text: >-
       It is a precious thing to know what the cross of Christ is, and how to take it up
       and make use of it; for indeed, it is no less than the power that crucifies sin, and
       saves from it. Of this power Christendom is generally ignorant, having set up
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: London
     region: England
-description:
+description: >-
   William Shewen (1631–1695) was an early member of the Society of Friends who lived in
   London. He does not appear to have been a traveling minister in the society, but was a
   valuable author and a man known for his deep experience and understanding of both the
@@ -30,7 +30,7 @@ documents:
     title: Meditations and Experiences
     slug: meditations-experiences
     filename: Meditations_and_Experiences
-    description:
+    description: >-
       William Shewen (1631–1695) was an early member of the Society of Friends who lived
       in London. He does not appear to have been a traveling minister in the society, but
       was a valuable author and a man known for his deep experience and understanding of
@@ -39,7 +39,7 @@ documents:
       treatises, penned throughout Shewen’s life, describing his own openings and
       experiences of important subjects such as the light of Christ, the kingdom of God,
       waiting upon the Lord, and overcoming sinful thoughts and imaginations.
-    partial_description:
+    partial_description: >-
       A collection of writings by William Shewen, including his “Mediations and
       Experiences” concerning the right way to God, with treatises on several subjects,
       such as thoughts and imaginations, the nature of true Christian worship, and the
@@ -60,64 +60,40 @@ documents:
             - title: Part 1
               external_id_hq: 428646291
               external_id_lq: 428646360
-              filesize_hq: 42144659
-              filesize_lq: 9858444
-              seconds: 2464
               chapters:
                 - 0
             - title: Part 2
               external_id_hq: 428647167
               external_id_lq: 428647311
-              filesize_hq: 52941220
-              filesize_lq: 11378771
-              seconds: 2844
               chapters:
                 - 1
             - title: Part 3
               external_id_hq: 431753844
               external_id_lq: 431753880
-              filesize_hq: 44126569
-              filesize_lq: 9639434
-              seconds: 2410
               chapters:
                 - 2
             - title: Part 4
               external_id_hq: 432764763
               external_id_lq: 432764784
-              filesize_hq: 45171467
-              filesize_lq: 9770882
-              seconds: 2442
               chapters:
                 - 3
             - title: Part 5
               external_id_hq: 435148314
               external_id_lq: 435148326
-              filesize_hq: 27610689
-              filesize_lq: 5781879
-              seconds: 1445
               chapters:
                 - 4
             - title: Part 6
               external_id_hq: 436055172
               external_id_lq: 436055190
-              filesize_hq: 45392364
-              filesize_lq: 9612057
-              seconds: 2403
               chapters:
                 - 5
             - title: Part 7
               external_id_hq: 437877921
               external_id_lq: 437877951
-              filesize_hq: 40736804
-              filesize_lq: 8722849
-              seconds: 2180
               chapters:
                 - 6
             - title: Part 8
               external_id_hq: 438988485
               external_id_lq: 438988506
-              filesize_hq: 37045544
-              filesize_lq: 8080550
-              seconds: 2020
               chapters:
                 - 7

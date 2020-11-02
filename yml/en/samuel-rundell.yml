@@ -7,7 +7,7 @@ born: 1762
 died: 1848
 quotes:
   - source: Samuel Rundell
-    text:
+    text: >-
       Let then every professed Christian be stimulated, not to place his dependence on his
       being a member of any religious community, but with an anxiety in some degree
       adequate to the importance of the subject, seek an experiential knowledge of the
@@ -18,7 +18,7 @@ quotes:
 residences:
   - city: Liskeard
     region: England
-description:
+description: >-
   Samuel Rundell (1762 - 1848) was a wool-dealer who lived in Liskeard, a small town in
   southwest England. When young he befriended that worthy elder and “mother in Israel”
   Catherine Payton (Phillips), whose wisdom and piety no doubt made lasting impressions
@@ -31,14 +31,14 @@ description:
 documents:
   - id: d230b8ce-a185-42b5-bdf1-cf54130e2764
     title: The Work of Vital Religion in the Soul
-    original_title:
+    original_title: >-
       Observations on the Commencement and Progress of the Work of Vital Religion in the
       Soul; on Divine Worship; and on the Partaking of the Flesh and Blood of Our Lord
       Jesus Christ
     published: 1834
     slug: vital-religion
     filename: Work_of_Vital_Religion_in_the_Soul
-    description:
+    description: >-
       Samuel Rundell (1762 - 1848) was a wool-dealer who lived in Liskeard, a small town
       in southwest England. When young he befriended that worthy elder and “mother in
       Israel” Catherine Payton (Phillips), whose wisdom and piety no doubt made lasting
@@ -48,7 +48,7 @@ documents:
       witnessed its effectual operation in his own soul, he greatly desired to see this
       scriptural doctrine both upheld amongst his fellow Quakers and more widely known
       among sincere Christians of every denomination.
-    partial_description:
+    partial_description: >-
       A treatise containing valuable observations upon the commencement and progress of
       the work of grace in the soul, upon the true nature and performance of spiritual
       worship, and upon the baptism and supper that are essential to the new covenant.
@@ -68,27 +68,18 @@ documents:
             - title: Part 1
               external_id_hq: 545074938
               external_id_lq: 545074959
-              filesize_hq: 46856872
-              filesize_lq: 10402000
-              seconds: 2600
               chapters:
                 - 0
                 - 1
             - title: Part 2
               external_id_hq: 545075766
               external_id_lq: 545075796
-              filesize_hq: 59243041
-              filesize_lq: 13415799
-              seconds: 3353
               chapters:
                 - 2
                 - 3
             - title: Part 3
               external_id_hq: 545076069
               external_id_lq: 545076105
-              filesize_hq: 24465878
-              filesize_lq: 5626399
-              seconds: 1406
               chapters:
                 - 4
       - type: modernized

@@ -7,7 +7,7 @@ born: 1748
 died: 1814
 quotes:
   - source: William Evans
-    text:
+    text: >-
       My uncle Thomas Scattergood…was not only remarkable for the gift of the ministry of
       the gospel of life and salvation, but also for the spirit of prophecy, with which he
       was at times clearly endowed, and under which he often foretold coming events; being
@@ -15,7 +15,7 @@ quotes:
       condescended to make known his secrets relating to the spiritual condition of
       others, and of his works among the children of men.
   - source: Ann Branson
-    text:
+    text: >-
       Spent some time this evening reading in the Journal of Thomas Scattergood; and it is
       renewedly sealed upon my mind that the great exercise and travail of soul that he
       passed though in England and America, in his ministerial labors, were designed as a
@@ -26,7 +26,7 @@ quotes:
 residences:
   - city: Philadelphia
     region: Pennsylvania
-description:
+description: >-
   Thomas Scattergood (1748 - 1814) was a minister in the Society of Friends who knew what
   it meant to be “in deaths often,” to be “hard-pressed on every side, yet not crushed;
   perplexed but not in despair.” But his many seasons of conflict and suffering were
@@ -41,13 +41,13 @@ description:
 documents:
   - id: 0af1efec-461d-4936-bf91-cc0f44a60bd9
     title: The Journal of Thomas Scattergood
-    original_title:
+    original_title: >-
       Memoirs of the Life and Religious Labors of Thomas Scattergood, A Minister of the
       Gospel in the Society of Friends.
     published: 1845
     slug: journal
     filename: Journal_of_Thomas_Scattergood
-    description:
+    description: >-
       Thomas Scattergood (1748 - 1814) was a minister in the Society of Friends who knew
       what it meant to be “in deaths often,” to be “hard-pressed on every side, yet not
       crushed; perplexed but not in despair.” But his many seasons of conflict and
@@ -60,7 +60,7 @@ documents:
       Though he always maintained a low opinion of himself, and spoke rarely and
       diffidently of the fruits of his ministry, all who knew him heartily testified to
       the baptizing and convincing power of his gospel labors.
-    partial_description:
+    partial_description: >-
       The journal and letters of Thomas Scattergood, showing his humility and
       steadfastness in the way of the cross while wading through deep trials, sorrows and
       perplexities; also relating his early travels in America in the work of the gospel,
@@ -74,7 +74,7 @@ documents:
         isbn: 978-1-64476-138-0
     related_documents:
       - id: 45dca7c2-3ff9-4a83-acdf-55ec1630cb25
-        description:
+        description: >-
           The name Rebecca Jones appears many times throughout the journal of Thomas
           Scattergood, and it is clear that she played a vital role in his life, both as
           an intimate friend and sister in the faith, and an encourager in the work of the

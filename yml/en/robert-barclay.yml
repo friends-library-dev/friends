@@ -7,14 +7,14 @@ born: 1648
 died: 1690
 quotes:
   - source: William Sewel
-    text:
+    text: >-
       Though [Robert Barclay’s] natural abilities were great enough to have made him
       surpass others in human learning, and so to have become famous among men, yet he so
       little valued that knowledge, that he in no way endeavored to be distinguished on
       that account. But his chief aim was to advance in real godliness, as the fellowship
       I had with him has undoubtedly assured me; for I was well acquainted with him.
   - source: Robert Barclay
-    text:
+    text: >-
       For what I have written comes more from my heart than from my head; from what I have
       heard with the ears of my soul and seen with my inward eyes, and my hands have
       handled of the Word of Life. What has been inwardly manifested to me of the things
@@ -23,7 +23,7 @@ quotes:
 residences:
   - city: Aberdeenshire
     region: Scotland
-description:
+description: >-
   Robert Barclay (1648–1690) was born into opulence and educated in some of the finest
   schools of the time, where his natural genius gained the admiration of both teachers and
   peers. But at seventeen years of age, upon entering a meeting of the people called
@@ -39,7 +39,7 @@ documents:
     title: Waiting Upon the Lord
     slug: waiting-upon-the-lord
     filename: Waiting_Upon_the_Lord
-    description:
+    description: >-
       Robert Barclay writes, “All true and acceptable worship to God is offered in the
       inward and immediate moving and drawing of His own Spirit.” It is not hard to agree
       with such a statement, but who has indeed stood still to see the salvation of the
@@ -49,7 +49,7 @@ documents:
       and obeyed His inward stirrings and teachings, or does the Seed of God lay buried in
       Christian hearts beneath a mass of superstition, assumption, and fleshy, religious
       activity?
-    partial_description:
+    partial_description: >-
       This treatise is a carefully modernized edition of the eleventh proposition of
       Robert Barclay’s “Apology for the True Christian Divinity”, showing the necessity
       and benefit of waiting upon the Lord for ability to worship, pray, and minister
@@ -69,17 +69,11 @@ documents:
             - title: Part 1
               external_id_hq: 258518813
               external_id_lq: 258518845
-              filesize_hq: 68297739
-              filesize_lq: 23103582
-              seconds: 3850
               chapters:
                 - 0
             - title: Part 2
               external_id_hq: 258706441
               external_id_lq: 258706449
-              filesize_hq: 53748619
-              filesize_lq: 18457206
-              seconds: 3076
               chapters:
                 - 1
   - id: a0aa67e3-e96e-44ea-a90c-db739d54eba6
@@ -87,14 +81,14 @@ documents:
     title: Saved to the Uttermost
     slug: saved-to-the-uttermost
     filename: Saved_to_the_Uttermost
-    description:
+    description: >-
       Robert Barclay’s “Apology for the True Christian Divinity” is perhaps the most
       well-known of all Friends’ writings. “Saved to the Uttermost” (which is taken from
       propositions four through eight of the Apology) brilliantly expounds some of the
       most vital and misunderstood aspects of Christianity, plainly manifesting the true
       nature, experience, and extent of the salvation that God offers the soul through
       Jesus Christ.
-    partial_description:
+    partial_description: >-
       This book is a carefully modernized edition of propositions four through eight of
       Robert Barclay’s “Apology for the True Christian Divinity,” treating upon the fall,
       redemption, justification, and perfection of man.
@@ -113,56 +107,38 @@ documents:
             - title: Chapter 1 - The Condition of Man in the Fall
               external_id_hq: 318326826
               external_id_lq: 318326834
-              filesize_hq: 28230905
-              filesize_lq: 9315222
-              seconds: 1552
               chapters:
                 - 0
             - title: Chapter 2 - The Universal Offer of Redemption
               external_id_hq: 318327801
               external_id_lq: 318327805
-              filesize_hq: 27750889
-              filesize_lq: 9489534
-              seconds: 1581
               chapters:
                 - 1
-            - title: Chapter 3 - The Seed, Light, and Grace of God
+            - title: 'Chapter 3 - The Seed, Light, and Grace of God'
               external_id_hq: 318328293
               external_id_lq: 318328297
-              filesize_hq: 44605038
-              filesize_lq: 15038790
-              seconds: 2506
               chapters:
                 - 2
             - title: Chapter 4 - The Proof of our Position
               external_id_hq: 318328737
               external_id_lq: 318328751
-              filesize_hq: 86674413
-              filesize_lq: 28902318
-              seconds: 4817
               chapters:
                 - 3
             - title: Chapter 5 - Concerning Justification
               external_id_hq: 318329178
               external_id_lq: 318329182
-              filesize_hq: 75060714
-              filesize_lq: 25775286
-              seconds: 4296
               chapters:
                 - 4
             - title: Chapter 6 - Concerning Perfection
               external_id_hq: 318329462
               external_id_lq: 318329466
-              filesize_hq: 40710812
-              filesize_lq: 14086014
-              seconds: 2347
               chapters:
                 - 5
   - id: a8da908c-c9b4-4583-a2a3-ee460a90a4b9
     title: Apology for the True Christian Divinity
     slug: apology
     filename: Apology
-    description:
+    description: >-
       Robert Barclay (1648–1690) was born into opulence and educated in some of the finest
       schools of the time, where his natural genius gained the admiration of both teachers
       and peers. But at seventeen years of age, upon entering a meeting of the people
@@ -173,7 +149,7 @@ documents:
       Barclay’s Apology for the True Christian Divinity was first published in 1675, and
       came to be considered the definitive exposition and defense of Quaker principles for
       the next 200 years.
-    partial_description:
+    partial_description: >-
       The Apology for the True Christian Divinity is perhaps the most well-known of all
       Friends publications, and has been considered the definitive exposition and defense
       of Quaker principles since the rise of their Society.
@@ -188,13 +164,13 @@ documents:
     title: Considerations upon Recreation and Entertainment
     slug: recreation-entertainment
     filename: Recreation_and_Entertainment
-    description:
+    description: >-
       This publication is a short extract from the fifteenth proposition of Robert
       Barclay’s “Apology for the True Christian Divinity,” showing how most common forms
       of entertainment and recreation do but stifle the soul’s longings after God, and
       serve only to draw men out from His fear, making them forget heaven, death, and
       judgment, while at the same time fostering lust, vanity, and carelessness.
-    partial_description:
+    partial_description: >-
       This publication is an extract from the fifteenth proposition of Robert Barclay’s
       “Apology for the True Christian Divinity,” showing how many common forms of
       entertainment and recreation war against the purpose of God for the immortal soul of
@@ -212,8 +188,5 @@ documents:
             - title: Part 1
               external_id_hq: 410125461
               external_id_lq: 410125467
-              filesize_hq: 9821821
-              filesize_lq: 3311934
-              seconds: 552
               chapters:
                 - 0

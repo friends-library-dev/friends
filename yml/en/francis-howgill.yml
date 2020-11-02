@@ -7,12 +7,12 @@ born: 1618
 died: 1669
 quotes:
   - source: Francis Howgill
-    text:
+    text: >-
       I have sought the way of the Lord from a child, and lived innocently as among men;
       and if any inquire concerning my latter end, let them know that I die in the faith
       in which I lived, and suffered for.
   - source: George Fox
-    text:
+    text: >-
       And though his blood does cry out for vengeance, yet he could say “the Lord forgive
       all my persecutors;” for having the mind of Christ, he desired the good of all, yes
       even the worst of his enemies, and in that desire for the good of all he did labor
@@ -21,7 +21,7 @@ quotes:
 residences:
   - city: Sedbergh
     region: England
-description:
+description: >-
   Francis Howgill (1618-1669), received a university education to become a minister in the
   Episcopal church. However, being dissatisfied with the superstition which he saw
   remaining in it, he soon left it, joining himself to the Independents, and then to the
@@ -36,13 +36,13 @@ documents:
     title: Some of the Mysteries of God’s Kingdom Declared
     slug: mysteries-of-gods-kingdom-declared
     filename: Mysteries_of_Gods_Kingdom_Declared
-    description:
+    description: >-
       Francis Howgill (1618–1668) was a valiant minister of the gospel in the early
       Society of Friends in England who suffered great persecution and eventually died in
       prison for “the Word of God and for the testimony of Jesus.” This short book
       contains a remarkable explanation of the Day of the Lord, and a powerful description
       of the Holy Spirit’s work in the heart of man.
-    partial_description:
+    partial_description: >-
       A short treatise written by Francis Howgill, describing the nature of the Day of the
       Lord, the effect of its dawning in the heart, and the necessity of our perfect
       surrender to the discoveries of Truth as they come to be seen in the light.
@@ -62,9 +62,6 @@ documents:
             - title: Part 1
               external_id_hq: 356658245
               external_id_lq: 356658263
-              filesize_hq: 48983218
-              filesize_lq: 16628334
-              seconds: 2771
               chapters:
                 - 0
                 - 1
@@ -77,9 +74,6 @@ documents:
             - title: Part 2
               external_id_hq: 356657495
               external_id_lq: 356657504
-              filesize_hq: 52226383
-              filesize_lq: 18086118
-              seconds: 3014
               chapters:
                 - 8
                 - 9

@@ -7,14 +7,14 @@ born: 1637
 died: 1656
 quotes:
   - source: Stephen Crisp
-    text:
+    text: >-
       And among these babes who thus came to receive a knowledge of the mysteries of the
       kingdom of God by the working of His divine power, was this noble child, James
       Parnell, who was a vessel of honor indeed, and mighty in the power and Spirit of
       Emmanuel. Much might be spoken of this young man, and a large testimony does live in
       my heart to his blessed life, and to the power and wisdom that abounded in him.
   - source: James Parnell
-    text:
+    text: >-
       Friend, stand in, and keep your mind to that which lets you see your enemies to be
       of your own house. Your imagination is an enemy; your wisdom is an enemy; that which
       has been precious to you is now your greatest enemy. Therefore, you must now
@@ -24,7 +24,7 @@ quotes:
 residences:
   - city: Retford
     region: England
-description:
+description: >-
   James Parnell (1637-1656) is said to have been “young, small of stature, and poor in
   appearance, but thousands were obliged to confess that “he spoke as one having
   authority, and not as the scribes.” He was convinced of the Truth when a boy of fourteen
@@ -40,7 +40,7 @@ documents:
     slug: life
     original_title: A Memoir of James Parnell with Extracts from His Writings
     filename: Life_of_James_Parnell
-    description:
+    description: >-
       James Parnell (1637-1656) is said to have been “young, small of stature, and poor in
       appearance, but thousands were obliged to confess that “he spoke as one having
       authority, and not as the scribes.” He was convinced of the Truth when a boy of
@@ -50,7 +50,7 @@ documents:
       confined to a small hole in the thick castle wall, twelve feet above the ground, and
       died from sickness and ill-treatment after ten months imprisonment at nineteen years
       of age.
-    partial_description:
+    partial_description: >-
       The Life and Writings of James Parnell, containing a narrative of his life,
       ministry, and sufferings, with extracts from his writings and epistles to the
       church, and an account of his imprisonment and death in Colchester Castle at the age
@@ -71,24 +71,15 @@ documents:
             - title: Part 1
               external_id_hq: 517270275
               external_id_lq: 517270314
-              filesize_hq: 58082338
-              filesize_lq: 12609452
-              seconds: 3152
               chapters:
                 - 0
             - title: Part 2
               external_id_hq: 517270758
               external_id_lq: 517270791
-              filesize_hq: 57935005
-              filesize_lq: 12539862
-              seconds: 3135
               chapters:
                 - 1
             - title: Part 3
               external_id_hq: 517271610
               external_id_lq: 517271649
-              filesize_hq: 49982636
-              filesize_lq: 11030088
-              seconds: 2757
               chapters:
                 - 2

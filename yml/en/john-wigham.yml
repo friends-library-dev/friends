@@ -16,7 +16,7 @@ residences:
     durations:
       - start: 1784
         end: 1839
-description:
+description: >-
   John Wigham (1749-1839) had strong desires raised in his heart to be the Lord’s servant
   when only eight years old, and feeling that he could not serve Him acceptably without
   being preserved from evil, he began then to implore the Lord to purify his heart and to
@@ -28,12 +28,12 @@ documents:
   - id: 84ca0ff5-f17c-49ff-9bde-6c9f67a6a352
     title: Journal of John Wigham
     slug: journal
-    original_title:
+    original_title: >-
       Memoirs of the Life, Gospel Labors, and Religious Experiences of John Wigham,
       Chiefly Written by Himself; To Which Are Added Some Concluding Remarks by His Son,
       Anthony Wigham.
     filename: Journal_of_John_Wigham
-    description:
+    description: >-
       John Wigham (1749-1839) had strong desires raised in his heart to be the Lord’s
       servant when only eight years old, and feeling that he could not serve Him
       acceptably without being preserved from evil, he began then to implore the Lord to
@@ -42,7 +42,7 @@ documents:
       the Lord to move their family (of seven children) from England to Scotland, where he
       served the declining church for the remainder of his long and fruitful life, dying
       in Aberdeen at the age of 91.
-    partial_description:
+    partial_description: >-
       A journal of the life, gospel labors, and religious experiences of John Wigham,
       chiefly written by himself; to which are added some biographical comments and
       concluding remarks by his son, Anthony Wigham.
@@ -55,7 +55,7 @@ documents:
         isbn: 978-1-64476-085-7
     related_documents:
       - id: 932ed314-b6c2-48c4-b4d8-19ca31d0db49
-        description:
+        description: >-
           During an extended ministry trip in the United States between the years 1794 and
           1797, John Wigham was often in the company of his esteemed friend Martha Routh
           visiting meetings of Friends and preaching the gospel among students, prisoners,

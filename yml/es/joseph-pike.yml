@@ -7,7 +7,7 @@ born: 1657
 died: 1729
 quotes:
   - source: Joseph Pike
-    text:
+    text: >-
       “Lo que de Dios se puede conocer, es manifiesto dentro del hombre.” Es ahí donde
       Cristo mismo enseña a Su pueblo. Cuánto más nos mantengamos vueltos hacia el
       interior en esta escuela, más aprenderemos de Cristo. Cuánto menos nos mantengamos
@@ -19,7 +19,7 @@ quotes:
 residences:
   - city: Cork
     region: Ireland
-description:
+description: >-
   Joseph Pike (1657-1729) fue convencido de la verdad a través de la poderosa predicación
   de William Edmundson, y se convirtió en un anciano sabio y fiel en la Sociedad de Amigos
   en Irlanda. Él escribió en su vejez un relato de sus primeros años, de sus luchas
@@ -33,7 +33,7 @@ documents:
     title: Selección de la Vida de Joseph Pike
     slug: seleccion-de-la-vida
     filename: Seleccion_de_la_Vida_de_Joseph_Pike
-    description:
+    description: >-
       Joseph Pike (1657-1729) fue convencido de la verdad a través de la poderosa
       predicación de William Edmundson, y se convirtió en un anciano sabio y fiel en la
       Sociedad de Amigos en Irlanda. Él escribió en su vejez un relato de sus primeros
@@ -42,7 +42,7 @@ documents:
       relata (con detalles que son de mucha ayuda) los tratos del Señor con él, primero
       como Juez, luego como Refinador de plata, y eventualmente como Consolador y
       Fortalecedor de Sion.
-    partial_description:
+    partial_description: >-
       Un extracto del diario y escritos de Joseph Pike, que contiene un relato de sus
       viajes espirituales y de los distintos tratos de Dios con su alma por los que tuvo
       que pasar en el camino de la regeneración.
@@ -58,8 +58,5 @@ documents:
             - title: Selección de la Vida de Joseph Pike
               external_id_hq: 809127286
               external_id_lq: 809126293
-              filesize_hq: 42170388
-              filesize_lq: 9885740
-              seconds: 2471
               chapters:
                 - 0

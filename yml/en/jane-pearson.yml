@@ -7,7 +7,7 @@ born: 1734
 died: 1816
 quotes:
   - source: Jane Pearson
-    text:
+    text: >-
       Dear Friends, nothing will do but keeping near to God, and dwelling always as in His
       presence! Do nothing in His sight that you would be afraid any mortal should see.
       Keep a pure heart and clean hands, and the end will be peace.
@@ -22,7 +22,7 @@ residences:
     durations:
       - start: 1791
         end: 1816
-description:
+description: >-
   Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in many
   ways, resembled that of Job. About a year after her marriage, having begun in earnest to
   take up her cross and follow the Lord, she found that her “false rest was broken,” and
@@ -39,7 +39,7 @@ documents:
     slug: life
     filename: Life_and_Experiences_of_Jane_Pearson
     original_title: Sketches of the Life and Religious Experiences of Jane Pearson
-    description:
+    description: >-
       Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in
       many ways, resembled that of Job. About a year after her marriage, having begun in
       earnest to take up her cross and follow the Lord, she found that her “false rest was
@@ -51,7 +51,7 @@ documents:
       this world and its treasures, the more she gained of eternal riches, and her
       experiences of God’s power and mercy in her latter years were truly a hundredfold
       more than all she had lost.
-    partial_description:
+    partial_description: >-
       The Life and Experiences of Jane Pearson, giving and account of her early dedication
       to the Lord, her uncommon trials (both inward and outward), her labors as a minister
       in the Society of Friends, and her extraordinary religious experiences in later
@@ -70,7 +70,7 @@ documents:
     title: Selection from the Life of Jane Pearson
     slug: life-selection
     filename: Selection_Life_of_Jane_Pearson
-    description:
+    description: >-
       Jane Pearson (1735-1816) was a minister in the Society of Friends whose life, in
       many ways, resembled that of Job. About a year after her marriage, having begun in
       earnest to take up her cross and follow the Lord, she found that her “false rest was
@@ -82,7 +82,7 @@ documents:
       this world and its treasures, the more she gained of eternal riches, and her
       experiences of God’s power and mercy in her latter years were truly a hundredfold
       more than all she had lost.
-    partial_description:
+    partial_description: >-
       A selection from The Life and Experiences of Jane Pearson, giving and account of her
       early dedication to the Lord, her uncommon trials (both inward and outward), her
       labors as a minister in the Society of Friends, and her extraordinary religious
@@ -100,8 +100,5 @@ documents:
             - title: Selection from the life of Jane Pearson
               external_id_hq: 871404019
               external_id_lq: 871403554
-              filesize_hq: 98971957
-              filesize_lq: 21673619
-              seconds: 5418
               chapters:
                 - 0

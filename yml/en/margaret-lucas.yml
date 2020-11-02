@@ -8,7 +8,7 @@ died: 1769
 residences:
   - city: Leek
     region: England
-description:
+description: >-
   Margaret Lucas (1701-1769) was the youngest of fourteen children, and upon the death of
   her parents, was taken in and raised by her aunt and uncle. When about sixteen years of
   age, “upon a strict review” of herself, she concluded that she had “no evidence of the
@@ -23,7 +23,7 @@ documents:
     title: The Life of Margaret Lucas
     slug: life
     filename: Life_of_Margaret_Lucas
-    description:
+    description: >-
       Margaret Lucas (1701-1769) was the youngest of fourteen children, and upon the death
       of her parents, was taken in and raised by her aunt and uncle. When about sixteen
       years of age, “upon a strict review” of herself, she concluded that she had “no
@@ -34,7 +34,7 @@ documents:
       meetings of the Society of Friends. But it soon became distressingly evident that
       following the voice of the Good Shepherd would cause her to be ridiculed by the
       world, and rejected and abused by her own family.
-    partial_description:
+    partial_description: >-
       An account of the life of Margaret Lucas, relating her convincement of the truth
       when young, the difficulties and painful trials she endured because of her
       faithfulness to Christ, and the great struggle she later met with for resisting the

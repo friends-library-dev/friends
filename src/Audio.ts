@@ -115,24 +115,6 @@ export default class Audio {
     return this.data.added;
   }
 
-  public get duration(): string {
-    const totalSeconds = this.parts.reduce((total, part) => total + part.seconds, 0);
-    const hours = Math.floor(totalSeconds / (60 * 60));
-    const minutes = Math.floor((totalSeconds - hours * 60 * 60) / 60);
-    const seconds = totalSeconds % 60;
-    return [hours, minutes, seconds]
-      .filter((num, idx, parts) => {
-        if (num !== 0) {
-          return true;
-        }
-        return parts.slice(idx + 1).every((part) => part === 0);
-      })
-      .map(String)
-      .map((part) => part.padStart(2, `0`))
-      .join(`:`)
-      .replace(/^0/, ``);
-  }
-
   public toJSON(): Omit<
     Audio,
     | 'edition'
@@ -160,7 +142,6 @@ export default class Audio {
       m4bFilenameHq: this.m4bFilenameHq,
       m4bFilepathLq: this.m4bFilepathLq,
       m4bFilepathHq: this.m4bFilepathHq,
-      duration: this.duration,
       added: this.added,
     };
   }

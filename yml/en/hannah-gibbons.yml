@@ -7,7 +7,7 @@ born: 1771
 died: 1868
 quotes:
   - source: William Evans
-    text:
+    text: >-
       The faculties of our aged friend [Hannah Gibbons, at 81 years of age] are remarkably
       preserved; the staidness and solidity of her spirit are peculiar, and the constant
       exercise of her mind, trained in the school of Christ and ornamented with the
@@ -17,7 +17,7 @@ quotes:
       favor to have such a pillar and watch-woman continued in the militant church, to so
       late a period of life.
   - source: Ann Branson
-    text:
+    text: >-
       On the day following, we visited dear Hannah Gibbons, who was in her ninety-fifth
       year. Truly it was a strengthening, encouraging visit to my mind. She was lively and
       green in old age, remembered her visit to Ohio made in her eightieth year, and could
@@ -25,7 +25,7 @@ quotes:
 residences:
   - city: Philadelphia
     region: Pennsylvania
-description:
+description: >-
   Hannah Gibbons (1771-1868) was a meek but truly living minister in the later period of
   the Society of Friends. Though she forever maintained a low view of herself and her
   spiritual attainments, she was considered by all to be a pillar in church, traveling in
@@ -38,7 +38,7 @@ documents:
     title: Journal of Hannah Gibbons
     slug: journal
     filename: Journal_of_Hannah_Gibbons
-    description:
+    description: >-
       Hannah Gibbons (1771-1868) was a meek but truly living minister in the later period
       of the Society of Friends. Though she forever maintained a low view of herself and
       her spiritual attainments, she was considered by all to be a pillar in church,
@@ -46,7 +46,7 @@ documents:
       of the Lord, in old age, to visit hardened prisoners who were condemned to death.
       She remained spiritually green and fruitful to the very end of her life, and died
       with a heart full of life, wisdom, and deep spiritual experience at 97 years of age.
-    partial_description:
+    partial_description: >-
       The journal, letters, and religious experiences of Hannah Gibbons, an unassuming but
       valuable minister in the Society of Friends, who travelled in the work of the
       ministry well into her eighties, and finished her race still “lively and green” in
@@ -60,7 +60,7 @@ documents:
         isbn: 978-1-64476-034-5
     related_documents:
       - id: bd22a3f4-51e1-45a5-9b65-2f0b21bde039
-        description:
+        description: >-
           On many occasions throughout his journal, William Evans mentions his great
           respect and loving regard for that “mother in our Israel”, Hannah Gibbons. A
           letter of hers was included by Evans in his journal, which appears to have been

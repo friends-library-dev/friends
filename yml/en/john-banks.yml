@@ -7,20 +7,20 @@ born: 1637
 died: 1710
 quotes:
   - source: William Penn
-    text:
+    text: >-
       He [John Banks] was a means of strength to my soul in the early days of my
       convincement. I was kindly encouraged by him in the belief of the blessed doctrine
       of the light, spirit, grace, and truth of Christ in the inward parts, reproving,
       instructing, reforming, and redeeming those souls from the evil of the world, who
       were obedient thereunto.
   - source: John Banks (dying words)
-    text:
+    text: >-
       It is well with me. I have nothing to do but to die, and I shall end in the Truth as
       I began.
 residences:
   - city: Sunderland
     region: England
-description:
+description: >-
   John Banks (1637-1710) was a faithful and influential minister among the first
   generation of Quakers. Upon his death, an intimate friend wrote of him—“After it had
   pleased the eternal, wise God to open his understanding, and to let him see his own
@@ -35,7 +35,7 @@ documents:
     title: Selection from the Journal of John Banks
     slug: journal-selection
     filename: Selection_Journal_of_John_Banks
-    description:
+    description: >-
       John Banks (1637-1710) was a faithful and influential minister among the first
       generation of Quakers. Upon his death, an intimate friend wrote of him—“After it had
       pleased the eternal, wise God to open his understanding, and to let him see his own
@@ -45,7 +45,7 @@ documents:
       which he grew, and was made powerful in it, to the turning of many unto the right
       way of the Lord who were convinced of the evil of their ways, and turned unto Jesus
       Christ, their free Teacher, and were made to bless the Lord on his behalf.”
-    partial_description:
+    partial_description: >-
       A selection from the Journal of John Banks, giving a relation of his early discovery
       of the truth, his call to the ministry, and his sufferings for the gospel; also
       containing a number of letters to his wife and children written from prison.
@@ -62,21 +62,18 @@ documents:
             - title: Selection from the Journal of John Banks
               external_id_hq: 658198382
               external_id_lq: 658198421
-              filesize_hq: 65600687
-              filesize_lq: 18046326
-              seconds: 3609
               chapters:
                 - 0
   - id: 6237d678-48f8-44df-9eac-004562987a60
     title: The Journal and Epistles of John Banks
     slug: journal
-    original_title:
+    original_title: >-
       The Journal of the Labours, Travels, and Sufferings in the Gospel of that Faithful
       Minister of Jesus Christ John Banks; With a Collection of His Epistles, and Papers,
       Written in Testimony of the Truth, and Published According to His Desire in His
       Lifetime, for Future Service.
     filename: Journal_of_John_Banks
-    description:
+    description: >-
       John Banks (1637-1710) was a faithful and influential minister among the first
       generation of Quakers. Upon his death, an intimate friend wrote of him—“After it had
       pleased the eternal, wise God to open his understanding, and to let him see his own
@@ -86,7 +83,7 @@ documents:
       which he grew, and was made powerful in it, to the turning of many unto the right
       way of the Lord who were convinced of the evil of their ways, and turned unto Jesus
       Christ, their free Teacher, and were made to bless the Lord on his behalf.”
-    partial_description:
+    partial_description: >-
       A journal of the labors, travels, and sufferings for the gospel of John Banks,
       including a large collection of letters written to his wife and children, with
       epistles to the church, and several papers and treatises on various subjects.

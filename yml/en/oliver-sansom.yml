@@ -7,15 +7,15 @@ born: 1636
 died: 1710
 quotes:
   - source: Thomas Ellwood
-    text:
-      '[Oliver Sansom] was a good steward of his Master’s treasures; a faithful dispenser
+    text: >-
+      [Oliver Sansom] was a good steward of his Master’s treasures; a faithful dispenser
       of the divine mysteries committed to him; an inward and heavenly-minded man, more in
       substance than in show; greater in power than in expression; a man meek and quiet in
-      spirit, yet full in zeal.'
+      spirit, yet full in zeal.
 residences:
   - city: Abingdon
     region: England
-description:
+description: >-
   Oliver Sansom (1636-1710) was an early minister in the Society of Friends, whose heart
   was first awakened to the Truth while reading a work of Isaac Penington’s entitled, “The
   Way of Life and Death Made Manifest and Set Before Men.” Feeling it required of him to
@@ -29,14 +29,14 @@ description:
 documents:
   - id: 67f4202e-ceff-402c-ad33-c1cb530dd247
     title: The Life of Oliver Sansom
-    original_title:
-      'The Life of Oliver Sansom His Convincement of the Truth, the Exercises, Trials and
+    original_title: >-
+      The Life of Oliver Sansom His Convincement of the Truth, the Exercises, Trials and
       Sufferings Which Came Upon Him for His Obedience Thereunto: Also Relating Some of
       His Travels and Labours in the Work of the Ministry for Turning People from Darkness
-      to Light.'
+      to Light.
     slug: life
     filename: Life_of_Oliver_Sansom
-    description:
+    description: >-
       Oliver Sansom (1636-1710) was an early minister in the Society of Friends, whose
       heart was first awakened to the Truth while reading a work of Isaac Penington’s
       entitled, “The Way of Life and Death Made Manifest and Set Before Men.” Feeling it
@@ -48,7 +48,7 @@ documents:
       inward and heavenly-minded man. He was more in substance than in show, greater in
       power than in expression, a man of a meek and quiet spirit, yet full zeal—who lived
       and died a servant of the Lord.”
-    partial_description:
+    partial_description: >-
       The life of Oliver Sansom, giving an account of his convincement of the Truth, and
       the many trials, sufferings, and imprisonments which befell him for his obedience to
       it; also relating some of his travels and labors in the work of the ministry.

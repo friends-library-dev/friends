@@ -7,7 +7,7 @@ born: 1809
 died: 1891
 quotes:
   - source: Ann Branson
-    text:
+    text: >-
       Dearest Lord, remember my affliction, and enable me to say in deed and in truth,
       Your kingdom come, Your will be done in me, and by me, and through me, unworthy worm
       as I am. Oh let not Your hand spare, nor Your eye pity me, until You cause me to
@@ -15,8 +15,7 @@ quotes:
 residences:
   - city: Flushing
     region: Ohio
-
-description:
+description: >-
   Ann Branson (1808-1891) was one of the very last, true ministers (having been prepared,
   called, and used of the Lord) in a greatly reduced and sadly degenerate Society. Her
   deepest cry to the Lord, from the days of her childhood, was that “His eye would not
@@ -30,7 +29,7 @@ documents:
     title: The Journal of Ann Branson
     slug: journal
     filename: Journal_of_Ann_Branson
-    description:
+    description: >-
       Ann Branson (1808-1891) was one of the very last, true ministers (having been
       prepared, called, and used of the Lord) in a greatly reduced and sadly degenerate
       Society. Her deepest cry to the Lord, from the days of her childhood, was that “His
@@ -40,7 +39,7 @@ documents:
       day who stood in the purity and power of the original Quakers, even while all around
       her the 200 year old lampstand of the Society of Friends slowly and tragically
       burned out.
-    partial_description:
+    partial_description: >-
       The journal and letters of Ann Branson, a minister in the Society of Friends who
       faithfully adhered to the principles and practices of Truth in a time of great
       division and decadence.
@@ -59,113 +58,74 @@ documents:
             - title: Chapter 1
               external_id_hq: 918043871
               external_id_lq: 918045782
-              filesize_hq: 290265920
-              filesize_lq: 15642435
-              seconds: 3114
               chapters:
                 - 0
                 - 1
             - title: Chapter 2
               external_id_hq: 918456238
               external_id_lq: 918458191
-              filesize_hq: 24704746
-              filesize_lq: 12966816
-              seconds: 2579
               chapters:
                 - 2
             - title: Chapter 3
               external_id_hq: 918460222
               external_id_lq: 918536779
-              filesize_hq: 26149205
-              filesize_lq: 13960775
-              seconds: 2778
               chapters:
                 - 3
             - title: Chapter 4
               external_id_hq: 918539095
               external_id_lq: 918540946
-              filesize_hq: 27345404
-              filesize_lq: 14494457
-              seconds: 2884
               chapters:
                 - 4
             - title: Chapter 5
               external_id_hq: 918543445
               external_id_lq: 918546844
-              filesize_hq: 34999561
-              filesize_lq: 18397281
-              seconds: 3665
               chapters:
                 - 5
             - title: Chapter 6
               external_id_hq: 918549142
               external_id_lq: 918560635
-              filesize_hq: 40091408
-              filesize_lq: 21214326
-              seconds: 4228
               chapters:
                 - 6
             - title: Chapter 7
               external_id_hq: 918563152
               external_id_lq: 918565882
-              filesize_hq: 42880587
-              filesize_lq: 22291355
-              seconds: 4444
               chapters:
                 - 7
             - title: Chapter 8
               external_id_hq: 918566872
               external_id_lq: 918567265
-              filesize_hq: 48869672
-              filesize_lq: 25786277
-              seconds: 5143
               chapters:
                 - 8
             - title: Chapter 9
               external_id_hq: 918567895
               external_id_lq: 918568240
-              filesize_hq: 40109299
-              filesize_lq: 20677379
-              seconds: 4121
               chapters:
                 - 9
             - title: Chapter 10
               external_id_hq: 918568612
               external_id_lq: 918568804
-              filesize_hq: 31778078
-              filesize_lq: 16564274
-              seconds: 3298
               chapters:
                 - 10
             - title: Chapter 11
               external_id_hq: 918569149
               external_id_lq: 918569320
-              filesize_hq: 32278250
-              filesize_lq: 16847572
-              seconds: 3355
               chapters:
                 - 11
             - title: Chapter 12
               external_id_hq: 918569578
               external_id_lq: 918569785
-              filesize_hq: 23020668
-              filesize_lq: 12173874
-              seconds: 2420
               chapters:
                 - 12
             - title: Chapter 13
               external_id_hq: 918570124
               external_id_lq: 918570292
-              filesize_hq: 28705164
-              filesize_lq: 14981384
-              seconds: 2982
               chapters:
                 - 13
       - type: original
         isbn: 978-1-64476-006-2
     related_documents:
       - id: 0451a301-8654-42e3-8701-6288579e5bbb
-        description:
+        description: >-
           In contending earnestly for the faith once delivered to the saints, Ann Branson
           found a true friend and fellow-laborer in Joseph Edgerton, whose journal
           contains many letters addressed to her, and several references to the value of

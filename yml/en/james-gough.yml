@@ -7,12 +7,12 @@ born: 1712
 died: 1780
 quotes:
   - source: Samuel Neale
-    text:
-      '[James Gough] was a living minister, and well instructed in the mysteries of the
+    text: >-
+      [James Gough] was a living minister, and well instructed in the mysteries of the
       kingdom; he was adorned with the beautiful robes of love, and he eminently felt
       peace on earth to abound in him, and goodwill towards men. He was a devoted faithful
       labourer in the heavenly vineyard, and he delighted to see the youth under a
-      heavenly visitation, fitting and preparing for the Lord’s vineyard.'
+      heavenly visitation, fitting and preparing for the Lord’s vineyard.
 residences:
   - city: Kendal
     region: England
@@ -29,7 +29,7 @@ residences:
     durations:
       - start: 1744
         end: 1780
-description:
+description: >-
   ​As a boy, James Gough (1712-1780) was known for his genius intellect, having mastered
   the Greek and Latin tongues when still a young child. At one point, after conversing
   with young James, a distinguished Justice of the Peace so admired his propensity for
@@ -42,12 +42,12 @@ description:
 documents:
   - id: 9c43d93e-8bfb-43bc-a238-310cf00b77a1
     title: The Journal of James Gough
-    original_title:
+    original_title: >-
       Memoirs of the Life, Religious Experiences and Labours in the Gospel of James Gough,
       Late of the City of Dublin, Deceased.
     slug: journal
     filename: Journal_of_James_Gough
-    description:
+    description: >-
       As a boy, James Gough (1712-1780) was known for his genius intellect, having
       mastered the Greek and Latin tongues when still a young child. At one point, after
       conversing with young James, a distinguished Justice of the Peace so admired his
@@ -58,7 +58,7 @@ documents:
       well-beloved minister among the Society of Friends, but having learned to live low
       at the feet of His Master, he was always remarkable for his deep humility, and low
       opinion of himself.
-    partial_description:
+    partial_description: >-
       The journal of James Gough, relating his spiritual development, experiences in the
       ministry, and insightful commentary about the state of the Society of Friends; also
       containing a lengthy supplement to the journal complied by his brother John Gough

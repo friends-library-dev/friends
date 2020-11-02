@@ -7,7 +7,7 @@ born: 1637
 died: 1698
 quotes:
   - source: Charles Marshall
-    text:
+    text: >-
       He aprendido, que desde el inicio mismo de la obra de restauración y redención en
       cada individuo, la preservación de todos se encuentra en que nos retiremos
       internamente hacia Dios, en que nos mantengamos muy humillados (en el puro temor,
@@ -18,7 +18,7 @@ quotes:
 residences:
   - city: Bristol
     region: England
-description:
+description: >-
   Charles Marshall (1637-1698) fue convencido de la Verdad a los diecisiete años por el
   poderoso ministerio de John Aduland y John Camm, y con el tiempo se convirtió él mismo
   en un respetado ministro y anciano en la Sociedad de Amigos. Este corto pero instructivo
@@ -31,14 +31,14 @@ documents:
     title: Selección del Diario de Charles Marshall
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_Charles_Marshall
-    description:
+    description: >-
       Charles Marshall (1637-1698) fue convencido de la Verdad a los diecisiete años por
       el poderoso ministerio de John Aduland y John Camm, y con el tiempo se convirtió él
       mismo en un respetado ministro y anciano en la Sociedad de Amigos. Este corto pero
       instructivo diario describe la experiencia progresiva que Marshall tenía de la luz
       de Jesucristo como su juez y maestro, y también expone varias de las trampas y
       tentaciones del enemigo que encontró y venció en el camino.
-    partial_description:
+    partial_description: >-
       Un extracto del diario de Charles Marshall que describe la experiencia progresiva
       que Marshall tenía de la luz de Jesucristo como su juez y maestro, y también expone
       varias de las trampas y tentaciones del enemigo que encontró y venció en el camino.
@@ -52,7 +52,7 @@ documents:
     title: El Camino de la Vida Revelado y El Camino de la Muerte Descubierto
     slug: camino-de-vida-revelado
     filename: Camino_de_Vida_Revelado
-    description:
+    description: >-
       Charles Marshall (1637-1698) fue convencido de la verdad a los diecisiete años de
       edad por el poderoso ministerio de John Audland John Camm, y eventualmente él mismo
       se volvió un honorable ministro y anciano en la antigua Sociedad de los Amigos. Este
@@ -60,7 +60,7 @@ documents:
       caída, el medio por el cual Dios restaura al alma arrepentida a la imagen de Dios, y
       muchas de las trampas, engaños y tentaciones que son presentadas por el enemigo de
       la felicidad del hombre.
-    partial_description:
+    partial_description: >-
       El Camino de la Vida Revelado y El Camino de la Muerte Descubierto — Donde se
       declara el estado de felicidad del hombre antes de la caída, su estado miserable en
       la caída, y el camino para ser restaurado de la caída, a la imagen de Dios.

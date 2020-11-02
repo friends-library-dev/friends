@@ -7,7 +7,7 @@ born: 1765
 died: 1826
 quotes:
   - source: Thomas Scattergood
-    text:
+    text: >-
       Ann Crowley, a young woman, sat near me, and appeared under exercise, but did not
       give up to speak; and at the grave I thought she again appeared under a concern to
       express something to the people; so I took her by the arm and put her before me, and
@@ -23,7 +23,7 @@ residences:
     durations:
       - start: 1795
         end: 1826
-description:
+description: >-
   Ann Crowley (1765-1826) was one of eight sisters who lived together for many years in
   spiritual unity and tender affection. Though all of her siblings appear to have been
   preachers of righteousness in life and conduct, Ann was called of the Lord to serve Him
@@ -38,7 +38,7 @@ documents:
     original_title: Some Account the Religious Experience of Ann Crowley
     slug: life
     filename: Life_of_Ann_Crowley
-    description:
+    description: >-
       Ann Crowley (1765-1826) was one of eight sisters who lived together for many years
       in spiritual unity and tender affection. Though all of her siblings appear to have
       been preachers of righteousness in life and conduct, Ann was called of the Lord to
@@ -48,7 +48,7 @@ documents:
       of resignation, and with the encouragement of some valuable Friends (like Debra
       Darby and Thomas Scattergood), she put her hand to the gospel plow and never looked
       back.
-    partial_description:
+    partial_description: >-
       A short narrative of the life and Christian experiences of Ann Crowley, giving a
       relation of her call to the ministry and labors in the gospel; also containing a
       testimony of the life and dying sayings of her sister, Rebecca Crowley.
@@ -61,7 +61,7 @@ documents:
         isbn: 978-1-64476-197-7
     related_documents:
       - id: 0af1efec-461d-4936-bf91-cc0f44a60bd9
-        description:
+        description: >-
           During his six years in Europe in the service of the gospel, Thomas Scattergood
           was like a “father in Israel” to young Ann Crowley, often giving her counsel and
           encouragement in the path of discipleship and in the work of the ministry.

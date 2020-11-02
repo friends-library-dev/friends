@@ -5,7 +5,7 @@ gender: male
 added: 2020-09-27T23:35:05.932Z
 born: 1658
 died: 1709
-description:
+description: >-
   William Ellis (1658-1709) was convinced of the blessed Truth at eighteen years of age
   when working as an apprentice to a linen-weaver in Skipton, England. Both he and his
   wife Alice became faithful laborers in the harvest of the Lord, giving themselves to
@@ -24,7 +24,7 @@ documents:
     title: The Life and Letters of William and Alice Ellis
     slug: life-and-letters
     filename: Life_and_Letters_of_William_Alice_Ellis
-    description:
+    description: >-
       William Ellis (1658-1709) was convinced of the blessed Truth at eighteen years of
       age when working as an apprentice to a linen-weaver in Skipton, England. Both he and
       his wife Alice became faithful laborers in the harvest of the Lord, giving
@@ -35,7 +35,7 @@ documents:
       pious couple shined with true Christian humility, honesty, and single-hearted
       devotion, and with a genuine concern that all the Lord’s people walk in the beauty
       of holiness under government of the Spirit.
-    partial_description:
+    partial_description: >-
       The Lives and Letters of William and Alice Ellis, containing a biographical account
       of this worthy couple, a large collection of personal letters both to and from
       prominent early Friends (like William Edmundson, John Richardson, etc.), and a short
@@ -50,7 +50,7 @@ documents:
         isbn: 978-1-64476-244-8
     related_documents:
       - id: b61fceff-a434-43f4-9443-342a9137202e
-        description:
+        description: >-
           William Edmundson was an intimate friend and spiritual father to the younger
           William Ellis. The Life and Letters of William and Alice Ellis contains a number
           of interesting and edifying letters both to and from this eminent minister in

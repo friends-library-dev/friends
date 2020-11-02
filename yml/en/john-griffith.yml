@@ -7,7 +7,7 @@ born: 1713
 died: 1776
 quotes:
   - source: John Griffith
-    text:
+    text: >-
       Very gross is the deception of those who imagine the whole work of regeneration to
       be instantaneous. This can be nothing else but a delusion of Satan, to settle people
       at rest in a state of self-security as soon as he can. Oh! what a length of time it
@@ -30,7 +30,7 @@ residences:
     durations:
       - start: 1750
         end: 1776
-description:
+description: >-
   From a wild and thoughtless youth, John Griffith (1713-1776) was made a wise and careful
   minister of the gospel. His journal is filled with heavenly wisdom gained from personal
   experience of both the Lord’s goodness and guidance, and the enemy’s snares and
@@ -45,7 +45,7 @@ documents:
     title: Selection from the Journal of John Griffith
     slug: journal-selection
     filename: Selection_Journal_of_John_Griffith
-    description:
+    description: >-
       From a wild and thoughtless youth, John Griffith (1713-1776) was made a wise and
       careful minister of the gospel. His journal is filled with heavenly wisdom gained
       from personal experience of both the Lord’s goodness and guidance, and the enemy’s
@@ -54,7 +54,7 @@ documents:
       lifeless words amongst a people once distinguished by their adherence to the inward
       power and purity of the Holy Spirit. This instructive portion of his lengthy journal
       deals with his conversion, spiritual growth, and call to the ministry.
-    partial_description:
+    partial_description: >-
       A selection from the journal of the life, travels, and labors in the work of the
       ministry of John Griffith, providing great insight into the nature of true
       Christianity, the work of the ministry, and the present condition of the church.
@@ -71,20 +71,17 @@ documents:
             - title: Selection from the Journal of John Griffith
               external_id_hq: 748335079
               external_id_lq: 748334743
-              filesize_hq: 58065311
-              filesize_lq: 12886868
-              seconds: 3221
               chapters:
                 - 0
   - id: f93a7eb9-cef7-4b30-81da-7d1a3cd35de2
     title: The Journal of John Griffith
     slug: journal
-    original_title:
+    original_title: >-
       A Journal of the Life, Travels, and Labours in the Work of the Ministry, of John
       Griffith
     published: 1779
     filename: Journal_of_John_Griffith
-    description:
+    description: >-
       From a wild and thoughtless youth, John Griffith (1713-1776) was made a wise and
       careful minister of the gospel. His journal is filled with heavenly wisdom gained
       from personal experience of both the Lord’s goodness and guidance, and the enemy’s
@@ -93,7 +90,7 @@ documents:
       lifeless words amongst a people once distinguished by their adherence to the inward
       power and purity of the Holy Spirit. Doubtless his life and experiences will be read
       with great interest by every sincere seeker of God.
-    partial_description:
+    partial_description: >-
       A journal of the life, travels, and labors in the work of the ministry of John
       Griffith, providing great insight into the nature of true Christianity, the work of
       the ministry, and the present condition of the church.
@@ -107,16 +104,16 @@ documents:
     slug: ancient-path
     filename: Ancient_Path
     published: 1762
-    original_title:
+    original_title: >-
       Some Brief Remarks Upon Sundry Important Subjects, Necessary to be understood and
       attended to by all professing the Christian Religion. Principally Addressed to the
       People called Quakers
-    description:
+    description: >-
       This treatise, written by John Griffith in 1762, contains insightful commentary and
       valuable counsel on the subjects of parenting, the new birth, the nature of true
       worship, true and false ministry, and the right understanding and practice of
       discipline in the Church.
-    partial_description:
+    partial_description: >-
       This treatise, written by John Griffith in 1762, contains insightful commentary and
       valuable counsel on the subjects of parenting, the new birth, the nature of true
       worship, true and false ministry, and the right understanding and practice of
@@ -133,44 +130,29 @@ documents:
           external_playlist_id_hq: 971890846
           external_playlist_id_lq: 971900905
           parts:
-            - title:
+            - title: >-
                 Section 1 - Tender Advice, Caution, and Counsel to Parents and Children
               external_id_hq: 407598861
               external_id_lq: 407598879
-              filesize_hq: 32634686
-              filesize_lq: 10893534
-              seconds: 1815
               chapters:
                 - 0
             - title: Section 2 - The Nature and Necessity of the New Birth
               external_id_hq: 410213409
               external_id_lq: 410213439
-              filesize_hq: 32305895
-              filesize_lq: 10845582
-              seconds: 1807
               chapters:
                 - 1
             - title: Section 3 - The Nature of True Worship
               external_id_hq: 414707667
               external_id_lq: 414707691
-              filesize_hq: 33062456
-              filesize_lq: 11006070
-              seconds: 1834
               chapters:
                 - 2
             - title: Section 4 - Remarks Upon the True and the False Ministry
               external_id_hq: 421957032
               external_id_lq: 421957044
-              filesize_hq: 29475317
-              filesize_lq: 10145526
-              seconds: 1691
               chapters:
                 - 3
             - title: Section 5 - The Nature and Usefulness of Christian Discipline
               external_id_hq: 428643531
               external_id_lq: 428643540
-              filesize_hq: 49172349
-              filesize_lq: 10293435
-              seconds: 2573
               chapters:
                 - 4

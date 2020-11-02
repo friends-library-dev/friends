@@ -8,7 +8,7 @@ died: 1705
 residences:
   - city: Bampton
     region: England
-description:
+description: >-
   Ambrose Rigge (1635-1705) was early convinced of the truth through the preaching of
   George Fox, and grew to be a powerful minister of the gospel, a faithful elder, and a
   great sufferer for the cause of Christ. In one of his letters, he writes, “I have been
@@ -23,7 +23,7 @@ documents:
     title: The Journal and Writings of Ambrose Rigge
     slug: journal-and-writings
     filename: Journal_of_Ambrose_Rigge
-    description:
+    description: >-
       Ambrose Rigge (1635-1705) was early convinced of the truth through the preaching of
       George Fox, and grew to be a powerful minister of the gospel, a faithful elder, and
       a great sufferer for the cause of Christ. In one of his letters, he writes, “I have
@@ -34,7 +34,7 @@ documents:
       and establish the flock. Ambrose Rigge was one of many in his generation who sold
       all to buy the Pearl of great price, and having found true treasure, he kept it till
       the end.
-    partial_description:
+    partial_description: >-
       A journal of the life, sufferings, and Christian labors of Ambrose Rigge, including
       a collection of epistles to the church, and treatises on the fall of man, the inward
       and spiritual grace of God, the kingdom of Christ, and other important subjects.

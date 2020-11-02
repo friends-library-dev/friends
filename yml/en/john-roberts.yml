@@ -6,7 +6,7 @@ added: 2019-06-25T19:04:49.000Z
 died: 1684
 quotes:
   - source: Daniel Roberts (son of John Roberts)
-    text:
+    text: >-
       As [my father] passed the market-place, the tie of his shoe slackened; and while he
       stooped down to fasten it, a man came behind him and struck him on the back a hard
       blow with a stone, saying, “There, take that for Jesus Christ’s sake!” He answered,
@@ -14,7 +14,7 @@ quotes:
 residences:
   - city: Cirencester
     region: England
-description:
+description: >-
   John Roberts (1623-1684) was a man of piety, wisdom, and remarkable wit. He was
   convinced of the truth through the powerful ministry of Richard Farnsworth, while the
   latter was a prisoner at Banbury Jail, and through heartfelt submission to the truth
@@ -27,7 +27,7 @@ documents:
     title: The Life of John Roberts
     slug: life
     filename: Life_of_John_Roberts
-    description:
+    description: >-
       John Roberts (1623-1684) was a man of piety, wisdom, and remarkable wit. He was
       convinced of the truth through the powerful ministry of Richard Farnsworth, while
       the latter was a prisoner at Banbury Jail, and through heartfelt submission to the
@@ -36,7 +36,7 @@ documents:
       understanding, and humorous way of disputing with his adversaries, has long made the
       memoir of his life (written by his youngest son, Daniel) a favorite among early
       Quaker writings.
-    partial_description:
+    partial_description: >-
       An account of the life of John Roberts, written by his son Daniel Roberts, giving a
       relation of his persecutions for the sake of the gospel, and his compelling (and
       sometimes amusing) debates with opposers of the Truth.

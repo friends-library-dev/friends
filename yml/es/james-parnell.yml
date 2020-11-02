@@ -7,14 +7,14 @@ born: 1637
 died: 1656
 quotes:
   - source: Stephen Crisp
-    text:
+    text: >-
       Entre estos bebés, que llegaron a recibir el conocimiento de los misterios del Reino
       de Dios mediante la operación de Su divino poder, estaba este noble niño, James
       Parnell. En verdad, él era una vasija de honor, y estaba fortalecido en el poder y
       Espíritu de Emanuel. Se podría decir mucho de este hombre, y en mi corazón vive un
       gran testimonio de su bendita vida, y del poder y sabiduría que abundaban en él.
   - source: James Parnell
-    text:
+    text: >-
       Amigo, permanece y mantén tu mente hacia lo que te deja ver que tus enemigos están
       en tu propia casa. Tu imaginación es un enemigo, tu sabiduría es un enemigo; eso que
       ha sido precioso para ti, ahora es tu mayor enemigo. Por esa razón, debes sacrificar
@@ -23,7 +23,7 @@ quotes:
 residences:
   - city: Retford
     region: England
-description:
+description: >-
   Se dice que James Parnell (1637-1656) fue “joven, de baja estatura y de apariencia
   pobre,” no obstante, miles tenían que confesar que “él hablaba como uno que tenía
   autoridad, y no como los escribas.” Él fue convencido de la verdad cuando tenía sólo
@@ -39,7 +39,7 @@ documents:
     title: La Vida de James Parnell
     slug: vida
     filename: Vida_de_James_Parnell
-    description:
+    description: >-
       Se dice que James Parnell (1637-1656) fue “joven, de baja estatura y de apariencia
       pobre,” no obstante, miles tenían que confesar que “él hablaba como uno que tenía
       autoridad, y no como los escribas.” Él fue convencido de la verdad cuando tenía sólo
@@ -49,7 +49,7 @@ documents:
       encarcelado en el Castillo de Colchester. Allí fue encerrado en un pequeño hueco en
       la pared del castillo, a cuatro metros del suelo. Murió de enfermedad y maltrato
       después de diez meses de encarcelamiento, a la temprana edad de diecinueve.
-    partial_description:
+    partial_description: >-
       La Vida y Escritos de James Parnell, que contienen la historia de su vida,
       ministerio y sufrimientos, con extractos de sus escritos y epístolas a la iglesia, y
       un relato de su encarcelamiento y muerte en el castillo de Colchester a los

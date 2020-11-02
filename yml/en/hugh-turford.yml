@@ -9,13 +9,13 @@ residences:
     region: England
 quotes:
   - source: Hugh Turford
-    text:
+    text: >-
       Ever since men came to be persuaded that though they sow tares, they shall still
       reap wheat, and though they go down to the grave sinners, they shall still rise
       saints, and attain in another world what the primitive Christians attained in this
       world; since then, I say, the citizenship of Christians has not been in heaven, but
       in the earth. They have walked in darkness and not in the light.
-description:
+description: >-
   Apart from the fact that he worked as a schoolmaster in Bristol, and died in the year
   1713, virtually nothing is known about the life of Hugh Turford. However, his little
   book “Walk in the Spirit,” first published in 1702 (but having been reprinted in
@@ -28,13 +28,13 @@ documents:
     title: Walk in the Spirit
     slug: walk-in-the-spirit
     filename: Walk_in_the_Spirit
-    original_title:
-      'The grounds of a holy life; or, The way by which many who had been heathens, came
-      to be renowned Christians; and such as are now sinners, may come to be numbered with
+    original_title: >-
+      The grounds of a holy life; or, The way by which many who had been heathens, came to
+      be renowned Christians; and such as are now sinners, may come to be numbered with
       saints, with little or no outward preaching: to which is added, Paul’s speech to
       Titus, called the first bishop of Crete: and also, A true touchstone, or trial of
-      Christianity.'
-    description:
+      Christianity.
+    description: >-
       The primitive Christians built on a sure rock, a living foundation, on Christ as He
       was in all ages, and still is—on His spiritual appearance as the light of the world,
       and the life of righteousness. His work of sanctification is inward, and is to be
@@ -43,12 +43,12 @@ documents:
       this way of God’s salvation has been so long rejected, that few in our present age
       know what His Spirit is, where they may become acquainted with it, or how they may
       walk in it.
-    partial_description:
+    partial_description: >-
       A treatise by Hugh Turford first demonstrating the meaning and importance of Paul’s
       words to the Galatians, “Walk in the Spirit, and you shall not fulfill the lust of
       the flesh,” and then explaining the nature of grace, and how it saves from sin and
       effects man’s salvation.
-    featured_description:
+    featured_description: >-
       This treatise by Hugh Turford contains an exceptionally helpful and practical
       exposition of Paul’s words, “Walk in the Spirit, and you will not fulfill the lusts
       of the flesh,” and also describes the nature and power of grace, showing where it
@@ -69,25 +69,16 @@ documents:
             - title: Part 1
               external_id_hq: 613633581
               external_id_lq: 613633605
-              filesize_hq: 53494728
-              filesize_lq: 14267646
-              seconds: 2853
               chapters:
                 - 0
             - title: Part 2
               external_id_hq: 613632639
               external_id_lq: 613632663
-              filesize_hq: 39594969
-              filesize_lq: 10955406
-              seconds: 2191
               chapters:
                 - 1
             - title: The Grace that Brings Salvation
               external_id_hq: 622219650
               external_id_lq: 622219674
-              filesize_hq: 42619978
-              filesize_lq: 11094246
-              seconds: 2219
               chapters:
                 - 2
       - type: modernized

@@ -8,7 +8,7 @@ died: 1795
 residences:
   - city: Reading
     region: England
-description:
+description: >-
   Though raised in the Church of England, John Spalding’s (1765-1795) pursuit of truth
   left him dissatisfied with the traditional worship of his day, concluding that, in many
   respects, it was neither pleasing to God nor effective towards the salvation of his
@@ -22,7 +22,7 @@ documents:
   - id: 3ae687a1-e934-4585-8abd-a477d0cb3b75
     title: The Convincement and Religious Progress of John Spalding
     slug: convincement-religious-progress
-    description:
+    description: >-
       Though raised in the Church of England, John Spalding’s (1765-1795) pursuit of truth
       left him dissatisfied with the traditional worship of his day, concluding that in
       many respects, it was neither pleasing to God nor effective towards the salvation of
@@ -32,12 +32,12 @@ documents:
       “one who was long in the profession, but knew not the power, till it pleased the
       Lord, by the ministry and writings of the people called Quakers, to direct him to
       where alone the power is to be known, that is, within.”
-    partial_description:
+    partial_description: >-
       A short account of the convincement and religious progress of John Spalding,
       including his reasons for leaving the established Church of England and joining in
       fellowship with the Society of Friends.
     filename: Convincement_and_Religious_Progress_of_John_Spalding
-    original_title:
+    original_title: >-
       Some Account of the Convincement and Religious Progress, of John Spalding, Late of
       Reading. With His Reasons for Leaving the National Established Mode of Worship.
     published: 1808
@@ -50,7 +50,7 @@ documents:
   - id: 873dacbb-3205-4afb-8c38-772fb7a09fed
     alt_language_id: ee1e556f-0462-49bc-a2e3-7c3924c9fb48
     title: Come Out from Babylon
-    original_title:
+    original_title: >-
       A Few Reasons for Leaving the National Established Mode of Worship, addressed to the
       professors of religion in this day, by one who was long in the profession, but knew
       not the power, till it pleased the Lord, by the ministry and writings of the people
@@ -58,7 +58,7 @@ documents:
       within.
     slug: come-out-from-babylon
     filename: Come_Out_from_Babylon
-    description:
+    description: >-
       Though raised in the Church of England, John Spalding’s (1765-1795) pursuit of truth
       left him dissatisfied with the traditional worship of his day, concluding that, in
       many respects, it was neither pleasing to God nor effective towards the salvation of
@@ -68,7 +68,7 @@ documents:
       “one who was long in the profession, but knew not the power, till it pleased the
       Lord, by the ministry and writings of the people called Quakers, to direct him to
       where alone the power is to be known, that is, within.”
-    partial_description:
+    partial_description: >-
       An epistle of John Spalding, addressed to family and friends attending St. Giles
       church, advancing several well-grounded reasons for leaving the Church of England
       and joining in fellowship with the Society of Friends.
@@ -88,16 +88,10 @@ documents:
             - title: Part 1
               external_id_hq: 803918338
               external_id_lq: 803917480
-              filesize_hq: 45003401
-              filesize_lq: 15559998
-              seconds: 2593
               chapters:
                 - 0
             - title: Part 2
               external_id_hq: 803919727
               external_id_lq: 803918815
-              filesize_hq: 48852152
-              filesize_lq: 16644750
-              seconds: 2774
               chapters:
                 - 1

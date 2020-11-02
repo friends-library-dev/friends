@@ -9,14 +9,14 @@ residences:
     region: England
 quotes:
   - source: Hugh Turford
-    text:
+    text: >-
       Desde que los hombres llegaron a ser convencidos de que, aunque siembren cizaña,
       recogerán trigo, y que, aunque desciendan a la tumba como pecadores, aún así ellos
       se levantarán santos, y alcanzarán en otro mundo lo que los primeros cristianos
       alcanzaron en este mundo; desde entonces, yo digo, la ciudadanía de los Cristianos
       no ha sido en los cielos, sino en la tierra. Ellos han caminado en oscuridad y no en
       la luz.
-description:
+description: >-
   Aparte del hecho de que trabajó como maestro en Bristol, Inglaterra, y murió en el año
   1713, no se sabe prácticamente nada sobre la vida de Hugh Turford. Sin embargo, su
   pequeño libro “Andar en el Espíritu,” publicado por primera vez en 1702 (pero que ha
@@ -29,7 +29,7 @@ documents:
     title: Andar en el Espíritu
     slug: andar-en-el-espiritu
     filename: Andar_en_el_Espiritu
-    description:
+    description: >-
       Los primeros Cristianos edificaron sobre una roca estable, sobre un cimiento vivo,
       sobre Cristo como Él ha sido en todas las eras, y sigue siendo—es decir, sobre Su
       aparición espiritual como la luz del mundo, y como la vida de justicia. Y tomando Su
@@ -40,7 +40,7 @@ documents:
       poder de la muerte. Pero este camino de la salvación de Dios ha sido rechazado por
       tanto tiempo, que pocos en nuestra era actual saben qué es este Espíritu, dónde
       conocerlo, o cómo caminar en él.
-    partial_description:
+    partial_description: >-
       Un tratado de Hugh Turford que primero demuestra el significado y la importancia de
       las palabras de Pablo a los Gálatas, “Andad en el Espíritu; y no satisfagáis la
       concupiscencia de la carne,” y luego explica la naturaleza de la gracia, y cómo

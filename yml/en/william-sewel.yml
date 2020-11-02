@@ -7,7 +7,7 @@ born: 1653
 died: 1720
 quotes:
   - source: John Spalding
-    text:
+    text: >-
       About this time I read Sewel’s “History of the Quakers,” which I think removed every
       objection, and confirmed me in my opinion of the truth of their principles. Their
       severe sufferings, their patience under them, and honest boldness before kings and
@@ -15,7 +15,7 @@ quotes:
 residences:
   - city: Amsterdam
     region: Netherlands
-description:
+description: >-
   William Sewel (1653-1720), being a Quaker himself, an honest and meticulous researcher,
   and an eye-witness to many of the events described in his writings, has long been
   considered the foremost authority on the early history of the Society of Friends. This
@@ -27,12 +27,12 @@ description:
 documents:
   - id: 69c5fc26-76e3-4302-964e-ba46d889003b
     alt_language_id: 41b1ae64-5130-418e-9fea-a004dbdb46d5
-    title:
+    title: >-
       The History of the, Rise, Increase, and Progress of the Christian People Called
       Quakers
     slug: history-of-quakers
     filename: History_of_Quakers
-    description:
+    description: >-
       William Sewel (1653-1720), being a Quaker himself, an honest and meticulous
       researcher, and an eye-witness to many of the events described in his writings, has
       long been considered the foremost authority on the early history of the Society of
@@ -41,7 +41,7 @@ documents:
       who awoke from the lifeless and formal religion of their day, submitted
       whole-heartedly to the teachings of the Spirit of truth, and so returned to the
       original life, light, power, and purity of primitive Christianity.
-    partial_description:
+    partial_description: >-
       The most accurate and exhaustive history of the Society of Friends, long considered
       the foremost authority on the true rise, increase, and progress of this Christian
       people during their first sixty-five years.
@@ -61,7 +61,7 @@ documents:
     title: The Sufferings of Catharine Evans and Sarah Cheevers
     slug: sufferings-of-catharine-evans-sarah-cheevers
     filename: Sufferings_of_Catharine_Evans_and_Sarah_Cheevers
-    description:
+    description: >-
       Catherine Evans (1618-1692) and Sarah Cheevers (1608-1664) were early ministers in
       the Society of Friends who embarked together on a missionary journey, intending for
       Alexandria, Egypt. After enduring several storms, their ship stopped at Malta, an
@@ -70,7 +70,7 @@ documents:
       were placed under house arrest. After three months, they were moved to a local
       prison where they endured nearly four years of cruel treatment at the hands of the
       Inquisition in attempting to force their conversion to Catholicism.
-    partial_description:
+    partial_description: >-
       A selection from William Sewel’s History of the Christian People called Quakers,
       giving an account of the sufferings, faithfulness, and Christian experiences of
       Catherine Evans and Sarah Cheevers, during their four years of imprisonment under

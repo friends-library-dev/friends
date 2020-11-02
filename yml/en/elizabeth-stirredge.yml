@@ -7,14 +7,14 @@ born: 1634
 died: 1706
 quotes:
   - source: John Neale
-    text:
+    text: >-
       Much might be said concerning our friend [Elizabeth Stirredge]. She was a valiant
       woman for truth on earth, a mother in Israel, and a worthy faithful elder in the
       church of Christ in her time.
 residences:
   - city: Hemel Hempstead
     region: England
-description:
+description: >-
   Elizabeth Stirredge (1634-1706) was not a traveling minister in the Society of Friends.
   She was a wife, a mother, and an extraordinary woman of God. This short but fascinating
   account of her life was written in the 56th year of her age for the benefit of her
@@ -28,12 +28,12 @@ documents:
     title: Selection from the Life of Elizabeth Stirredge
     slug: life-selection
     published: 1711
-    original_title:
+    original_title: >-
       The Life and Christian Testimony of That Faithful Servant of the Lord Elizabeth
       Stirredge Who Departed This Life, at Her House at Hemstead, in Hertfordshire, In the
       Seventy-Second Year of Her Age. Written by Her Own Hand.
     filename: Selection_Life_of_Elizabeth_Stirredge
-    description:
+    description: >-
       Elizabeth Stirredge (1634-1706) was not a traveling minister in the Society of
       Friends. She was a wife, a mother, and an extraordinary woman of God. This short but
       fascinating account of her life was written in the 56th year of her age for the
@@ -41,7 +41,7 @@ documents:
       for the Lord in her younger days, her discovery of the Truth as it is in Jesus, and
       many of the trials, persecutions, and deliverances she met with in the way, as she
       took up the daily cross and faithfully followed her Lord.
-    partial_description:
+    partial_description: >-
       An excerpt from the Life of Elizabeth Stirredge written for her children and
       grandchildren, relating her earnest pursuit of the knowledge of God, and her
       faithfulness to Him in difficulties caused by false brethren and bitter persecution.
@@ -58,16 +58,13 @@ documents:
             - title: The Life of Elizabeth Stirredge
               external_id_hq: 748333246
               external_id_lq: 748333015
-              filesize_hq: 42199676
-              filesize_lq: 12128171
-              seconds: 2419
               chapters:
                 - 0
   - id: e27bc78c-ab04-4020-8c9f-9f1eed4f98e2
     title: The Life of Elizabeth Stirredge
     slug: life
     filename: Life_of_Elizabeth_Stirredge
-    description:
+    description: >-
       Elizabeth Stirredge (1634-1706) was not a traveling minister in the Society of
       Friends. She was a wife, a mother, and an extraordinary woman of God. This short but
       fascinating account of her life was written in the 56th year of her age for the
@@ -75,7 +72,7 @@ documents:
       for the Lord in her younger days, her discovery of the Truth as it is in Jesus, and
       many of the trials, persecutions, and deliverances she met with in the way, as she
       took up the daily cross and faithfully followed her Lord.
-    partial_description:
+    partial_description: >-
       An autobiographical account of the life of Elizabeth Stirredge written for her
       children and grandchildren, relating her earnest pursuit of the knowledge of God,
       and her faithfulness to Him in difficulties caused by false brethren and bitter

@@ -7,7 +7,7 @@ born: 1641
 died: 1711
 quotes:
   - source: William Penn (in a letter to John Gratton)
-    text:
+    text: >-
       Dear John, indeed you are one of my dear and choice friends, with whom is my dear,
       near, and inward fellowship. And though you say you are low and poor, and as
       dependent as ever, this is a noble condition, and nothing better could be said for
@@ -16,7 +16,7 @@ quotes:
 residences:
   - city: Monyash
     region: England
-description:
+description: >-
   John Gratton (1641-1711) was one of many early Quakers who were convinced of the truth
   directly by the Lord, apart from the preaching or writings of others in the Society of
   Friends. His desperate and agonizing pursuit of true Christianity (amongst the many
@@ -30,7 +30,7 @@ documents:
     title: The Journal of John Gratton
     slug: journal
     filename: Journal_of_John_Gratton
-    description:
+    description: >-
       John Gratton (1641-1711) was one of many early Quakers who were convinced of the
       truth directly by the Lord, apart from the preaching or writings of others in the
       Society of Friends. His desperate and agonizing pursuit of true Christianity
@@ -40,7 +40,7 @@ documents:
       so diligently sought for, he loved it, and submitted to its powerful operations in
       his own heart, becoming an esteemed minister and a great sufferer for the gospel of
       Jesus Christ.
-    partial_description:
+    partial_description: >-
       The Journal of John Gratton, relating his ardent pursuit for real Christianity
       amongst the many sects and opinions of the day, and his eventual discovery of the
       truth, growth in it, and sufferings for it at the hands of unreasonable men.
@@ -54,7 +54,7 @@ documents:
     title: Selection from the Journal of John Gratton
     slug: journal-selection
     filename: Selection_Journal_of_John_Gratton
-    description:
+    description: >-
       John Gratton (1641-1711) was one of many early Quakers who were convinced of the
       truth directly by the Lord, apart from the preaching or writings of others in the
       Society of Friends. His desperate and agonizing pursuit of true Christianity
@@ -64,7 +64,7 @@ documents:
       so diligently sought for, he loved it, and submitted to its powerful operations in
       his own heart, becoming an esteemed minister and a great sufferer for the gospel of
       Jesus Christ.
-    partial_description:
+    partial_description: >-
       A selection from the journal of John Gratton, relating his long and ardent pursuit
       after real Christianity amongst the many sects and opinions of the day, and his
       eventual discovery and experience of Christ within, the Pearl of great price, and
@@ -82,8 +82,5 @@ documents:
             - title: Selection from the Journal of John Gratton
               external_id_hq: 837597541
               external_id_lq: 837597028
-              filesize_hq: 96894392
-              filesize_lq: 25822474
-              seconds: 5164
               chapters:
                 - 0

@@ -8,7 +8,7 @@ died: 1723
 residences:
   - city: Sedbergh
     region: England
-description:
+description: >-
   George Whitehead (1636-1723) era uno de los ministros más conocidos e influyentes entre
   la antigua Sociedad de Amigos. Fue convencido de la Verdad cuando solo tenía 17 años de
   edad, y por su fidelidad creció rápidamente en la vida y poder de Cristo. En sus
@@ -24,7 +24,7 @@ documents:
     title: Selección del Diario de George Whitehead
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_George_Whitehead
-    description:
+    description: >-
       George Whitehead (1636-1723) era uno de los ministros más conocidos e influyentes
       entre la antigua Sociedad de Amigos. Fue convencido de la Verdad cuando solo tenía
       17 años de edad, y por su fidelidad creció rápidamente en la vida y poder de Cristo.
@@ -34,7 +34,7 @@ documents:
       a la cruz, y se convirtió en una columna y anciano en la iglesia de Dios, trabajando
       constantemente por el avance de la Verdad, y compareciendo muchas veces ante reyes y
       magistrados para defender la causa de sus hermanos perseguidos.
-    partial_description:
+    partial_description: >-
       Un extracto del diario de George Whitehead, que relata su honesta búsqueda de la
       virtud y el verdadero conocimiento de Dios desde su juventud, la experiencia interna
       de la obra de santificación en su corazón, y el comienzo de sus labores

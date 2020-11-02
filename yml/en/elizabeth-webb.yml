@@ -7,7 +7,7 @@ born: 1663
 died: 1726
 quotes:
   - source: John Richardson
-    text:
+    text: >-
       Sometimes I fell into company with Elizabeth Webb and Sarah Clement, who were
       virtuous women, and lived near the kingdom, and were of good service in their
       travels, and grew in the Truth, of which, while with them, I was sensible.
@@ -22,7 +22,7 @@ residences:
     durations:
       - start: 1700
         end: 1726
-description:
+description: >-
   Elizabeth Webb (1663-1726) was an early minister in the Society of Friends who travelled
   extensively in her service for the gospel. In the year 1712, while ministering in
   London, she became acquainted with Anthony William Boehm, then chaplain to Prince George
@@ -36,7 +36,7 @@ documents:
     title: A Letter of Elizabeth Webb
     slug: letter
     filename: Letter_of_Elizabeth_Webb
-    description:
+    description: >-
       Elizabeth Webb (1663-1726) was an early minister in the Society of Friends who
       travelled extensively in her service for the gospel. In the year 1712, while
       ministering in London, she became acquainted with Anthony William Boehm, then
@@ -44,7 +44,7 @@ documents:
       interview, Elizabeth Webb felt constrained in the love of God to write to Boehm and
       present him with the deeply instructive letter contained in this booklet, giving
       something of a summary of her spiritual pilgrimage.
-    partial_description:
+    partial_description: >-
       A letter from Elizabeth Webb written to Anthony William Boehm (chaplain to Prince
       George of Denmark), in which she describes her own spiritual journey, and her
       experience of the Lord’s judgments and mercies as she gave up resolutely to follow
@@ -63,8 +63,5 @@ documents:
             - title: The Life of Elizabeth Webb
               external_id_hq: 748333576
               external_id_lq: 748333351
-              filesize_hq: 51181828
-              filesize_lq: 11375510
-              seconds: 2843
               chapters:
                 - 0

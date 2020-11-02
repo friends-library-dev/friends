@@ -86,8 +86,5 @@ export interface AudioPartData {
   title: string;
   external_id_lq: number;
   external_id_hq: number;
-  filesize_lq: number;
-  filesize_hq: number;
-  seconds: number;
   chapters: number[];
 }

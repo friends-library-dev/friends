@@ -7,14 +7,14 @@ born: 1715
 died: 1772
 quotes:
   - source: James Gough
-    text:
+    text: >-
       Here also, I met with Samuel Fothergill, then young in the ministry; but even then
       appearing with a solemnity, brightness, and gospel authority, which gave friends
       lively hopes of his proving, as he did, through the succeeding stages of his life, a
       bright and shining light, a vessel of honour indeed, of eminent service in the
       church of Christ.
   - source: Samuel Fothergill
-    text:
+    text: >-
       The passionate preacher has affected the passionate hearer; both have been in
       raptures, and neither of them edified. Mistake not the warmth of the passions for
       the gospel authority. The first is like the rattling thunder, which frights, but
@@ -23,7 +23,7 @@ quotes:
 residences:
   - city: Warrington
     region: England
-description:
+description: >-
   ​Samuel Fothergill (1715-1772) was the youngest son of eminent Quaker minister, John
   Fothergill. As a young man, Samuel yielded to various temptations, “giving way to the
   indulgence of his evil passions, and abandoning himself to the pursuit of folly and
@@ -38,13 +38,13 @@ description:
 documents:
   - id: 53f21a86-f264-460f-b879-3cd4a7ddf615
     title: The Life and Letters of Samuel Fothergill
-    original_title:
+    original_title: >-
       Memoirs of the Life and Gospel Labours of Samuel Fothergill, with Selections from
       His Correspondence; Beginning with a Short Account of the Life and Travels of His
       Father, John Fothergill, and Notices of Some of His Descendants.
     slug: life-and-letters
     filename: Life_and_Letters_of_Samuel_Fothergill
-    description:
+    description: >-
       Samuel Fothergill (1715-1772) was the youngest son of eminent Quaker minister, John
       Fothergill. As a young man, Samuel yielded to various temptations, “giving way to
       the indulgence of his evil passions, and abandoning himself to the pursuit of folly
@@ -57,7 +57,7 @@ documents:
       abide under His righteous judgments, and so yielded to the transforming power of
       divine grace that, in time, he became one of the most distinguished and influential
       ministers of his day.
-    partial_description:
+    partial_description: >-
       A memoir of the life and gospel labors of Samuel Fothergill, consisting chiefly of
       extracts from his written correspondence and journal entries of his travels, with
       biographical and historical information supplied by George Crosfield; also
@@ -71,7 +71,7 @@ documents:
         isbn: 978-1-64476-122-9
     related_documents:
       - id: b74bd655-8907-4484-a3bd-a658b3267dea
-        description:
+        description: >-
           Samuel Fothergill was the son of the well-known and much beloved minister of the
           gospel, John Fothergill. Some account of his father is prefixed to Samuel’s
           memoir, but “The Life and Letters of John Fothergill” has a larger

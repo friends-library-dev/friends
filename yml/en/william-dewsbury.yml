@@ -7,7 +7,7 @@ born: 1621
 died: 1688
 quotes:
   - source: John Whiting
-    text:
+    text: >-
       William Dewsbury then dwelt in his own hired house, with whom I had pretty much
       discourse in his garden of many things to my great comfort and satisfaction; for he
       was very free and open to me beyond what I could expect, being a young man and a
@@ -15,13 +15,13 @@ quotes:
       extraordinary man in many ways, and I thought, as exact a pattern of a perfect man
       as I ever knew.
   - source: William Dewsbury
-    text:
+    text: >-
       I joyfully entered prisons as palaces and sang praises to my God, esteeming the
       bolts and locks put upon me as jewels.
 residences:
   - city: Allerthorpe
     region: England
-description:
+description: >-
   William Dewsbury (1621-1688) was an eminent minister and elder in the early Society of
   Friends whose role in the formation and oversight of the Society was comparable to that
   of George Fox. Like many others in his day, Dewsbury suffered great persecution for the
@@ -36,7 +36,7 @@ documents:
     title: The Life and Letters of William Dewsbury
     slug: life-and-letters
     filename: Life_and_Letters_of_William_Dewsbury
-    description:
+    description: >-
       William Dewsbury (1621-1688) was an eminent minister and elder in the early Society
       of Friends whose role in the formation and oversight of the Society was comparable
       to that of George Fox. Like many others in his day, Dewsbury suffered great
@@ -46,7 +46,7 @@ documents:
       esteeming the bolts and locks put upon me as jewels.” After visiting William
       Dewsbury in 1676, John Whiting described him as “an extraordinary man in many ways,
       and I thought, as exact a pattern of a perfect man as I ever knew.”
-    partial_description:
+    partial_description: >-
       The life of that early and eminent minister of the gospel in the Society of Friends,
       William Dewsbury, containing selections from his own writings and epistles, his
       final sermon on the necessity of the new birth, and other biographical and

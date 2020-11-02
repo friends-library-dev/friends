@@ -8,7 +8,7 @@ died: 1776
 residences:
   - city: Norwich
     region: England
-description:
+description: >-
   ​Joseph Oxley (1715–1776) was a humble and sweet-spirited minister in the Society of
   Friends, whose life and service in the church manifested a total reliance upon the
   immediate empowering of the Spirit of Christ. Though he had a low opinion of himself, he
@@ -20,12 +20,12 @@ description:
 documents:
   - id: 20c95c47-62dd-4181-b6e7-dcd8142626ca
     title: The Journal of Joseph Oxley
-    original_title:
+    original_title: >-
       The Journal of Joseph Oxley. His Life, Travels, and Labours of Love, in the Faith
       and Fellowship of Our Lord Jesus Christ.
     slug: journal
     filename: Journal_of_Joseph_Oxley
-    description:
+    description: >-
       Joseph Oxley (1715–1776) was a humble and sweet-spirited minister in the Society of
       Friends, whose life and service in the church manifested a total reliance upon the
       immediate empowering of the Spirit of Christ. Though he had a low opinion of
@@ -35,7 +35,7 @@ documents:
       American Colonies, where his services were said to have “proceeded from the
       influence of the Minister of the sanctuary and true tabernacle, which God has
       pitched and not man.”
-    partial_description:
+    partial_description: >-
       The journal of the life, travels, and labors of love in the work of the gospel of
       Joseph Oxley, including an introductory address to his children, and numerous
       letters to his family and friends in the ministry.
@@ -48,7 +48,7 @@ documents:
         isbn: 978-1-64476-091-8
     related_documents:
       - id: c3428a4c-4a2f-480b-8612-f96e104914dd
-        description:
+        description: >-
           Feeling called to leave his native country in the work of the ministry, Joseph
           Oxley sailed from England to America in the year 1770, and spent much of the
           next year and nine months having his “choice Friend” Samuel Neale for a

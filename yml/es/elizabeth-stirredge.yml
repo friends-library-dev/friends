@@ -7,14 +7,14 @@ born: 1634
 died: 1706
 quotes:
   - source: John Neale
-    text:
+    text: >-
       Mucho se podría decir de nuestra amiga [Elizabeth Stirredge]. Ella era una mujer
       valiente por la verdad en la tierra, una madre en Israel, y anciana digna y fiel en
       la iglesia de Cristo de su tiempo.
 residences:
   - city: Hemel Hempstead
     region: England
-description:
+description: >-
   Elizabeth Stirredge (1634-1706) no era una ministra itinerante en la Sociedad de Amigos.
   Era una esposa, una madre y una extraordinaria mujer de Dios. Esta corta pero fascinante
   historia de su vida la escribió cuando tenía 56 años de edad para el beneficio de sus
@@ -29,7 +29,7 @@ documents:
     slug: seleccion-de-la-vida
     filename: Seleccion_de_la_Vida_de_Elizabeth_Stirredge
     published: 1711
-    description:
+    description: >-
       Elizabeth Stirredge (1634-1706) no era una ministra itinerante en la Sociedad de
       Amigos. Era una esposa, una madre y una extraordinaria mujer de Dios. Esta corta
       pero fascinante historia de su vida la escribió cuando tenía 56 años de edad para el
@@ -37,7 +37,7 @@ documents:
       en su juventud, su descubrimiento de la Verdad como es en Jesús, y muchas de las
       pruebas, persecuciones y liberaciones con las que se encontró en el camino, a medida
       que tomaba la cruz diaria y seguía fielmente a su Señor.
-    partial_description:
+    partial_description: >-
       Un extracto de la Vida de Elizabeth Stirrege escrito para sus hijos y nietos, que
       relata su ferviente búsqueda del conocimiento de Dios, y su fidelidad a Él en las
       dificultades causadas por los falsos hermanos y la cruda persecución.

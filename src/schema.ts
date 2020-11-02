@@ -107,9 +107,6 @@ const subSchemas: Record<string, Schema> = {
       title: { $ref: `/title` },
       external_id_lq: { type: `integer` },
       external_id_hq: { type: `integer` },
-      filesize_lq: { type: `integer` },
-      filesize_hq: { type: `integer` },
-      seconds: { type: `integer` },
       chapters: {
         type: `array`,
         items: { type: `integer`, minItems: 1, uniqueItems: true },

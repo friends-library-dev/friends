@@ -7,7 +7,7 @@ born: 1756
 died: 1790
 quotes:
   - source: George Dillwyn (upon the death of Sarah Grubb)
-    text:
+    text: >-
       Thus fell a valiant in the church militant, whose endowments and dedication are
       equalled by few of the present generation, and to whose memory, I believe, as
       general a tribute of tears has been paid, as to any person with whom I was ever
@@ -23,7 +23,7 @@ residences:
     durations:
       - start: 1787
         end: 1790
-description:
+description: >-
   ​​Sarah R. Grubb (1756-1790) was a woman of extraordinary natural abilities, strength of
   judgment, and clearness of discernment. Being favoured with a visitation of heavenly
   love when young, she submitted to Christ’s refining fire and was brought into that
@@ -37,7 +37,7 @@ documents:
     title: The Life and Letters of Sarah Grubb
     slug: life-and-letters
     filename: Life_and_Letters_of_Sarah_Grubb
-    description:
+    description: >-
       ​Sarah R. Grubb (1756-1790) was a woman of extraordinary natural abilities, strength
       of judgment, and clearness of discernment. Being favoured with a visitation of
       heavenly love when young, she submitted to Christ’s refining fire and was brought
@@ -46,7 +46,7 @@ documents:
       public minister about the twenty-third year of her age. Some years later, she and
       her husband founded a girls school in Clonmel, Ireland, where she lived and
       ministered until her death in 1790, at only 34 years of age.
-    partial_description:
+    partial_description: >-
       A journal of the life and religious travels of Sarah Grubb, including numerous
       extracts from her letters, along with a short treatise on Christian Discipline in
       the education of youth.
@@ -59,13 +59,13 @@ documents:
         isbn: 978-1-64476-128-1
     related_documents:
       - id: 45dca7c2-3ff9-4a83-acdf-55ec1630cb25
-        description:
+        description: >-
           During a lengthy ministry trip to Great Britain, Rebecca Jones spent many weeks
           traveling and ministering with Sarah Grubb, many details of which she relates in
           her journal. The two became cemented in a deep bond of friendship and kept up a
           correspondence that lasted until Sarah’s death.
       - id: 468770bf-aae5-4c4a-a2b3-41d978f3dd72
-        description:
+        description: >-
           Mary Dudley was the beloved traveling companion of Sarah Grubb, with whom she
           “often mingled sighs and tears,” during a lengthy ministry trip through parts of
           Holland, Germany, and France.

@@ -6,7 +6,7 @@ born: 1708
 died: 1787
 quotes:
   - source: Joseph Phipps
-    text:
+    text: >-
       En fin, la redención perfecta consiste, primero, en pagar el precio del rescate, el
       cual nuestro Salvador pagó a través de Su sufrimiento y sacrificio; y segundo, en
       sacar al prisionero de la servidumbre y ponerlo en libertad, algo que Él mismo
@@ -16,7 +16,7 @@ added: 2019-05-08T13:56:46.000Z
 residences:
   - city: Norwich
     region: England
-description:
+description: >-
   Aunque su oficio era zapatero, Joseph Phipps (1708-1787) fue el autor de varias
   publicaciones académicas que explicaban y defendían los principios de los primeros
   Amigos. En 1772, en respuesta a una publicación que un hombre llamado Samuel Newton
@@ -32,7 +32,7 @@ documents:
     title: Estado Original y Presente del Hombre
     slug: estado-original-y-presente-del-hombre
     filename: Estado_Original_y_Presente_del_Hombre
-    description:
+    description: >-
       En 1767, fue publicado un libro que promovía muchas opiniones que criticaban los
       principios cristianos defendidos por la Sociedad de los Amigos. En respuesta a esta
       publicación, Joseph Phipps tomó la pluma en 1773 para limpiar la Sociedad de los
@@ -42,7 +42,7 @@ documents:
       también expresó las doctrinas del evangelio con tanta sabiduría celestial e
       irresistible claridad, que demostraron que el autor era un hombre de profundo
       entendimiento y experiencia espirituales.
-    partial_description:
+    partial_description: >-
       El Estado Original y Presente del Hombre, el cual demuestra la naturaleza del hombre
       en la caída, la necesidad, medio y manera para ser restaurado mediante el sacrificio
       de Cristo, y la operación discernible del Espíritu Divino de gracia y verdad.
@@ -53,7 +53,7 @@ documents:
         isbn: 978-1-64476-166-3
     related_documents:
       - id: a0aa67e3-e96e-44ea-a90c-db739d54eba6
-        description:
+        description: >-
           Aquellos que aprecian los argumentos sólidos y bíblicos de Joseph Phipps en “El
           Estado Original y Presente del Hombre” sin ninguna duda disfrutarán “Esta Grande
           Salvación” de Robert Barclay, que contiene las proposiciones cuatro a la ocho de
