@@ -50,3 +50,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-204-2
+        audio:
+          reader: Keren Alvaredo
+          added: 2020-11-02T19:37:06.114Z
+          parts:
+            - title: Selección de la Vida de John Crook
+              external_id_lq: 922206904
+              external_id_hq: 922204972
+              chapters:
+                - 0
