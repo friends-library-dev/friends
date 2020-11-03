@@ -46,3 +46,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-205-9
+        audio:
+          reader: Keren Alvaredo
+          added: 2020-11-03T18:17:40.509Z
+          parts:
+            - title: Selección de la Vida de Elizabeth Stirredge
+              external_id_lq: 922805173
+              external_id_hq: 922803799
+              chapters:
+                - 0
