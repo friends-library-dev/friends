@@ -118,3 +118,21 @@ documents:
           principle doctrines of the people called Quakers, and also declares (from “his
           own long and most inward acquaintance and intimate knowledge of him”) the many
           excellent qualifications that God bestowed on George Fox.
+  - id: f2ec6e4f-e07b-4f1f-a952-ab2e8ec8b041
+    title: Letters of George Fox
+    slug: letters
+    original_title:
+      A Collection of Many Select And Christian Epistles, Letters and Testimonies, Written
+      On Sundry Occasions, By That Ancient, Eminent, Faithful Friend, and Minister of
+      Christ Jesus, George Fox
+    filename: Letters_of_George_Fox
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: original
+        isbn: 978-1-64476-032-1
+        draft: true
