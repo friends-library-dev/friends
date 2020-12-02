@@ -39,7 +39,6 @@ documents:
         isbn: 978-1-64476-189-2
         audio:
           reader: Keren Alvaredo
-          incomplete: true
           added: 2019-07-29T04:00:00.000Z
           external_playlist_id_hq: 1019884402
           external_playlist_id_lq: 1019884525
@@ -89,3 +88,13 @@ documents:
               external_id_lq: 922794550
               chapters:
                 - 8
+            - title: Selección del Diario de Charles Marshall
+              external_id_hq: 940098250
+              external_id_lq: 940099711
+              chapters:
+                - 9
+            - title: Selección del Diario de Thomas Story
+              external_id_hq: 940101463
+              external_id_lq: 940103650
+              chapters:
+                - 10
