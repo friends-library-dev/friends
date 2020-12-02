@@ -54,7 +54,14 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-252-3
-        draft: true
+        audio:
+          reader: Jessie Henderson
+          added: 2020-12-02T18:48:08.927Z
+          parts:
+            - title: The Life of Anne and Thomas Camm
+              external_id_hq: 940097659
+              external_id_lq: 940098967
+              chapters:
+                - 0
       - type: original
         isbn: 978-1-64476-253-0
-        draft: true
