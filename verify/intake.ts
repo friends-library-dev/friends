@@ -11,6 +11,10 @@ function main(): void {
       throw new Error(`Missing dpc edition entity`);
     }
 
+    if (intakeSafeList.includes(dpc.edition.path)) {
+      return;
+    }
+
     const signsOfIntake = dpc.asciidoc
       .split(`\n`)
       .reduce((count: number, line: string) => {
@@ -73,5 +77,7 @@ const regexes = [
   /\.discourse-part/,
   /^\[verse.+]$/,
 ];
+
+const intakeSafeList = [`en/anne-camm/life/modernized`, `en/anne-camm/life/original`];
 
 main();
