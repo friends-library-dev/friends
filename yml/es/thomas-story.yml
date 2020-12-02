@@ -74,3 +74,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-207-3
+        audio:
+          reader: Keren Alvaredo
+          added: 2020-12-02T18:29:13.933Z
+          parts:
+            - title: Selección del Diario de Thomas Story
+              external_id_hq: 940088065
+              external_id_lq: 940091032
+              chapters:
+                - 0
