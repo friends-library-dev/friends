@@ -30,7 +30,7 @@ description: >-
   sincere obedience to Him.”
 documents:
   - id: ad348a05-9f91-4f36-90eb-cf5ad94835b1
-    title: Selection from the Life of John Crook
+    title: The Writings of John Crook
     original_title: >-
       Selections from the Writings of That Ancient, Faithful Servant of Christ Jesus John
       Crook. To which is Prefixed a Short Account of His Life Written by Himself.
@@ -53,14 +53,15 @@ documents:
       containing a relation of his memorable trial at the General Sessions in London, in
       the year 1662.
     tags:
+      - treatise
+      - letters
+      - exhortation
       - journal
     editions:
       - type: modernized
         isbn: 978-1-64476-250-9
-        draft: true
       - type: original
         isbn: 978-1-64476-251-6
-        draft: true
   - id: cf6f05e2-e5c9-4ec3-8096-d283f3e4c020
     alt_language_id: 8fbadbad-0fc1-4dfa-9fb4-d96e7c00ff58
     title: Selection from the Life of John Crook
