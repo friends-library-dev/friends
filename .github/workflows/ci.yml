@@ -16,6 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: bahmutov/npm-install@v1
+      - name: js-map-gen
+        run: npm run generate:js-map
       - name: lint
         run: npm run lint
       - name: ts
