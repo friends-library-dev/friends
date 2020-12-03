@@ -5,3 +5,4 @@ tsconfig.tsbuildinfo
 jest.config.js
 yml/en/jane-doe.yml
 yml/en/john-doe.yml
+src/js-friend-map.ts
