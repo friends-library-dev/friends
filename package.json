@@ -18,7 +18,6 @@
     "prepublishOnly": "npm run generate:js-map && npm run compile",
     "verify:intake": "fldev tsnode ./verify/intake.ts",
     "verify:assets": "fldev tsnode ./verify/assets.ts",
-    "postinstall": "npm run generate:js-map",
     "generate:js-map": "fldev tsnode ./src/js-map-gen.ts"
   },
   "dependencies": {
@@ -30,8 +29,8 @@
     "x-ts-utils": "^1.0.1"
   },
   "devDependencies": {
-    "@friends-library/dev": "^4.1.12",
-    "@friends-library/document-meta": "^2.0.0",
+    "@friends-library/dev": "^4.1.13",
+    "@friends-library/document-meta": "^2.1.0",
     "@friends-library/env": "^1.2.0",
     "@friends-library/friend-repos": "^1.1.0",
     "@types/glob": "^7.1.3",
