@@ -1,7 +1,7 @@
 import { Slug, Lang } from '@friends-library/types';
 import { basename, resolve } from 'path';
 import { sync as glob } from 'glob';
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 import { safeLoad } from 'js-yaml';
 import Friend from './Friend';
 import Edition from './Edition';
@@ -10,15 +10,12 @@ import friendFromJS from './map';
 import { FriendData } from './types';
 
 export function getFriend(slug: Slug, lang: Lang = `en`): Friend {
-  const path = ymlPath(`${lang}/${slug}.yml`);
-  const file = readFileSync(path);
-  const data = safeLoad(file.toString()) as FriendData;
-  return friendFromJS({ ...data, lang });
+  return friendFromJS({ ...resolveFriendData(slug, lang), lang });
 }
 
 export function getAllFriends(lang: Lang = `en`, withCompilations = false): Friend[] {
-  const pattern = ymlPath(`${lang}/*.yml`);
-  const friends = glob(pattern).map((path) => getFriend(basename(path, `.yml`), lang));
+  const friendSlugs = getAllFriendSlugs(lang);
+  const friends = friendSlugs.map((slug) => getFriend(slug, lang));
   if (withCompilations) {
     return friends;
   }
@@ -79,4 +76,42 @@ export function eachEdition(cb: EditionCallback): void {
 
 function ymlPath(end: string): string {
   return resolve(process.env.FRIENDS_YML_PATH || `${__dirname}/../yml`, end);
+}
+
+let strategy: 'yml' | 'memory' = `yml`;
+let memoryMap: Map<string, FriendData> = new Map();
+
+export function setResolveMap(map: Map<string, FriendData>): void {
+  strategy = `memory`;
+  memoryMap = map;
+}
+
+function resolveFriendData(friendSlug: string, lang: Lang): FriendData {
+  const err = (): never => {
+    throw new Error(`Error resolving friend data ${lang}/${friendSlug}`);
+  };
+
+  if (strategy === `memory`) {
+    const data = memoryMap.get(`${lang}/${friendSlug}`);
+    return data ?? err();
+  }
+
+  const path = ymlPath(`${lang}/${friendSlug}.yml`);
+  if (!existsSync(path)) {
+    return err();
+  }
+
+  const file = readFileSync(path, `utf-8`);
+  return safeLoad(file) as FriendData;
+}
+
+function getAllFriendSlugs(lang: Lang): string[] {
+  if (strategy === `memory`) {
+    return Array.from(memoryMap)
+      .filter(([key]) => key.startsWith(lang))
+      .map(([key]) => key.replace(/^e(n|s)\//, ``));
+  }
+
+  const pattern = ymlPath(`${lang}/*.yml`);
+  return glob(pattern).map((path) => basename(path, `.yml`));
 }
