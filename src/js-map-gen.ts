@@ -10,7 +10,7 @@ const friends = glob(`${__dirname}/../yml/{en,es}/*.yml`)
     basename(path).replace(/\.yml$/, ``),
     fs.readFileSync(path, `utf-8`),
   ])
-  .map(([lang, friendSlug, yml]) => [lang, `${lang}/${friendSlug}`, safeLoad(yml)])
+  .map(([lang, friendSlug, yml]) => [lang, `${lang}/${friendSlug}`, safeLoad(yml || ``)])
   .map(([lang, key, friend]: any) => [key, { lang, ...friend }]);
 
 const mapJson = JSON.stringify(friends, null, 2);

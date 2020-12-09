@@ -1,3 +1,4 @@
+import { describe, beforeEach, it, expect } from '@jest/globals';
 import friendFromJS from '../map';
 import Document from '../Document';
 import Edition from '../Edition';
@@ -51,27 +52,27 @@ describe(`friendFromJS()`, () => {
   });
 
   it(`orders the editions updated > modernize > original`, () => {
-    js.documents[0].editions.push(
-      JSON.parse(JSON.stringify(js.documents[0].editions[0])),
+    js.documents[0]!.editions.push(
+      JSON.parse(JSON.stringify(js.documents[0]!.editions[0]!)),
     );
-    js.documents[0].editions.push(
-      JSON.parse(JSON.stringify(js.documents[0].editions[0])),
+    js.documents[0]!.editions.push(
+      JSON.parse(JSON.stringify(js.documents[0]!.editions[0]!)),
     );
-    js.documents[0].editions[0].type = `original`;
-    js.documents[0].editions[1].type = `modernized`;
-    js.documents[0].editions[2].type = `updated`;
+    js.documents[0]!.editions[0]!.type = `original`;
+    js.documents[0]!.editions[1]!.type = `modernized`;
+    js.documents[0]!.editions[2]!.type = `updated`;
 
     const friend = friendFromJS(js);
-    const document = friend.documents[0];
-    expect(document.editions[0].type).toBe(`updated`);
-    expect(document.editions[1].type).toBe(`modernized`);
-    expect(document.editions[2].type).toBe(`original`);
+    const document = friend.documents[0]!;
+    expect(document.editions[0]!.type).toBe(`updated`);
+    expect(document.editions[1]!.type).toBe(`modernized`);
+    expect(document.editions[2]!.type).toBe(`original`);
   });
 
   it(`should set parent/child refs`, () => {
     const friend = friendFromJS(js);
-    const document = friend.documents[0];
-    const edition = document.editions[0];
+    const document = friend.documents[0]!;
+    const edition = document.editions[0]!;
 
     expect(document.friend).toBe(friend);
     expect(edition.document).toBe(document);
@@ -92,14 +93,14 @@ describe(`friendFromJS()`, () => {
     const friend = friendFromJS(js);
 
     expect(friend.documents.length).toBe(1);
-    expect(friend.documents[0]).toBeInstanceOf(Document);
-    expect(friend.documents[0].id).toBe(`88091a2c-f2fc-4a54-8d6b-096eb94d192f`);
-    expect(friend.documents[0].tags).toEqual([`journal`, `letters`]);
-    expect(friend.documents[0].filenameBase).toBe(`Journal_of_Rebecca_Jones`);
+    expect(friend.documents[0]!).toBeInstanceOf(Document);
+    expect(friend.documents[0]!.id).toBe(`88091a2c-f2fc-4a54-8d6b-096eb94d192f`);
+    expect(friend.documents[0]!.tags).toEqual([`journal`, `letters`]);
+    expect(friend.documents[0]!.filenameBase).toBe(`Journal_of_Rebecca_Jones`);
   });
 
   it(`maps document editions`, () => {
-    const edition = friendFromJS(js).documents[0].editions[0];
+    const edition = friendFromJS(js).documents[0]!.editions[0]!;
 
     expect(edition).toBeInstanceOf(Edition);
     expect(edition.type).toBe(`updated`);
@@ -108,20 +109,20 @@ describe(`friendFromJS()`, () => {
   });
 
   it(`maps document edition isbn`, () => {
-    const edition = friendFromJS(js).documents[0].editions[0];
+    const edition = friendFromJS(js).documents[0]!.editions[0]!;
 
     expect(edition.isbn).toBe(`978-1-64476-000-0`);
   });
 
   it(`maps document edition audio`, () => {
-    const audio = friendFromJS(js).documents[0].editions[0].audio!;
+    const audio = friendFromJS(js).documents[0]!.editions[0]!.audio!;
 
     expect(audio).toBeInstanceOf(Audio);
     expect(audio.reader).toBe(`Harriet Henderson`);
   });
 
   it(`maps the document edition audio parts`, () => {
-    const part = friendFromJS(js).documents[0].editions[0].audio!.parts[0];
+    const part = friendFromJS(js).documents[0]!.editions[0]!.audio!.parts[0]!;
 
     expect(part.title).toBe(`Part 1`);
     expect(part.externalIdHq).toBe(123);
@@ -130,17 +131,17 @@ describe(`friendFromJS()`, () => {
   });
 
   it(`sets optional original title on document`, () => {
-    js.documents[0].original_title = `Memorials of Rebecca Jones`;
+    js.documents[0]!.original_title = `Memorials of Rebecca Jones`;
 
-    const document = friendFromJS(js).documents[0];
+    const document = friendFromJS(js).documents[0]!;
 
     expect(document.originalTitle).toBe(`Memorials of Rebecca Jones`);
   });
 
   it(`sets optional published attribute`, () => {
-    js.documents[0].published = 1819;
+    js.documents[0]!.published = 1819;
 
-    const document = friendFromJS(js).documents[0];
+    const document = friendFromJS(js).documents[0]!;
 
     expect(document.published).toBe(1819);
   });
