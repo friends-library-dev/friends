@@ -28,10 +28,10 @@ export function testFriend(spec?: Spec): Friend {
 
 export function firstDoc(spec?: Spec): Document {
   const friend = testFriend(spec);
-  return friend.documents[0];
+  return friend.documents[0]!;
 }
 
 export function firstEdition(spec?: Spec): Edition {
   const doc = firstDoc(spec);
-  return doc.editions[0];
+  return doc.editions[0]!;
 }

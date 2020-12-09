@@ -29,7 +29,7 @@
     "x-ts-utils": "^1.0.1"
   },
   "devDependencies": {
-    "@friends-library/dev": "^4.1.13",
+    "@friends-library/dev": "^4.1.15",
     "@friends-library/document-meta": "^2.1.0",
     "@friends-library/env": "^1.2.0",
     "@friends-library/friend-repos": "^1.1.0",

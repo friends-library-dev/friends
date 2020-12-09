@@ -105,7 +105,9 @@ export default class Document {
   }
 
   public get primaryEdition(): Edition {
-    return this.editions[0];
+    const primary = this.editions[0];
+    if (!primary) throw new Error(`primary edition not found`);
+    return primary;
   }
 
   public toJSON(): Omit<Document, 'friend' | 'editions' | 'toJSON' | 'primaryEdition'> {

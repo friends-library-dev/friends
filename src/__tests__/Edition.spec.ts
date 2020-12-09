@@ -1,11 +1,12 @@
+import { describe, expect, it } from '@jest/globals';
 import { firstEdition } from './helpers';
 
 describe(`Edition`, () => {
   describe(`filename()`, () => {
     it(`should give the right filename`, () => {
       const edition = firstEdition((f) => {
-        f.documents[0].filename = `Journal_of_George_Fox`;
-        f.documents[0].editions[0].type = `updated`;
+        f.documents[0]!.filename = `Journal_of_George_Fox`;
+        f.documents[0]!.editions[0]!.type = `updated`;
       });
 
       expect(edition.filename(`paperback-interior`)).toBe(
@@ -32,14 +33,14 @@ describe(`Edition`, () => {
   describe(`paperbackCoverBlurb`, () => {
     it(`returns edition description, if exists`, () => {
       const edition = firstEdition((f) => {
-        f.documents[0].editions[0].description = `Edition desc.`;
+        f.documents[0]!.editions[0]!.description = `Edition desc.`;
       });
       expect(edition.paperbackCoverBlurb).toBe(`Edition desc.`);
     });
 
     it(`returns document description, if no edition description`, () => {
       const edition = firstEdition((f) => {
-        f.documents[0].description = `Document desc.`;
+        f.documents[0]!.description = `Document desc.`;
       });
       expect(edition.paperbackCoverBlurb).toBe(`Document desc.`);
     });

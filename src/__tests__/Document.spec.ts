@@ -1,3 +1,4 @@
+import { describe, it, expect } from '@jest/globals';
 import { firstDoc } from './helpers';
 
 describe(`Document`, () => {
@@ -6,7 +7,7 @@ describe(`Document`, () => {
       const doc = firstDoc((f) => {
         f.slug = `george-fox`;
         f.lang = `en`;
-        f.documents[0].slug = `journal`;
+        f.documents[0]!.slug = `journal`;
       });
       expect(doc.path).toBe(`en/george-fox/journal`);
     });
@@ -39,7 +40,7 @@ describe(`Document`, () => {
 
     it(`returns false if all editions are draft`, () => {
       const doc = firstDoc((f) =>
-        f.documents[0].editions.forEach((e) => (e.draft = true)),
+        f.documents[0]!.editions.forEach((e) => (e.draft = true)),
       );
       expect(doc.hasNonDraftEdition).toBe(false);
     });
@@ -48,7 +49,7 @@ describe(`Document`, () => {
   describe(`hasAudio`, () => {
     it(`returns true if document has one edition with audio`, () => {
       const doc = firstDoc((f) => {
-        f.documents[0].editions[0].audio = {
+        f.documents[0]!.editions[0]!.audio = {
           reader: `Jason Henderson`,
           added: new Date(),
           parts: [],
@@ -65,7 +66,7 @@ describe(`Document`, () => {
   describe(`hasUpdatedEdition()`, () => {
     it(`returns false if document has no updated edition`, () => {
       const doc = firstDoc((f) => {
-        f.documents[0].editions = f.documents[0].editions.filter(
+        f.documents[0]!.editions = f.documents[0]!.editions.filter(
           (e) => e.type === `original`,
         );
       });
@@ -73,7 +74,7 @@ describe(`Document`, () => {
     });
 
     it(`returns true if document has updated edition`, () => {
-      const doc = firstDoc((f) => (f.documents[0].editions[0].type = `updated`));
+      const doc = firstDoc((f) => (f.documents[0]!.editions[0]!.type = `updated`));
       expect(doc.hasUpdatedEdition).toBe(true);
     });
   });
