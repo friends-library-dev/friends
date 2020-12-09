@@ -7,6 +7,24 @@ export default class Audio {
   private _edition?: Edition;
   public parts: AudioPart[] = [];
 
+  public static humanDuration(partDurations: number[]): string {
+    const totalSeconds = Math.floor(partDurations.reduce((x, y) => x + y));
+    const hours = Math.floor(totalSeconds / (60 * 60));
+    const minutes = Math.floor((totalSeconds - hours * 60 * 60) / 60);
+    const seconds = totalSeconds % 60;
+    return [hours, minutes, seconds]
+      .filter((num, idx, parts) => {
+        if (num !== 0) {
+          return true;
+        }
+        return parts.slice(idx + 1).every((part) => part === 0);
+      })
+      .map(String)
+      .map((part) => part.padStart(2, `0`))
+      .join(`:`)
+      .replace(/^0/, ``);
+  }
+
   public constructor(private data: Omit<AudioData, 'parts'>) {}
 
   public set edition(edition: Edition) {
