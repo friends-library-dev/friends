@@ -15,6 +15,7 @@
     "ts:check": "fldev ts:check",
     "format": "fldev format",
     "compile": "fldev ts:compile",
+    "postcompile": "bash ./postcompile.sh",
     "prepublishOnly": "npm run generate:js-map && npm run compile",
     "verify:intake": "fldev tsnode ./verify/intake.ts",
     "verify:assets": "fldev tsnode ./verify/assets.ts",
