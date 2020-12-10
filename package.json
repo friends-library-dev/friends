@@ -14,6 +14,7 @@
     "lint:fix": "fldev lint:fix",
     "ts:check": "fldev ts:check",
     "format": "fldev format",
+    "precompile": "rm -f ./query.d.ts",
     "compile": "fldev ts:compile",
     "postcompile": "bash ./postcompile.sh",
     "prepublishOnly": "npm run generate:js-map && npm run compile",
