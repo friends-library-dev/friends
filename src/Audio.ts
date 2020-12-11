@@ -1,4 +1,4 @@
-import { Name, AudioQuality } from '@friends-library/types';
+import { Name, AudioQuality, Lang } from '@friends-library/types';
 import Edition from './Edition';
 import AudioPart from './AudioPart';
 import { AudioData } from './types';
@@ -7,22 +7,39 @@ export default class Audio {
   private _edition?: Edition;
   public parts: AudioPart[] = [];
 
-  public static humanDuration(partDurations: number[]): string {
-    const totalSeconds = Math.floor(partDurations.reduce((x, y) => x + y));
-    const hours = Math.floor(totalSeconds / (60 * 60));
-    const minutes = Math.floor((totalSeconds - hours * 60 * 60) / 60);
-    const seconds = totalSeconds % 60;
-    return [hours, minutes, seconds]
-      .filter((num, idx, parts) => {
-        if (num !== 0) {
-          return true;
-        }
-        return parts.slice(idx + 1).every((part) => part === 0);
-      })
+  public static humanDuration(
+    partDurations: number[],
+    style: 'clock' | 'abbrev' = `clock`,
+    lang: Lang = `en`,
+  ): string {
+    const units = Audio.durationUnits(partDurations);
+    if (style === `abbrev`) {
+      const [hours, minutes] = units;
+      let duration = minutes === 0 ? `` : ` ${minutes} min`;
+      if (hours > 0) {
+        duration = `${hours} ${lang === `en` ? `hr` : `h`}${duration}`;
+      }
+      return duration.trim();
+    }
+
+    return units
+      .filter((num, idx, parts) =>
+        num !== 0 ? true : parts.slice(idx + 1).every((part) => part === 0),
+      )
       .map(String)
       .map((part) => part.padStart(2, `0`))
       .join(`:`)
       .replace(/^0/, ``);
+  }
+
+  public static durationUnits(
+    partDurations: number[],
+  ): [hours: number, minutes: number, seconds: number] {
+    const totalSeconds = Math.floor(partDurations.reduce((x, y) => x + y));
+    const hours = Math.floor(totalSeconds / (60 * 60));
+    const minutes = Math.floor((totalSeconds - hours * 60 * 60) / 60);
+    const seconds = totalSeconds % 60;
+    return [hours, minutes, seconds];
   }
 
   public constructor(private data: Omit<AudioData, 'parts'>) {}
