@@ -64,6 +64,102 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-102-1
+        audio:
+          reader: Jessie Henderson
+          external_playlist_id_hq: 1180216333
+          external_playlist_id_lq: 1180216360
+          added: 2020-12-17T17:09:47.185Z
+          parts:
+            - title: Chapter 1
+              external_id_hq: 949551859
+              external_id_lq: 949553116
+              chapters:
+                - 0
+            - title: Chapter 2
+              external_id_hq: 949554928
+              external_id_lq: 949555846
+              chapters:
+                - 1
+            - title: Chapter 3
+              external_id_hq: 949556833
+              external_id_lq: 949557643
+              chapters:
+                - 2
+            - title: Chapter 4
+              external_id_hq: 949558600
+              external_id_lq: 949560532
+              chapters:
+                - 3
+            - title: Chapter 5
+              external_id_hq: 949563652
+              external_id_lq: 949565347
+              chapters:
+                - 4
+            - title: Chapter 6
+              external_id_hq: 949566688
+              external_id_lq: 949567426
+              chapters:
+                - 5
+            - title: Chapter 7
+              external_id_hq: 949568287
+              external_id_lq: 949569346
+              chapters:
+                - 6
+            - title: Chapter 8
+              external_id_hq: 949570510
+              external_id_lq: 949571479
+              chapters:
+                - 7
+            - title: Chapter 9
+              external_id_hq: 949572298
+              external_id_lq: 949573084
+              chapters:
+                - 8
+            - title: Chapter 10
+              external_id_hq: 949573837
+              external_id_lq: 949574743
+              chapters:
+                - 9
+            - title: Chapter 11
+              external_id_hq: 949575625
+              external_id_lq: 949575976
+              chapters:
+                - 10
+            - title: Chapter 12
+              external_id_hq: 949576435
+              external_id_lq: 949577095
+              chapters:
+                - 11
+            - title: Chapter 13
+              external_id_hq: 949577884
+              external_id_lq: 949585954
+              chapters:
+                - 12
+            - title: Chapter 14
+              external_id_hq: 949586776
+              external_id_lq: 949587478
+              chapters:
+                - 13
+            - title: Chapter 15
+              external_id_hq: 949588294
+              external_id_lq: 949589197
+              chapters:
+                - 14
+            - title: Chapter 16
+              external_id_hq: 949590106
+              external_id_lq: 949590946
+              chapters:
+                - 15
+            - title: Chapter 17
+              external_id_hq: 949592326
+              external_id_lq: 949595305
+              chapters:
+                - 16
+            - title: Testimonies
+              external_id_hq: 949597060
+              external_id_lq: 949598719
+              chapters:
+                - 17
       - type: original
         isbn: 978-1-64476-103-8
     related_documents:
