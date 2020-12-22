@@ -20,7 +20,8 @@
     "prepublishOnly": "npm run generate:js-map && npm run compile",
     "verify:intake": "fldev tsnode ./verify/intake.ts",
     "verify:assets": "fldev tsnode ./verify/assets.ts",
-    "generate:js-map": "fldev tsnode ./src/js-map-gen.ts"
+    "generate:js-map": "fldev tsnode ./src/js-map-gen.ts",
+    "postpublish": "node ./postpublish.js"
   },
   "dependencies": {
     "@friends-library/types": "^3.0.0",
@@ -40,6 +41,8 @@
     "@types/lodash": "^4.14.165",
     "@types/node-fetch": "^2.5.7",
     "node-fetch": "^2.6.1",
-    "p-limit": "^3.0.2"
+    "p-limit": "^3.0.2",
+    "x-chalk": "^1.0.1",
+    "x-exec": "^1.2.0"
   }
 }

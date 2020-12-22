@@ -3,3 +3,5 @@
 tsconfig.tsbuildinfo
 jest.config.js
 **/__tests__/*
+postcompile.sh
+postpublish.js
