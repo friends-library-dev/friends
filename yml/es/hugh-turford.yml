@@ -51,3 +51,25 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-231-8
+        audio:
+          reader: Keren Alvaredo
+          added: 2020-12-24T18:42:54.403Z
+          external_playlist_id_hq: 1183780849
+          external_playlist_id_lq: 1183780876
+          parts:
+            - title: Capítulo 1
+              external_id_hq: 953628211
+              external_id_lq: 953629513
+              chapters:
+                - 0
+                - 1
+            - title: Capítulo 2
+              external_id_hq: 953630857
+              external_id_lq: 953631760
+              chapters:
+                - 2
+            - title: Capítulo 3
+              external_id_hq: 953632882
+              external_id_lq: 953633752
+              chapters:
+                - 3
