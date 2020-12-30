@@ -124,3 +124,18 @@ documents:
           principle doctrines of the people called Quakers, and also declares (from “his
           own long and most inward acquaintance and intimate knowledge of him”) the many
           excellent qualifications that God bestowed on George Fox.
+  - id: TODO
+    title: The Epistles of George Fox
+    original_title:
+      A Collection of the Many Select and Christian Epistles, Letters and Testimonies, Written on Sundry Occasions, by that Ancient, Eminent, Faithful Friend, and Minister of Christ Jesus, George Fox, in two volumes.
+    slug: epistles
+    filename: Epistles_of_George_Fox
+    description:
+      The Epistles of George Fox is the unabridged collection of his 420 letters, general epistles, and testimonies, written over the course of his long and fruitful life. Some of these were addressed to particular individuals or ministering Friends, but the majority were written to the church at large, or to specific meetings of the Society of Friends in places like England, Scotland, Wales, Ireland, America, Holland, and the Caribbean Islands. In his introduction to this publication, George Whitehead strongly recommends “the serious reading and perusal of the ensuing collection, as containing much Christian counsel to the many and various states and conditions of enlightened and enlivened souls, who are traveling and breathing after God.”
+    partial_description:
+      The unabridged collection of many select and Christian epistles, letters and testimonies, written on sundry occasions, by that Ancient, eminent, faithful, Friend, and minister of Christ Jesus, George Fox; published in two volumes.
+    tags:
+      - letters
+    editions:
+      - type: original
+        isbn: TODO
