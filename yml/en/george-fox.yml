@@ -154,3 +154,20 @@ documents:
       - type: original
         isbn: 978-1-64476-255-4
         draft: true
+  - id: f04088fc-c008-4630-a63a-b9bc40697080
+    slug: great-mystery-great-whore
+    title: The Great Mystery of the Great Whore
+    original_title:
+      The Great Mystery of the Great Whore Unfolded; And Antichrist’s Kingdom Revealed
+      Unto Destruction.
+    filename: Great_Mystery
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-256-1
+        draft: true
