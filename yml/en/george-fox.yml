@@ -127,15 +127,26 @@ documents:
       Christ Jesus, George Fox
     filename: Epistles_of_George_Fox_v1
     description: >-
-      TODO
+      The Epistles of George Fox is the unabridged collection of his 420 letters, general
+      epistles, and testimonies, written over the course of his long and fruitful life.
+      Some of these were addressed to particular individuals or ministering Friends, but
+      the majority were written to the church at large, or to specific meetings of the
+      Society of Friends in places like England, Scotland, Wales, Ireland, America,
+      Holland, and the Caribbean Islands. In his introduction to this publication, George
+      Whitehead strongly recommends “the serious reading and perusal of the ensuing
+      collection, as containing much Christian counsel to the many and various states and
+      conditions of enlightened and enlivened souls, who are traveling and breathing after
+      God.” Volume 1 of 2 (also originally published as volume 7 of the 8-volume “Works of
+      George Fox”).
     partial_description: >-
-      TODO
+      The unabridged collection of many select and Christian epistles, letters and
+      testimonies, written on sundry occasions, by that Ancient, eminent, faithful,
+      Friend, and minister of Christ Jesus, George Fox; published in two volumes. (1/2)
     tags:
       - letters
     editions:
       - type: original
         isbn: 978-1-64476-032-1
-        draft: true
   - id: 8558ff68-4d9d-47b6-8f00-57cade88b4c7
     title: The Epistles of George Fox -- Volume 2
     slug: epistles-v2
@@ -145,15 +156,26 @@ documents:
       Christ Jesus, George Fox
     filename: Epistles_of_George_Fox_v2
     description: >-
-      TODO
+      The Epistles of George Fox is the unabridged collection of his 420 letters, general
+      epistles, and testimonies, written over the course of his long and fruitful life.
+      Some of these were addressed to particular individuals or ministering Friends, but
+      the majority were written to the church at large, or to specific meetings of the
+      Society of Friends in places like England, Scotland, Wales, Ireland, America,
+      Holland, and the Caribbean Islands. In his introduction to this publication, George
+      Whitehead strongly recommends “the serious reading and perusal of the ensuing
+      collection, as containing much Christian counsel to the many and various states and
+      conditions of enlightened and enlivened souls, who are traveling and breathing after
+      God.” Volume 2 of 2 (also originally published as volume 8 of the 8-volume “Works of
+      George Fox”).
     partial_description: >-
-      TODO
+      The unabridged collection of many select and Christian epistles, letters and
+      testimonies, written on sundry occasions, by that Ancient, eminent, faithful,
+      Friend, and minister of Christ Jesus, George Fox; published in two volumes. (2/2)
     tags:
       - letters
     editions:
       - type: original
         isbn: 978-1-64476-255-4
-        draft: true
   - id: f04088fc-c008-4630-a63a-b9bc40697080
     slug: great-mystery-great-whore
     title: The Great Mystery of the Great Whore
