@@ -121,6 +121,7 @@ documents:
   - id: f2ec6e4f-e07b-4f1f-a952-ab2e8ec8b041
     title: The Epistles of George Fox -- Volume 1
     slug: epistles-v1
+    print_size: xl
     original_title:
       A Collection of Many Select And Christian Epistles, Letters and Testimonies, Written
       On Sundry Occasions, By That Ancient, Eminent, Faithful Friend, and Minister of
@@ -150,6 +151,7 @@ documents:
   - id: 8558ff68-4d9d-47b6-8f00-57cade88b4c7
     title: The Epistles of George Fox -- Volume 2
     slug: epistles-v2
+    print_size: xl
     original_title:
       A Collection of Many Select And Christian Epistles, Letters and Testimonies, Written
       On Sundry Occasions, By That Ancient, Eminent, Faithful Friend, and Minister of
