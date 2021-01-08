@@ -195,3 +195,17 @@ documents:
       - type: original
         isbn: 978-1-64476-256-1
         draft: true
+  - id: 8f5f5597-76f0-4d36-9bdb-2746c9530a4e
+    title: Doctrinal Works -- Volume 1
+    slug: doctrinal-works-v1
+    filename: Doctrinal_Works_v1
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-257-8
+        draft: true
