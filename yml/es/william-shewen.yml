@@ -1,8 +1,8 @@
-id: f54c80ae-e5fe-46b1-adda-768c7e287621
+id: 06b78839-c810-4e68-bfad-67383690165f
 name: William Shewen
 slug: william-shewen
 gender: male
-added: 2019-12-17T18:57:27.000Z
+added: 2021-01-11T19:05:31.278Z
 born: 1631
 died: 1695
 quotes:
@@ -26,11 +26,11 @@ description: >-
   subjects such as the light of Christ, the kingdom of God, waiting upon the Lord, and
   overcoming sinful thoughts and imaginations.
 documents:
-  - id: 5eae7905-1c99-45ba-8ecd-ffd1cba8be47
-    alt_language_id: 22795d6d-951c-4690-9a2b-a487acf1f784
-    title: Meditations and Experiences
-    slug: meditations-experiences
-    filename: Meditations_and_Experiences
+  - id: 22795d6d-951c-4690-9a2b-a487acf1f784
+    alt_language_id: 5eae7905-1c99-45ba-8ecd-ffd1cba8be47
+    title: Meditaciones y Experiencias
+    slug: meditaciones-experiencias
+    filename: Meditaciones_y_Experiencias
     description: >-
       William Shewen (1631–1695) was an early member of the Society of Friends who lived
       in London. He does not appear to have been a traveling minister in the society, but
@@ -50,51 +50,5 @@ documents:
       - doctrinal
     editions:
       - type: updated
-        isbn: 978-1-64476-161-8
-        editor: Jason R. Henderson
-        audio:
-          added: 2018-04-12T04:00:00.000Z
-          reader: Jason R. Henderson
-          external_playlist_id_hq: 971897023
-          external_playlist_id_lq: 971903407
-          parts:
-            - title: Part 1
-              external_id_hq: 428646291
-              external_id_lq: 428646360
-              chapters:
-                - 0
-            - title: Part 2
-              external_id_hq: 428647167
-              external_id_lq: 428647311
-              chapters:
-                - 1
-            - title: Part 3
-              external_id_hq: 431753844
-              external_id_lq: 431753880
-              chapters:
-                - 2
-            - title: Part 4
-              external_id_hq: 432764763
-              external_id_lq: 432764784
-              chapters:
-                - 3
-            - title: Part 5
-              external_id_hq: 435148314
-              external_id_lq: 435148326
-              chapters:
-                - 4
-            - title: Part 6
-              external_id_hq: 436055172
-              external_id_lq: 436055190
-              chapters:
-                - 5
-            - title: Part 7
-              external_id_hq: 437877921
-              external_id_lq: 437877951
-              chapters:
-                - 6
-            - title: Part 8
-              external_id_hq: 438988485
-              external_id_lq: 438988506
-              chapters:
-                - 7
+        draft: true
+        isbn: 978-1-64476-258-5
