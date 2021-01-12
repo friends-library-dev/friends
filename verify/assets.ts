@@ -4,7 +4,7 @@ import pLimit from 'p-limit';
 import env from '@friends-library/env';
 import { AUDIO_QUALITIES } from '@friends-library/types';
 import * as docMeta from '@friends-library/document-meta';
-import { eachEdition } from '../';
+import { eachEdition } from '../query';
 
 async function main(): Promise<void> {
   const meta = await docMeta.fetch();
@@ -80,4 +80,9 @@ function verify(path: string, result: { success: boolean }): Promise<void> {
 
 const limit = pLimit(process.env.CI ? 10 : 100);
 
-main();
+try {
+  main();
+} catch (err: any) {
+  console.error(err.message);
+  process.exit(1);
+}
