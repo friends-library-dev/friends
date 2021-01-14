@@ -53,3 +53,28 @@ documents:
         isbn: 978-1-64476-059-8
       - type: modernized
         isbn: 978-1-64476-060-4
+  - id: 032c09e7-d87a-4fa2-95c2-5f2a04c5ee94
+    title: The Diary of Alexander Jaffray
+    original_title: >-
+      The Diary of Alexander Jaffray Provost of Aberdeen, One of the Scottish
+      Commissioners To King Charles II, And A Member of Cromwell’s Parliament. To Which
+      Are Added, Particulars of His Subsequent Life, Given In Connexion with Memoirs of
+      the Rise, Progress, And Persecutions, of the People Called Quakers In the North of
+      Scotland; Among Whom He Became One of the Earliest Members.
+    slug: diary-alexander-jaffray
+    filename: Diary_of_Alexander_Jaffray
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+      - letters
+      - history
+    editions:
+      - type: original
+        isbn: 978-1-64476-259-2
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-260-8
+        draft: true
