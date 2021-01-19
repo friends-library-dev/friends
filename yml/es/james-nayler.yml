@@ -67,3 +67,14 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-254-7
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-01-19T17:36:09.686Z
+          # external_playlist_id_hq: 0
+          # external_playlist_id_lq: 0
+          parts:
+            - title: Capítulo 1
+              external_id_hq: 968681602
+              external_id_lq: 968682856
+              chapters:
+                - 0
