@@ -195,6 +195,8 @@ documents:
       - type: original
         isbn: 978-1-64476-256-1
         draft: true
+        splits:
+          - 45
   - id: 8f5f5597-76f0-4d36-9bdb-2746c9530a4e
     title: Doctrinal Works -- Volume 1
     slug: doctrinal-works-v1
