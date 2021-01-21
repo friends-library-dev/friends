@@ -58,6 +58,63 @@ documents:
         isbn: 978-1-64476-033-8
       - type: modernized
         isbn: 978-1-64476-034-5
+        audio:
+          reader: Jessie Henderson
+          external_playlist_id_hq: 1198699384
+          external_playlist_id_lq: 1198699411
+          added: 2021-01-21T18:18:27.083Z
+          parts:
+            - title: Part 1
+              external_id_hq: 969544090
+              external_id_lq: 969544795
+              chapters:
+                - 0
+                - 1
+            - title: Part 2
+              external_id_hq: 969877537
+              external_id_lq: 969878620
+              chapters:
+                - 1
+            - title: Part 3
+              external_id_hq: 969879532
+              external_id_lq: 969880279
+              chapters:
+                - 1
+            - title: Part 4
+              external_id_hq: 969881188
+              external_id_lq: 969900520
+              chapters:
+                - 1
+            - title: Part 5
+              external_id_hq: 969921964
+              external_id_lq: 969940654
+              chapters:
+                - 1
+            - title: Part 6
+              external_id_hq: 969944464
+              external_id_lq: 969946921
+              chapters:
+                - 1
+            - title: Part 7
+              external_id_hq: 969949870
+              external_id_lq: 969952969
+              chapters:
+                - 1
+            - title: Part 8
+              external_id_hq: 969956320
+              external_id_lq: 969959560
+              chapters:
+                - 1
+            - title: Part 9
+              external_id_hq: 969962725
+              external_id_lq: 969965800
+              chapters:
+                - 1
+            - title: Part 10
+              external_id_hq: 969968830
+              external_id_lq: 969971470
+              chapters:
+                - 1
     related_documents:
       - id: bd22a3f4-51e1-45a5-9b65-2f0b21bde039
         description: >-
