@@ -46,3 +46,14 @@ documents:
         isbn: 978-1-64476-248-6
       - type: modernized
         isbn: 978-1-64476-249-3
+        audio:
+          reader: Jessie Henderson
+          added: 2021-01-25T17:36:43.485Z
+          parts:
+            - title: The Life of Margaret Lucas
+              external_id_hq: 972559159
+              external_id_lq: 972562966
+              chapters:
+                - 0
+                - 1
+                - 2
