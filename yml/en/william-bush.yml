@@ -1,0 +1,62 @@
+id: 918cbbae-5403-4693-9fce-43582e229002
+name: William Bush
+slug: william-bush
+gender: male
+born: 1794
+died: 1844
+residences:
+  - city: London
+    region: England
+    durations:
+      - start: 1836
+        end: 1844
+description: >-
+  William Bush (1794-1844) was a ship carpenter on board a sailing vessel called the
+  “Henry Freeling,” which was purchased by the Society of Friends and used by Daniel
+  Wheeler in his missionary voyages to the islands of the North and South Pacific. Upon
+  setting out from England, Bush was a man hardened by sin and rebellion, and captivated
+  by the passing pleasures of this world. But through continued interactions with that
+  eminent servant of the Lord, Daniel Wheeler, he says “my Redeemer snatched me from the
+  claws of hell and brought me to the blessed Light of life.” This short publication gives
+  an affecting account of a prodigal’s whole-hearted return to the Father, and includes
+  much of the written correspondence that passed between these two men during the two
+  years they were together at sea.
+documents:
+  - id: bce132e2-5ff8-4b5d-b225-e7195cbdb4f3
+    title: The Life of William Bush
+    slug: life
+    filename: Life_of_William_Bush
+    description: >-
+      William Bush (1794-1844) was a ship carpenter on board a sailing vessel called the
+      “Henry Freeling,” which was purchased by the Society of Friends and used by Daniel
+      Wheeler in his missionary voyages to the islands of the North and South Pacific.
+      Upon setting out from England, Bush was a man hardened by sin and rebellion, and
+      captivated by the passing pleasures of this world. But through continued
+      interactions with that eminent servant of the Lord, Daniel Wheeler, he says “my
+      Redeemer snatched me from the claws of hell and brought me to the blessed Light of
+      life.” This short publication gives an affecting account of a prodigal’s
+      whole-hearted return to the Father, and includes much of the written correspondence
+      that passed between these two men during the two years they were together at sea.
+    partial_description: >-
+      A brief account of William Bush, a carpenter on board the sailing vessel used by
+      Daniel Wheeler in his missionary voyages to the Islands of the Pacific Ocean,
+      containing a relation of his heart-felt conversion to the Lord, and the several
+      letters that passed between these two men during their two years together at sea.
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: original
+        isbn: 978-1-64476-262-2
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-261-5
+        draft: true
+    related_documents:
+      - id: 3c1f4d2b-cefb-4a8f-a0aa-ad9de657b15f
+        description: >-
+          Daniel Wheeler, the Friend who was so instrumental in the conversation and early
+          spiritual instruction of William Bush, kept a journal of his own eventful life,
+          in which he relates his dramatic change from a dissolute sailer to a humble
+          disciple of Christ, and later in life chronicles his extraordinary missionary
+          journeys to the various islands in the Pacific Ocean.
