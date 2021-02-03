@@ -64,3 +64,24 @@ documents:
           Both the lives and the sufferings of the Friends mentioned in Mary Ann Kelty’s
           history, are related in much greater detail in William Sewel’s classic “History
           of the Rise, Increase, and Progress of that Christian People Called Quakers.”
+  - id: a689e647-7065-4bf5-8b50-c4f3b1e73135
+    title: Mamma and Mary
+    original_title: >-
+      Mamma and Mary, Discoursing Upon Good and Evil. In Six Dialogues.
+    filename: Mamma_and_Mary
+    slug: mamma-and-mary
+    description: TODO
+    partial_description: TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: updated
+        editor: Jason R. Henderson
+        isbn: 978-1-64476-263-9
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-264-6
+        draft: true
+      - type: original
+        isbn: 978-1-64476-265-3
+        draft: true
