@@ -211,3 +211,17 @@ documents:
       - type: original
         isbn: 978-1-64476-257-8
         draft: true
+  - id: cb61d22a-4fc3-4fcb-94de-446fe50b49d2
+    title: Doctrinal Works -- Volume 2
+    slug: doctrinal-works-v2
+    filename: Doctrinal_Works_v2
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-266-0
+        draft: true
