@@ -70,18 +70,26 @@ documents:
       Mamma and Mary, Discoursing Upon Good and Evil. In Six Dialogues.
     filename: Mamma_and_Mary
     slug: mamma-and-mary
-    description: TODO
-    partial_description: TODO
+    description:
+      This short collection of dialogues between a mother and her young daughter was
+      written by Mary Ann Kelty (1789-1873) in order to illustrate the necessity of
+      identifying and uprooting the root of sin in children, before it grows strong and
+      unyielding. “It is not,” says Kelty, “by lopping off the branches of corruption that
+      the instructor of youth can hope to be of service,” but rather by helping them to an
+      early and deep familiarity with the Light of Jesus Christ, that living “Word in the
+      heart” which manifests all that is contrary to Truth, and gives power to become the
+      children of God.
+    partial_description:
+      A collection of six dialogues between a mother and her young daughter, exposing the
+      root and tendency of sin in the heart of man, and offering practical advice for
+      parents on how to turn their children from self to the light of Christ.
     tags:
       - spiritual life
     editions:
       - type: updated
         editor: Jason R. Henderson
         isbn: 978-1-64476-263-9
-        draft: true
       - type: modernized
         isbn: 978-1-64476-264-6
-        draft: true
       - type: original
         isbn: 978-1-64476-265-3
-        draft: true
