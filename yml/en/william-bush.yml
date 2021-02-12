@@ -2,6 +2,7 @@ id: 918cbbae-5403-4693-9fce-43582e229002
 name: William Bush
 slug: william-bush
 gender: male
+added: 2021-02-12T18:24:09.395Z
 born: 1794
 died: 1844
 residences:
@@ -48,10 +49,8 @@ documents:
     editions:
       - type: original
         isbn: 978-1-64476-262-2
-        draft: true
       - type: modernized
         isbn: 978-1-64476-261-5
-        draft: true
     related_documents:
       - id: 3c1f4d2b-cefb-4a8f-a0aa-ad9de657b15f
         description: >-
