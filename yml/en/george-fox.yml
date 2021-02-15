@@ -225,3 +225,17 @@ documents:
       - type: original
         isbn: 978-1-64476-266-0
         draft: true
+  - id: c352db51-cabc-47e8-ac58-bad1624bc070
+    title: Doctrinal Works -- Volume 3
+    slug: doctrinal-works-v3
+    filename: Doctrinal_Works_v3
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn:
+        draft: true
