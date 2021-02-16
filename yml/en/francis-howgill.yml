@@ -80,3 +80,33 @@ documents:
                 - 10
                 - 11
                 - 12
+  - id: ac772bbc-3684-4436-801a-6a80215cda04
+    title: The Life of Francis Howgill
+    slug: life
+    filename: Life_of_Francis_Howgill
+    description: >-
+      This publication is compiled from the complete works of Francis Howgill, which were
+      collected after his death and published in the year 1676 in one volume containing
+      736 pages, and entitled “The Dawnings of the Gospel day, and Its Light and Glory
+      Discovered, etc.” It is believed that the extracts given here in The Life of Francis
+      Howgill (published by James Backhouse in 1828) comprise the substance of most of his
+      other writings, and present to the reader not only a description of his valuable
+      life, ministry, sufferings for the gospel, and death, but also selections from many
+      of his papers, epistles, and books—particularly his two books entitled “The Glory of
+      the True Church Discovered”, and “Some of the Mysteries of God’s Kingdom Declared.”
+    partial_description: >-
+      Selections from the writings of Francis Howgill, collected and published by James
+      Backhouse in 1828, containing a biographical sketch of his life and ministry, a
+      collection of his letters, papers, and writings, and lengthy selections from two of
+      his most valuable books.
+    tags:
+      - journal
+      - treatise
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-268-4
+        draft: true
+      - type: original
+        isbn: 978-1-64476-269-1
+        draft: true
