@@ -40,6 +40,7 @@ description: >-
   and biographical notes by William Armistead in 1852.
 documents:
   - id: dcf39e10-9eaf-4878-98de-380b531fc2ee
+    alt_language_id: 3358b507-cb00-4121-8f85-2ba75b896bb9
     title: Selection from the Journal of George Fox
     slug: journal-selection
     filename: Selection_Journal_of_George_Fox
