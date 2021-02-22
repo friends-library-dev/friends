@@ -1,0 +1,70 @@
+id: 07ad3ecc-2a61-4f38-bb94-dca0cd0ee9a2
+name: George Fox
+slug: george-fox
+gender: male
+added: 2021-02-22T19:43:42.227Z
+born: 1624
+died: 1691
+quotes:
+  - source: Thomas Ellwood
+    text: >-
+      Era valiente en el servicio de la verdad; audaz al afirmarla, paciente al sufrir por
+      ella, incansable al trabajar en ella, firme en su testimonio de ella; inamovible
+      como una roca. Era profundo en el conocimiento divino, claro en la revelación de
+      misterios celestiales, sencillo y poderoso en la predicación, ferviente en la
+      oración. Estaba ricamente dotado de sabiduría celestial; era rápido en el
+      discernimiento, sano en el juicio, capaz y listo a dar, discreto en guardar el
+      consejo; amante de la justicia, alentador de la virtud, la justicia, la templanza,
+      mansedumbre, pureza, castidad, modestia, humildad, caridad y abnegación en todo,
+      tanto de palabra como en ejemplo.
+  - source: William Penn
+    text: >-
+      Pero, sobre todo, se destacaba en la oración. La realidad interna y genuina de su
+      espíritu, la reverencia y la solemnidad en su manera de comportarse y dirigirse a
+      Dios, y la brevedad y plenitud de sus palabras, frecuentemente han golpeado incluso
+      a los extraños con admiración. Debo decir que la actitud más impactante, viva y
+      reverente que alguna vez haya sentido o visto era la de él cuando oraba. Y de verdad
+      esto era un testimonio de que conocía y vivía más cerca del Señor que otros hombres;
+      porque los que más Lo conocen, sienten una mayor necesidad de acercarse a Él con
+      temor y reverencia.
+residences:
+  - city: Leicester
+    region: England
+description: >-
+  George Fox (1624-1691) es generalmente considerado como el fundador de la Sociedad de
+  Amigos (Cuáqueros). Cuando era joven, Fox no podía encontrar descanso en el cristianismo
+  externo y sin vida de su época, viendo claramente que la mayoría de los creyentes
+  profesaban mucho más de lo que realmente experimentaban. Este diario relata la historia
+  de su desesperada búsqueda de la Verdad, su descubrimiento de un Cristianismo que
+  consiste en la luz y vida de Jesucristo revelada y formada en el hombre, y los
+  consecuentes cincuenta años de su poderoso ministerio que trastornó al mundo. Este
+  extracto contiene solo los primeros tres capítulos del diario de Fox, los cuales se
+  enfocan en sus primeros años, en su crecimiento espiritual y en su llamado al
+  ministerio.
+documents:
+  - id: 3358b507-cb00-4121-8f85-2ba75b896bb9
+    alt_language_id: dcf39e10-9eaf-4878-98de-380b531fc2ee
+    title: Selección del Diario de George Fox
+    slug: seleccion-del-diario
+    filename: Seleccion_del_Diario_de_George_Fox
+    description: >-
+      George Fox (1624-1691) es generalmente considerado como el fundador de la Sociedad
+      de Amigos (Cuáqueros). Cuando era joven, Fox no podía encontrar descanso en el
+      cristianismo externo y sin vida de su época, viendo claramente que la mayoría de los
+      creyentes profesaban mucho más de lo que realmente experimentaban. Este diario
+      relata la historia de su desesperada búsqueda de la Verdad, su descubrimiento de un
+      Cristianismo que consiste en la luz y vida de Jesucristo revelada y formada en el
+      hombre, y los consecuentes cincuenta años de su poderoso ministerio que trastornó al
+      mundo. Este extracto contiene solo los primeros tres capítulos del diario de Fox,
+      los cuales se enfocan en sus primeros años, en su crecimiento espiritual y en su
+      llamado al ministerio.
+    partial_description: >-
+      George Fox (1624-1691) es generalmente considerado como el fundador de la Sociedad
+      de Amigos (Cuáqueros). Este extracto contiene solo los primeros tres capítulos del
+      diario de Fox, los cuales se enfocan en sus primeros años, en su crecimiento
+      espiritual y en su llamado al ministerio.
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-270-7

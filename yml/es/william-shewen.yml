@@ -54,3 +54,39 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-258-5
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-02-22T18:23:55.315Z
+          external_playlist_id_lq: 1215556012
+          external_playlist_id_hq: 1215555964
+          parts:
+            - title: Parte 1
+              external_id_hq: 990754429
+              external_id_lq: 990754633
+              chapters:
+                - 0
+            - title: Parte 2
+              external_id_hq: 990758452
+              external_id_lq: 990768367
+              chapters:
+                - 1
+            - title: Parte 3
+              external_id_hq: 990769948
+              external_id_lq: 990771667
+              chapters:
+                - 2
+            - title: Parte 4
+              external_id_hq: 990773044
+              external_id_lq: 990774661
+              chapters:
+                - 3
+            - title: Parte 5
+              external_id_hq: 990776491
+              external_id_lq: 990778174
+              chapters:
+                - 4
+            - title: Parte 6
+              external_id_hq: 990779590
+              external_id_lq: 990782572
+              chapters:
+                - 5
