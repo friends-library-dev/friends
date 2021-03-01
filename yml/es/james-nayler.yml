@@ -70,11 +70,16 @@ documents:
         audio:
           reader: Keren Alvaredo
           added: 2021-01-19T17:36:09.686Z
-          # external_playlist_id_hq: 0
-          # external_playlist_id_lq: 0
+          external_playlist_id_hq: 1219353991
+          external_playlist_id_lq: 1219354030
           parts:
             - title: Capítulo 1
               external_id_hq: 968681602
               external_id_lq: 968682856
               chapters:
                 - 0
+            - title: Capítulo 2
+              external_id_hq: 996209404
+              external_id_lq: 996211390
+              chapters:
+                - 1
