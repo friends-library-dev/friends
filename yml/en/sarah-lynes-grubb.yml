@@ -1,0 +1,81 @@
+id: 7dc125d3-14fb-424d-9aad-defce9f51901
+name: Sarah Lynes Grubb
+slug: sarah-lynes-grubb
+gender: female
+# @TODO
+# added: 2018-08-09T19:47:41.000Z
+born: 1773
+died: 1842
+residences:
+  - city: London
+    region: England
+    durations:
+      - start: 1773
+        end: 1787
+  - city: Clonmel
+    region: Ireland
+    durations:
+      - start: 1787
+        end: 1797
+  - city: London
+    region: England
+    durations:
+      - start: 1797
+        end: 1804
+  - city: Clonmel
+    region: Ireland
+    durations:
+      - start: 1804
+        end: 1819
+  - city: London
+    region: England
+    durations:
+      - start: 1819
+        end: 1842
+description: >-
+  In the first half of the nineteenth century, great numbers of those who claimed
+  membership in the Society of Friends in England were departing from the principals and
+  practices of the early Quakers, and particularly from a total dependence upon the Spirit
+  of God for all acceptable ministry, worship, and inward transformation. Sarah Lynes
+  Grubb (1773-1842) was called to the work of the ministry when only seventeen years of
+  age, and for fifty-two years was used by the Lord as a powerful prophetic voice to a
+  backsliding people, often calling them back from a formal, intellectual, and lifeless
+  Christianity, to the power and purity that was so conspicuous in the early days of the
+  society. At thirty-two years of age, she destroyed some journals which she had
+  previously kept, because of a growing concern that “no honor might be given to the
+  creature.” But a large selection of her letters were collected by her children after her
+  death, and are here published for the benefit of all who aspire to walk, as she did, on
+  the ancient path.
+documents:
+  - id: 00e872a0-b65e-4bd8-92d7-71ffb3a17d91
+    title: The Life and Letters of Sarah Lynes Grubb
+    slug: life-and-letters
+    filename: Life_and_Letters_of_Sarah_Lynes_Grubb
+    description: >-
+      In the first half of the nineteenth century, great numbers of those who claimed
+      membership in the Society of Friends in England were departing from the principals
+      and practices of the early Quakers, and particularly from a total dependence upon
+      the Spirit of God for all acceptable ministry, worship, and inward transformation.
+      Sarah Lynes Grubb (1773-1842) was called to the work of the ministry when only
+      seventeen years of age, and for fifty-two years was used by the Lord as a powerful
+      prophetic voice to a backsliding people, often calling them back from a formal,
+      intellectual, and lifeless Christianity, to the power and purity that was so
+      conspicuous in the early days of the society. At thirty-two years of age, she
+      destroyed some journals which she had previously kept, because of a growing concern
+      that “no honor might be given to the creature.” But a large selection of her letters
+      were collected by her children after her death, and are here published for the
+      benefit of all who aspire to walk, as she did, on the ancient path. the end.
+    partial_description: >-
+      A collection of the letters of Sarah Lynes Grubb, a faithful minister of the gospel
+      at a time of great declension and backsliding in the Society of Friends; also
+      containing an autobiographical address to her children written at several different
+      periods of her life.
+    tags:
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-271-4
+        draft: true
+      - type: original
+        isbn: 978-1-64476-272-1
+        draft: true
