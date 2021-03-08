@@ -78,3 +78,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-245-5
+        audio:
+          reader: Josué Rodriguez
+          added: 2021-03-08T18:59:53.415Z
+          parts:
+            - title: El Camino de la Vida Revelado
+              external_id_lq: 1001647222
+              external_id_hq: 1001637346
+              chapters:
+                - 0
