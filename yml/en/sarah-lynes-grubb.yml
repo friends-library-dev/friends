@@ -2,8 +2,7 @@ id: 7dc125d3-14fb-424d-9aad-defce9f51901
 name: Sarah Lynes Grubb
 slug: sarah-lynes-grubb
 gender: female
-# @TODO
-# added: 2018-08-09T19:47:41.000Z
+added: 2021-03-11T21:16:19.700Z
 born: 1773
 died: 1842
 residences:
@@ -64,7 +63,7 @@ documents:
       destroyed some journals which she had previously kept, because of a growing concern
       that “no honor might be given to the creature.” But a large selection of her letters
       were collected by her children after her death, and are here published for the
-      benefit of all who aspire to walk, as she did, on the ancient path. the end.
+      benefit of all who aspire to walk, as she did, on the ancient path.
     partial_description: >-
       A collection of the letters of Sarah Lynes Grubb, a faithful minister of the gospel
       at a time of great declension and backsliding in the Society of Friends; also
@@ -75,7 +74,5 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-271-4
-        draft: true
       - type: original
         isbn: 978-1-64476-272-1
-        draft: true
