@@ -48,3 +48,12 @@ documents:
       - type: updated
         isbn: 978-1-64476-193-9
         editor: Jason R. Henderson
+        audio:
+          reader: Jason R. Henderson
+          added: 2021-03-15T15:48:51.944Z
+          parts:
+            - title: Salgan de Babilonia
+              external_id_hq: 1007586961
+              external_id_lq: 1007595787
+              chapters:
+                - 0
