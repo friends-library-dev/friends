@@ -61,6 +61,15 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-167-0
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-03-22T15:52:40.541Z
+          parts:
+            - title: Esperando en el Señor
+              external_id_hq: 1013327497
+              external_id_lq: 1013338165
+              chapters:
+                - 0
   - id: 1314f777-2b9e-40b4-b148-18e64278557a
     alt_language_id: fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6
     title: Consideraciones sobre el Entretenimiento y la Recreacion
