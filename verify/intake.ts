@@ -15,18 +15,18 @@ function main(): void {
       return;
     }
 
-    const signsOfIntake = dpc.asciidoc
-      .split(`\n`)
-      .reduce((count: number, line: string) => {
-        for (const regex of regexes) {
-          if (regex.test(line)) {
-            return count + 1;
-          }
+    const adoc = dpc.asciidocFiles.reduce((acc, { adoc }) => acc + adoc, ``);
+    const adocLines = adoc.split(`\n`);
+    const signsOfIntake = adocLines.reduce((count: number, line: string) => {
+      for (const regex of regexes) {
+        if (regex.test(line)) {
+          return count + 1;
         }
-        return count;
-      }, 0);
+      }
+      return count;
+    }, 0);
 
-    const rate = dpc.asciidoc.split(`\n`).length / signsOfIntake;
+    const rate = adocLines.length / signsOfIntake;
 
     if (rate > 650 && dpc.edition.isDraft === false) {
       console.error(`${dpc.path}} likely not intaken`);
