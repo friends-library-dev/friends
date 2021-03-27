@@ -82,3 +82,7 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-025-3
+      - type: updated
+        isbn: 978-1-64476-274-5
+        editor: Eden Henderson
+        draft: true
