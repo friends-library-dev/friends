@@ -179,6 +179,81 @@ documents:
     editions:
       - type: original
         isbn: 978-1-64476-255-4
+  - id: 8f5f5597-76f0-4d36-9bdb-2746c9530a4e
+    title: Doctrinal Works -- Volume 1
+    slug: doctrinal-works-v1
+    filename: Doctrinal_Works_v1
+    description: >-
+      Although the journal of George Fox is certainly his most well-known publication, in
+      the course of his long and fruitful life Fox also wrote a large quantity of
+      doctrinal writings touching upon all sorts of important Christian principles and
+      practices, and explaining from Scripture the ancient path of truth and
+      righteousness. In the three volumes of his collected doctrinal works, there are
+      extensive writings on subjects like the kingdom of God, the true church and
+      ministry, election and reprobation, the old and new covenant, the light of Christ,
+      persecution, baptism and the Lord’s supper, the great apostasy, the cross of Christ,
+      and much more. This particular publication is the first of his three doctrinal
+      books, and is also volume four of the eight-volume “Works of George Fox.”
+    partial_description: >-
+      This is the first volume of the Doctrinal Works of George Fox (as well as volume
+      four in the eight-volume “Works of George Fox.”) containing a collection of Fox’s
+      writings on a variety of important Christian principles and practices, and
+      instruction in the way of righteousness.
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-257-8
+  - id: cb61d22a-4fc3-4fcb-94de-446fe50b49d2
+    title: Doctrinal Works -- Volume 2
+    slug: doctrinal-works-v2
+    filename: Doctrinal_Works_v2
+    description: >-
+      Although the journal of George Fox is certainly his most well-known publication, in
+      the course of his long and fruitful life Fox also wrote a large quantity of
+      doctrinal writings touching upon all sorts of important Christian principles and
+      practices, and explaining from Scripture the ancient path of truth and
+      righteousness. In the three volumes of his collected doctrinal works, there are
+      extensive writings on subjects like the kingdom of God, the true church and
+      ministry, election and reprobation, the old and new covenant, the light of Christ,
+      persecution, baptism and the Lord’s supper, the great apostasy, the cross of Christ,
+      and much more. This particular publication is the second of his three doctrinal
+      books, and is also volume five of the eight-volume “Works of George Fox.”
+    partial_description: >-
+      This is the second volume of the Doctrinal Works of George Fox (as well as volume
+      five in the eight-volume “Works of George Fox.”) containing a collection of Fox’s
+      writings on a variety of important Christian principles and practices, and
+      instruction in the way of righteousness.
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-266-0
+  - id: c352db51-cabc-47e8-ac58-bad1624bc070
+    title: Doctrinal Works -- Volume 3
+    slug: doctrinal-works-v3
+    filename: Doctrinal_Works_v3
+    description: >-
+      Although the journal of George Fox is certainly his most well-known publication, in
+      the course of his long and fruitful life Fox also wrote a large quantity of
+      doctrinal writings touching upon all sorts of important Christian principles and
+      practices, and explaining from Scripture the ancient path of truth and
+      righteousness. In the three volumes of his collected doctrinal works, there are
+      extensive writings on subjects like the kingdom of God, the true church and
+      ministry, election and reprobation, the old and new covenant, the light of Christ,
+      persecution, baptism and the Lord’s supper, the great apostasy, the cross of Christ,
+      and much more. This particular publication is the third of his three doctrinal
+      books, and is also volume six of the eight-volume “Works of George Fox.”
+    partial_description: >-
+      This is the third volume of the Doctrinal Works of George Fox (as well as volume six
+      in the eight-volume “Works of George Fox.”) containing a collection of Fox’s
+      writings on a variety of important Christian principles and practices, and
+      instruction in the way of righteousness.
+    tags:
+      - treatise
+    editions:
+      - type: original
+        isbn: 978-1-64476-267-7
   - id: f04088fc-c008-4630-a63a-b9bc40697080
     slug: great-mystery-great-whore
     title: The Great Mystery of the Great Whore
@@ -187,56 +262,25 @@ documents:
       Unto Destruction.
     filename: Great_Mystery
     description: >-
-      TODO
+      As the preaching of George Fox and other early Friends continued to gain ground in
+      England, Ireland, and Scotland in the mid-seventeenth century, a large number of
+      religious leaders of various denominations (some from malice and others from
+      misunderstanding) began to publish books that were critical of the Quakers and their
+      doctrines. “The Great Mystery of the Great Whore” (originally published as volume
+      three of the eight-volume “Works of George Fox”) is a large collection of Fox’s
+      answers to the specific objections, slanders, and accusations that were published
+      against Friends, together with instruction and encouragement for all sincere seekers
+      of truth to come out from the various man-made and man-centered religions that
+      comprise “mystery Babylon, the mother of harlots.”
     partial_description: >-
-      TODO
+      “The Great Mystery of the Great Whore” (originally published as volume three of the
+      eight-volume “Works of George Fox”) is a large collection of Fox’s answers to the
+      specific objections, slanders, and accusations that were published against Friends
+      in their early days.
     tags:
       - treatise
     editions:
       - type: original
         isbn: 978-1-64476-256-1
-        draft: true
         splits:
           - 45
-  - id: 8f5f5597-76f0-4d36-9bdb-2746c9530a4e
-    title: Doctrinal Works -- Volume 1
-    slug: doctrinal-works-v1
-    filename: Doctrinal_Works_v1
-    description: >-
-      TODO
-    partial_description: >-
-      TODO
-    tags:
-      - treatise
-    editions:
-      - type: original
-        isbn: 978-1-64476-257-8
-        draft: true
-  - id: cb61d22a-4fc3-4fcb-94de-446fe50b49d2
-    title: Doctrinal Works -- Volume 2
-    slug: doctrinal-works-v2
-    filename: Doctrinal_Works_v2
-    description: >-
-      TODO
-    partial_description: >-
-      TODO
-    tags:
-      - treatise
-    editions:
-      - type: original
-        isbn: 978-1-64476-266-0
-        draft: true
-  - id: c352db51-cabc-47e8-ac58-bad1624bc070
-    title: Doctrinal Works -- Volume 3
-    slug: doctrinal-works-v3
-    filename: Doctrinal_Works_v3
-    description: >-
-      TODO
-    partial_description: >-
-      TODO
-    tags:
-      - treatise
-    editions:
-      - type: original
-        isbn: 978-1-64476-267-7
-        draft: true
