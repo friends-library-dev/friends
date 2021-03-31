@@ -24,7 +24,7 @@
     "postpublish": "node ./postpublish.js"
   },
   "dependencies": {
-    "@friends-library/types": "^3.0.0",
+    "@friends-library/types": "^4.0.0",
     "glob": "^7.1.4",
     "js-yaml": "^3.12.0",
     "jsonschema": "^1.2.6",
@@ -32,9 +32,9 @@
     "x-ts-utils": "^1.0.1"
   },
   "devDependencies": {
-    "@friends-library/dev": "^4.1.15",
-    "@friends-library/document-meta": "^2.1.0",
-    "@friends-library/env": "^1.2.0",
+    "@friends-library/dev": "^4.1.18",
+    "@friends-library/document-meta": "^2.2.0",
+    "@friends-library/env": "^1.3.0",
     "@friends-library/friend-repos": "^1.1.0",
     "@types/glob": "^7.1.3",
     "@types/js-yaml": "^3.12.1",
