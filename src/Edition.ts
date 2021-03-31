@@ -63,6 +63,8 @@ export default class Edition {
         return `${this.filenameBase}--(print)${volSuffix}.pdf`;
       case `paperback-cover`:
         return `${this.filenameBase}--cover${volSuffix}.pdf`;
+      case `speech`:
+        return `${this.filenameBase}.txt`;
     }
   }
 
@@ -93,6 +95,7 @@ export default class Edition {
       filename: {
         epub: this.filename(`epub`),
         mobi: this.filename(`mobi`),
+        speech: this.filename(`speech`),
         'web-pdf': this.filename(`web-pdf`),
         'paperback-cover': this.filename(`paperback-cover`),
         'paperback-interior': this.filename(`paperback-interior`),
