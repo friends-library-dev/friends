@@ -64,7 +64,7 @@ export default class Edition {
       case `paperback-cover`:
         return `${this.filenameBase}--cover${volSuffix}.pdf`;
       case `speech`:
-        return `${this.filenameBase}.txt`;
+        return `${this.filenameBase}.html`;
     }
   }
 
