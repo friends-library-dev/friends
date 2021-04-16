@@ -93,6 +93,10 @@ documents:
     tags:
       - journal
     editions:
+      - type: updated
+        isbn: 978-1-64476-275-2
+        draft: true
+        editor: Eden Henderson
       - type: modernized
         isbn: 978-1-64476-078-9
       - type: original
