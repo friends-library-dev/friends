@@ -23,7 +23,7 @@ documents:
       - journal
       - letters
     editions:
-      - type: modernized
+      - type: updated
         isbn: 978-1-64476-276-9
         draft: true
         editor: Eden Henderson
