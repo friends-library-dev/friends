@@ -90,7 +90,5 @@ documents:
     editions:
       - type: original
         isbn: 978-1-64476-259-2
-        draft: true
       - type: modernized
         isbn: 978-1-64476-260-8
-        draft: true
