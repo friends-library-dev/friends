@@ -1,3 +1,4 @@
+import { it } from '@jest/globals';
 import path from 'path';
 import { Validator } from 'jsonschema';
 import { safeLoad } from 'js-yaml';
