@@ -46,7 +46,7 @@ const subSchemas: Record<string, Schema> = {
 
   name: {
     type: `string`,
-    pattern: /^[A-Z][a-zA-Zé]+ ([a-zA-Z]+\.?)?( [a-zA-Z.]+)?$/,
+    pattern: /^[A-Z][a-zA-Zé]+ ([a-zA-Zí]+\.?)?( [a-zA-Z.]+)?$/,
   },
 
   slug: {
