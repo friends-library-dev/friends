@@ -304,3 +304,18 @@ documents:
               external_id_hq: 872352223
               chapters:
                 - 8
+  - id: 280c72ea-df5b-4504-a140-51aec77455e0
+    title: Sowing Seeds of Righteousness
+    slug: sowing-seeds-of-righteousness
+    filename: Sowing_Seeds_of_Righteousness
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: updated
+        editor: Jessie Henderson
+        isbn: 978-1-64476-277-6
+        draft: true
