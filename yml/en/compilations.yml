@@ -309,13 +309,77 @@ documents:
     slug: sowing-seeds-of-righteousness
     filename: Sowing_Seeds_of_Righteousness
     description: >-
-      TODO
+      As a thin sapling, over the course of time, becomes a thick and immovable tree, so
+      the fallen and sinful nature of man, left to govern itself, quickly grows stiff and
+      hardened in all sorts of evils. How important, therefore, is it “for a man to bear
+      the yoke in their youth,” (Lam. 3:27) that is, to learn and submit to the
+      restraining and transforming power of the cross when the heart is still young and
+      tender. “Sowing Seeds of Righteousness” is a collection of letters and short
+      treatises written by ten early Friends that offers invaluable counsel to both
+      parents and children on this critical subject.
     partial_description: >-
-      TODO
+      A collection of letters and treatises written by early members of the Society of
+      Friends offering words of godly wisdom, counsel, and experience to both parents and
+      children.
     tags:
       - spiritual life
     editions:
       - type: updated
         editor: Jessie Henderson
         isbn: 978-1-64476-277-6
-        draft: true
+        audio:
+          reader: Jessie Henderson
+          external_playlist_id_hq: 1251627208
+          external_playlist_id_lq: 1251627229
+          added: 2021-05-03T15:35:52.462Z
+          parts:
+            - title: John Crook’s Advice to His Children
+              external_id_lq: 1041777367
+              external_id_hq: 1041777280
+              chapters:
+                - 0
+            - title: Richard Shackleton to His Daughter Mary
+              external_id_lq: 1041777565
+              external_id_hq: 1041777463
+              chapters:
+                - 1
+            - title: William Penn’s Advice to His Children
+              external_id_lq: 1041778123
+              external_id_hq: 1041777784
+              chapters:
+                - 2
+            - title: Letters from William Evans’ Parents
+              external_id_lq: 1041778465
+              external_id_hq: 1041778318
+              chapters:
+                - 3
+            - title: Sarah R. Grubb on Discipline
+              external_id_lq: 1041801202
+              external_id_hq: 1041801091
+              chapters:
+                - 4
+            - title: Leters from John Banks to His Children
+              external_id_lq: 1041801340
+              external_id_hq: 1041801259
+              chapters:
+                - 5
+            - title: Francis Howgill to His Daughter Abigail
+              external_id_lq: 1041801616
+              external_id_hq: 1041801478
+              chapters:
+                - 6
+            - title: Letter of Isaac Penington to His Children
+              external_id_lq: 1041801913
+              external_id_hq: 1041801751
+              chapters:
+                - 7
+            - title: John Griffith’s Advice to Parents and Children
+              external_id_lq: 1041802273
+              external_id_hq: 1041802111
+              chapters:
+                - 8
+            - title: Remarks About Daniel Wheeler’s Parenting
+              external_id_lq: 1041802468
+              external_id_hq: 1041802384
+              chapters:
+                - 9
