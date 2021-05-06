@@ -219,3 +219,36 @@ documents:
         isbn: 978-1-64476-220-2
       - type: modernized
         isbn: 978-1-64476-221-9
+  - id: a3c29af3-f14e-47da-b290-2548e09ae1d4
+    title: No Cross, No Crown (Unabridged)
+    slug: no-cross-no-crown-unabridged
+    filename: No_Cross_No_Crown_Unabridged
+    original_title: >-
+      No Cross, No Crown: A Discourse Showing the Nature and Discipline of the Holy Cross
+      of Christ and that the Denial of Self, and Daily Bearing of Christ’s Cross, Is the
+      Alone Way to the Rest and Kingdom of God.  To Which Are Added, The Living and Dying
+      Testimonies of Many Persons of Fame and Learning, Both of Ancient and Modern Times,
+      in Favour of this Treatise.  In Two Parts.
+    description: TODO
+    partial_description: TODO
+    tags:
+      - history
+      - exhortation
+      - doctrinal
+    editions:
+      - type: original
+        isbn: 978-1-64476-278-3
+        draft: true
+  - id: 6d4a1bc7-b97e-4ad6-b55a-ddb7cec564ec
+    title: History of the Quakers
+    slug: history-of-the-quakers
+    filename: History_of_the_Quakers
+    description: TODO
+    partial_description: TODO
+    tags:
+      - history
+      - doctrinal
+    editions:
+      - type: original
+        isbn: 978-1-64476-279-0
+        draft: true
