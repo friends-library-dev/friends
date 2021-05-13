@@ -67,9 +67,148 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-151-9
+        audio:
+          reader: Jason R. Henderson
+          external_playlist_id_hq: 1256558374
+          external_playlist_id_lq: 1256558428
+          added: 2021-05-13T22:54:20.405Z
+          parts:
+            - title: Preface
+              external_id_hq: 1048353100
+              external_id_lq: 1048353262
+              chapters:
+                - 0
+            - title: Chapter 1
+              external_id_hq: 1048353349
+              external_id_lq: 1048353442
+              chapters:
+                - 0
+            - title: Chapter 2
+              external_id_hq: 1048353544
+              external_id_lq: 1048354456
+              chapters:
+                - 1
+            - title: Chapter 3
+              external_id_hq: 1048354588
+              external_id_lq: 1048354804
+              chapters:
+                - 2
+            - title: Chapter 4
+              external_id_hq: 1048355041
+              external_id_lq: 1048355377
+              chapters:
+                - 3
+            - title: Chapter 5
+              external_id_hq: 1048356109
+              external_id_lq: 1048356514
+              chapters:
+                - 4
+            - title: Chapter 6
+              external_id_hq: 1048356628
+              external_id_lq: 1048356772
+              chapters:
+                - 5
+            - title: Chapter 7
+              external_id_hq: 1048356976
+              external_id_lq: 1048357966
+              chapters:
+                - 6
+            - title: Chapter 8
+              external_id_hq: 1048358098
+              external_id_lq: 1048358254
+              chapters:
+                - 7
+            - title: Chapter 9
+              external_id_hq: 1048358542
+              external_id_lq: 1048358896
+              chapters:
+                - 8
+            - title: Chapter 10
+              external_id_hq: 1048359061
+              external_id_lq: 1048359178
+              chapters:
+                - 9
+            - title: Chapter 11
+              external_id_hq: 1048359313
+              external_id_lq: 1048359430
+              chapters:
+                - 10
+            - title: Chapter 12
+              external_id_hq: 1048359607
+              external_id_lq: 1048359745
+              chapters:
+                - 11
+            - title: Chapter 13
+              external_id_hq: 1048359868
+              external_id_lq: 1048359961
+              chapters:
+                - 12
+            - title: Chapter 14
+              external_id_hq: 1048360057
+              external_id_lq: 1048360174
+              chapters:
+                - 13
+            - title: Chapter 15 - 18
+              external_id_hq: 1048360330
+              external_id_lq: 1048360528
+              chapters:
+                - 14
+                - 15
+                - 16
+                - 17
+            - title: Chapter 19
+              external_id_hq: 1048360642
+              external_id_lq: 1048360801
+              chapters:
+                - 18
+            - title: Chapter 20
+              external_id_hq: 1048360939
+              external_id_lq: 1048361086
+              chapters:
+                - 19
+            - title: Chapter 21 - 25
+              external_id_hq: 1048361254
+              external_id_lq: 1048361410
+              chapters:
+                - 20
+                - 21
+                - 22
+                - 23
+                - 24
+            - title: Chapter 26
+              external_id_hq: 1048361539
+              external_id_lq: 1048361623
+              chapters:
+                - 25
+            - title: Chapter 27
+              external_id_hq: 1048361713
+              external_id_lq: 1048361824
+              chapters:
+                - 26
+            - title: Chapter 28
+              external_id_hq: 1048361932
+              external_id_lq: 1048362007
+              chapters:
+                - 27
+            - title: Chapter 29
+              external_id_hq: 1048362124
+              external_id_lq: 1048362253
+              chapters:
+                - 28
+            - title: Chapter 30
+              external_id_hq: 1048362403
+              external_id_lq: 1048362526
+              chapters:
+                - 29
+            - title: Chapter 31
+              external_id_hq: 1048362871
+              external_id_lq: 1048363255
+              chapters:
+                - 30
+            - title: Chapter 32
+              external_id_hq: 1048363417
+              external_id_lq: 1048363516
+              chapters:
+                - 31
       - type: original
         isbn: 978-1-64476-152-6
-      - type: updated
-        isbn: 978-1-64476-273-8
-        editor: Eden Henderson
-        draft: true
