@@ -85,4 +85,12 @@ documents:
       - type: updated
         isbn: 978-1-64476-274-5
         editor: Eden Henderson
-        draft: true
+        audio:
+          reader: Jessie Henderson
+          added: 2021-06-01T13:42:41.298Z
+          parts:
+            - title: The Life of Elizabeth Stirredge
+              external_id_hq: 1059744094
+              external_id_lq: 1059745360
+              chapters:
+                - 0
