@@ -46,3 +46,7 @@ documents:
         isbn: 978-1-64476-110-6
       - type: original
         isbn: 978-1-64476-111-3
+      - type: updated
+        isbn: 978-1-64476-273-8
+        editor: Eden Henderson
+        draft: true
