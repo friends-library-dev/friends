@@ -2,8 +2,12 @@ import '@friends-library/env/load';
 import fetch from 'node-fetch';
 import pLimit from 'p-limit';
 import env from '@friends-library/env';
-import { AUDIO_QUALITIES } from '@friends-library/types';
 import * as docMeta from '@friends-library/document-meta';
+import {
+  AUDIO_QUALITIES,
+  SQUARE_COVER_IMAGE_SIZES,
+  THREE_D_COVER_IMAGE_WIDTHS,
+} from '@friends-library/types';
 import { eachEdition } from '../query';
 
 async function main(): Promise<void> {
@@ -36,8 +40,15 @@ async function main(): Promise<void> {
       promises.push(verify(edition.filepath(`paperback-interior`), result));
     }
 
+    THREE_D_COVER_IMAGE_WIDTHS.forEach((width) =>
+      promises.push(verify(edition.threeDCoverImagePath(width), result)),
+    );
+
+    SQUARE_COVER_IMAGE_SIZES.forEach((size) =>
+      promises.push(verify(edition.squareCoverImagePath(size), result)),
+    );
+
     if (audio) {
-      // promises.push(verify(audio.imagePath, result)); @TODO verify all new assets
       promises.push(verify(audio.zipFilepathHq, result));
       promises.push(verify(audio.zipFilepathHq, result));
       promises.push(verify(audio.m4bFilepathLq, result));
@@ -65,9 +76,7 @@ function verify(path: string, result: { success: boolean }): Promise<void> {
   const { CLOUD_STORAGE_BUCKET_URL: URL } = env.require(`CLOUD_STORAGE_BUCKET_URL`);
   return limit(async () => {
     try {
-      const res = await fetch(`${URL}/${path}`, {
-        method: `HEAD`,
-      });
+      const res = await fetch(`${URL}/${path}`, { method: `HEAD` });
       if (res.status !== 200) {
         console.error(`Bad status for asset ${path} : ${res.status}`);
         result.success = false;
