@@ -93,14 +93,6 @@ export default class Audio {
     return `${this.edition.path}/${this.zipFilenameHq}`;
   }
 
-  public get imageFilename(): string {
-    return `${this.edition.filenameBase}--audio.png`;
-  }
-
-  public get imagePath(): string {
-    return `${this.edition.path}/${this.imageFilename}`;
-  }
-
   public get externalPlaylistId(): number | undefined {
     return this.data.external_playlist_id_hq;
   }
@@ -164,8 +156,6 @@ export default class Audio {
       reader: this.reader,
       parts: this.parts,
       complete: this.complete,
-      imageFilename: this.imageFilename,
-      imagePath: this.imagePath,
       externalPlaylistId: this.externalPlaylistId,
       externalPlaylistIdHq: this.externalPlaylistIdHq,
       externalPlaylistIdLq: this.externalPlaylistIdLq,

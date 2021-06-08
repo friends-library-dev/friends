@@ -168,7 +168,7 @@ const subSchemas: Record<string, Schema> = {
         required: false,
       },
       print_size: {
-        enum: (PRINT_SIZES as unknown) as string[],
+        enum: PRINT_SIZES as unknown as string[],
         required: false,
       },
       title: { type: `string`, required: true },

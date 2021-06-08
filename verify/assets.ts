@@ -37,7 +37,7 @@ async function main(): Promise<void> {
     }
 
     if (audio) {
-      promises.push(verify(audio.imagePath, result));
+      // promises.push(verify(audio.imagePath, result)); @TODO verify all new assets
       promises.push(verify(audio.zipFilepathHq, result));
       promises.push(verify(audio.zipFilepathHq, result));
       promises.push(verify(audio.m4bFilepathLq, result));

@@ -29,10 +29,14 @@ export function allPublishedBooks(lang: Lang): Document[] {
     .filter((document) => document.hasNonDraftEdition);
 }
 
-export function allPublishedUpdatedEditions(lang: Lang): Edition[] {
+export function allPublishedEditions(lang: Lang): Edition[] {
   return allPublishedBooks(lang)
     .flatMap((doc) => doc.editions)
-    .filter((edition) => edition.type === `updated`);
+    .filter((edition) => !edition.isDraft);
+}
+
+export function allPublishedUpdatedEditions(lang: Lang): Edition[] {
+  return allPublishedEditions(lang).filter((edition) => edition.type === `updated`);
 }
 
 export function allPublishedFriends(lang: Lang): Friend[] {

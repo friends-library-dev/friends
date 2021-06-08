@@ -1,4 +1,10 @@
-import { ISBN, EditionType, ArtifactType } from '@friends-library/types';
+import {
+  ISBN,
+  EditionType,
+  ArtifactType,
+  SquareCoverImageSize,
+  ThreeDCoverImageWidth,
+} from '@friends-library/types';
 import Document from './Document';
 import { EditionData } from './types';
 import { Audio } from '.';
@@ -19,7 +25,7 @@ export default class Edition {
   }
 
   public get path(): string {
-    return `${this.document.path}/${this.data.type}`;
+    return `${this.document.path}/${this.type}`;
   }
 
   public get description(): string | undefined {
@@ -50,6 +56,22 @@ export default class Edition {
     return `${this.path}/${this.filename(type, volumeNumber)}`;
   }
 
+  public threeDCoverImageFilename(width: ThreeDCoverImageWidth): string {
+    return `cover-3d--w${width}.png`;
+  }
+
+  public threeDCoverImagePath(width: ThreeDCoverImageWidth): string {
+    return `${this.path}/images/${this.threeDCoverImageFilename(width)}`;
+  }
+
+  public squareCoverImageFilename(size: SquareCoverImageSize): string {
+    return `cover--${size}x${size}.png`;
+  }
+
+  public squareCoverImagePath(size: SquareCoverImageSize): string {
+    return `${this.path}/images/${this.squareCoverImageFilename(size)}`;
+  }
+
   public filename(type: ArtifactType, volumeNumber?: number): string {
     const volSuffix = typeof volumeNumber === `number` ? `--v${volumeNumber}` : ``;
     switch (type) {
@@ -65,6 +87,8 @@ export default class Edition {
         return `${this.filenameBase}--cover${volSuffix}.pdf`;
       case `speech`:
         return `${this.filenameBase}.html`;
+      case `app-ebook`:
+        return `${this.filenameBase}--(app-ebook).html`;
     }
   }
 
@@ -78,7 +102,30 @@ export default class Edition {
     );
   }
 
-  public toJSON(): Omit<Edition, 'filename' | 'filepath' | 'document' | 'toJSON'> & {
+  public get isMostModernized(): boolean {
+    switch (this.type) {
+      case `updated`:
+        return true;
+      case `modernized`:
+        return !this.document.editions.map((e) => e.type).includes(`updated`);
+      case `original`:
+        return this.document.editions.length === 1;
+      default:
+        return false; // eslint
+    }
+  }
+
+  public toJSON(): Omit<
+    Edition,
+    | 'filename'
+    | 'filepath'
+    | 'squareCoverImageFilename'
+    | 'squareCoverImagePath'
+    | 'threeDCoverImageFilename'
+    | 'threeDCoverImagePath'
+    | 'document'
+    | 'toJSON'
+  > & {
     filename: { [k in ArtifactType]: string };
   } {
     return {
@@ -91,11 +138,13 @@ export default class Edition {
       path: this.path,
       paperbackCoverBlurb: this.paperbackCoverBlurb,
       isDraft: this.isDraft,
+      isMostModernized: this.isMostModernized,
       filenameBase: this.filenameBase,
       filename: {
         epub: this.filename(`epub`),
         mobi: this.filename(`mobi`),
         speech: this.filename(`speech`),
+        'app-ebook': this.filename(`app-ebook`),
         'web-pdf': this.filename(`web-pdf`),
         'paperback-cover': this.filename(`paperback-cover`),
         'paperback-interior': this.filename(`paperback-interior`),
