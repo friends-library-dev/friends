@@ -1,0 +1,29 @@
+id: e391c47e-23b6-4e78-8b62-dc76c2c2cb1a
+name: Elizabeth Collins
+slug: elizabeth-collins
+gender: female
+description: TODO
+born: 1755
+died: 1831
+residences:
+  - city: Evesham
+    region: England
+documents:
+  - id: c3f25765-0b8a-4fd4-99cf-28a159a23e21
+    title: Journal of Elizabeth Collins
+    original_title: >-
+      Memoirs of Elizabeth Collins, of Upper Evesham, New Jersey: A Minister of the Gospel
+      of Christ, in the Society of Friends.
+    slug: journal
+    filename: Journal_of_Elizabeth_Collins
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-280-6
+        draft: true
+      - type: original
+        isbn: 978-1-64476-281-3
+        draft: true
