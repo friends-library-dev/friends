@@ -1,0 +1,36 @@
+id: bd975b4a-d776-4bd6-bba9-0954aa7983e3
+name: Alice Hayes
+slug: alice-hayes
+gender: female
+description: TODO
+born: 1657
+died: 1720
+residences:
+  - city: Rickmansworth
+    region: England
+    durations:
+      - start: 1657
+        end: 1712
+  - city: Tottenham
+    region: England
+    durations:
+      - start: 1712
+        end: 1720
+documents:
+  - id: a5a7cc71-bee0-4e71-80ae-e9167e140df4
+    title: Life of Alice Hayes
+    original_title: >-
+      A Short Account of Alice Hayes, A Minister of the Gospel, in the Society of Friends.
+    slug: life
+    filename: Life_of_Alice_Hayes
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-282-0
+        draft: true
+      - type: original
+        isbn: 978-1-64476-283-7
+        draft: true
