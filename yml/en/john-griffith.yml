@@ -99,6 +99,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-073-4
+      - type: original
+        isbn: 978-1-64476-284-4
+        draft: true
   - id: 1b31482a-5cba-4ab3-b562-462b0a2b4fd3
     title: The Ancient Path
     slug: ancient-path
