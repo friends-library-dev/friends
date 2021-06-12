@@ -1,3 +1,4 @@
+import { describe, test, expect } from '@jest/globals';
 import path from 'path';
 import { kebabCase } from 'lodash';
 import { safeLoad } from 'js-yaml';
@@ -54,7 +55,7 @@ files.forEach((file) => {
 
     test(`ids must be unique`, (done) => {
       if (ids.indexOf(friend.id) !== -1) {
-        done.fail(`Invalid duplicate id ${friend.id}`);
+        done(new Error(`Invalid duplicate id ${friend.id}`));
         return;
       }
       ids.push(friend.id);
@@ -146,13 +147,13 @@ files.forEach((file) => {
     test(`document ids must be unique`, (done) => {
       documents.forEach((doc) => {
         if (ids.indexOf(doc.id) !== -1) {
-          done.fail(`Invalid duplicate id ${doc.id}`);
+          done(new Error(`Invalid duplicate id ${doc.id}`));
           return;
         }
         ids.push(doc.id);
         docMap.set(doc.id, { ...doc, lang: friend.lang });
-        done();
       });
+      done();
     });
 
     test(`non-draft entities may not have TODO or LOREM text`, () => {
