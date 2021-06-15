@@ -1,0 +1,28 @@
+id: 5e3dacd2-b21e-470b-9fbd-74eb6ce22118
+name: Elizabeth Ashbridge
+slug: elizabeth-ashbridge
+gender: female
+description: TODO
+born: 1713
+died: 1755
+residences:
+  - city: Burlington
+    region: New Jersey
+documents:
+  - id: 135d7df6-48b1-4808-a810-e69756cd9279
+    title: The Life of Elizabeth Ashbridge
+    original_title: >-
+      Some Account the Life Elizabeth Ashbridge.  Written By Herself.
+    slug: life
+    filename: Life_of_Elizabeth_Ashbridge
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-285-1
+        draft: true
+      - type: original
+        isbn: 978-1-64476-286-8
+        draft: true
