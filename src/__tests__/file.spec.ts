@@ -44,13 +44,17 @@ files.forEach((file) => {
       friend = safeLoad(fileContents) as FriendData;
       friend.lang = file.path.includes(`/es/`) ? `es` : `en`;
       friends.push(friend);
-      documents = friend.documents; // eslint-disable-line prefer-destructuring
+      documents = friend.documents;
     } catch (err) {
       throw new Error(err.message);
     }
 
     test(`no asciidoc-style escaping`, () => {
       expect(fileContents).not.toContain(`+++[`);
+    });
+
+    test(`no zero-width spaces`, () => {
+      expect(fileContents.match(/\u200b/)).toBeNull();
     });
 
     test(`ids must be unique`, (done) => {
