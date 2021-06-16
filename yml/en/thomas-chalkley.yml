@@ -1,0 +1,36 @@
+id: 592f2212-5723-4bcb-9f75-4d6490b05e8c
+name: Thomas Chalkley
+slug: thomas-chalkley
+gender: male
+description: TODO
+born: 1675
+died: 1741
+residences:
+  - city: London
+    region: England
+    durations:
+      - start: 1675
+        end: 1700
+  - city: Philadelphia
+    region: Pennsylvania
+    durations:
+      - start: 1700
+        end: 1741
+documents:
+  - id: acde1806-f0f7-4ed7-a430-b0c8834bc366
+    title: The Journal of Thomas Chalkley
+    original_title: >-
+      The Journal of Thomas Chalkley. To Which is Annexed, a Collection of His Works.
+    slug: journal
+    filename: Journal_of_Thomas_Chalkley
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-287-5
+        draft: true
+      - type: original
+        isbn: 978-1-64476-288-2
+        draft: true
