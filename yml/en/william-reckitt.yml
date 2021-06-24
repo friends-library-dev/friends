@@ -1,0 +1,29 @@
+id: 84c67355-24eb-4ac2-820b-8c2299376c8c
+name: William Reckitt
+slug: william-reckitt
+gender: male
+description: TODO
+born: 1706
+died: 1769
+residences:
+  - city: Lincolnshire
+    region: England
+documents:
+  - id: 7fb96085-7cc6-47df-8fdd-53b100d1ffe7
+    title: The Life of William Reckitt
+    original_title: >-
+      Some Account of the Life and Gospel Labours of William Reckitt Late of Lincolnshire,
+      In Great Britain.
+    slug: life
+    filename: Life_of_William_Reckitt
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-291-2
+        draft: true
+      - type: original
+        isbn: 978-1-64476-292-9
+        draft: true
