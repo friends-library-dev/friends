@@ -25,6 +25,7 @@ async function main(): Promise<void> {
     promises.push(verify(edition.filepath(`mobi`), result));
     promises.push(verify(edition.filepath(`epub`), result));
     promises.push(verify(edition.filepath(`speech`), result));
+    promises.push(verify(edition.filepath(`app-ebook`), result));
 
     const edMeta = meta.get(edition.path);
     if (!edMeta) {
