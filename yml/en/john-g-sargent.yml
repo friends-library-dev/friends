@@ -1,0 +1,65 @@
+id: dd1680e7-9df7-4b13-9e83-fa53400c1255
+name: John G. Sargent
+slug: john-g-sargent
+gender: male
+description: TODO
+born: 1813
+died: 1883
+residences:
+  - city: London
+    region: England
+    durations:
+      - start: 1813
+        end: 1822
+  - city: Paris
+    region: France
+    durations:
+      - start: 1822
+        end: 1844
+  - city: Surrey
+    region: England
+    durations:
+      - start: 1844
+        end: 1851
+  - city: Moate
+    region: Ireland
+    durations:
+      - start: 1851
+        end: 1854
+  - city: Cockermouth
+    region: England
+    durations:
+      - start: 1854
+        end: 1864
+  - city: Cockermouth
+    region: England
+    durations:
+      - start: 1854
+        end: 1864
+  - city: Fritchley
+    region: England
+    durations:
+      - start: 1864
+        end: 1883
+documents:
+  - id: af2d9f25-005b-4144-bdac-80bb059700a6
+    title: The Journal and Letters of John G. Sargent
+    original_title: >-
+      Selections from the Diary and Correspondence of John G. Sargent A Minister of the
+      Society of Friends Containing an Account of his Labours and Travels in the Service
+      of the Gospel And Showing the Grounds of His Ceasing to Regard London Yearly Meeting
+      as Representing the Society of Friends.
+    slug: journal-letters
+    filename: Journal_Letters_of_John_G_Sargenet
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-293-6
+        draft: true
+      - type: original
+        isbn: 978-1-64476-294-3
+        draft: true
