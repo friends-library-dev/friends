@@ -1,0 +1,37 @@
+id: 74359983-5e5e-465d-8fd5-74d1cfa60054
+name: Jane Hoskens
+slug: jane-hoskens
+gender: female
+description: TODO
+born: 1693
+died: 1764
+residences:
+  - city: London
+    region: England
+    durations:
+      - start: 1693
+        end: 1712
+  - city: Philadelphia
+    region: Pennsylvania
+    durations:
+      - start: 1712
+        end: 1764
+documents:
+  - id: b439fc1a-49d9-40df-8754-2faad952375d
+    title: The Life of Jane Hoskens
+    original_title: >-
+      The Life of That Faithful Servant of Christ, Jane Hoskens, A Minister of the Gospel,
+      among the People Called Quakers.
+    slug: life
+    filename: Life_of_Jane_Hoskens
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-295-0
+        draft: true
+      - type: original
+        isbn: 978-1-64476-296-7
+        draft: true
