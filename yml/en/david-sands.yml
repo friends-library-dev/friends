@@ -45,6 +45,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-021-5
+      - type: original
+        isbn: 978-1-64476-297-4
+        draft: true
     related_documents:
       - id: 25755480-7f1c-4f7f-8900-3f472001fae4
         description: >-
