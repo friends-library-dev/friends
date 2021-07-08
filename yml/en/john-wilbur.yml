@@ -1,0 +1,30 @@
+id: 405d1dd7-05e2-4b1e-b7c7-ffb5a689f3ef
+name: John Wilbur
+slug: john-wilbur
+gender: male
+description: TODO
+born: 1774
+died: 1856
+residences:
+  - city: Hopkinton
+    region: Rhode Island
+documents:
+  - id: 9ccf1452-3687-4d3e-821a-2caf315092a1
+    title: The Journal and Letters of John Wilbur
+    original_title: >-
+      Journal of the Life of John Wilbur, A Minister of the Gospel in the Society of
+      Friends; with Selections from His Correspondence, etc.
+    slug: journal-letters
+    filename: Journal_Letters_of_John_Wilbur
+    description: TODO
+    partial_description: TODO
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-298-1
+        draft: true
+      - type: original
+        isbn: 978-1-64476-299-8
+        draft: true
