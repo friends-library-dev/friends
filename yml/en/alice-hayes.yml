@@ -28,6 +28,10 @@ documents:
     tags:
       - journal
     editions:
+      - type: updated
+        isbn: 978-1-64476-300-1
+        editor: Jason R. Henderson
+        draft: true
       - type: modernized
         isbn: 978-1-64476-282-0
         draft: true
