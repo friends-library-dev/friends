@@ -2,7 +2,18 @@ id: bd975b4a-d776-4bd6-bba9-0954aa7983e3
 name: Alice Hayes
 slug: alice-hayes
 gender: female
-description: TODO
+added: 2021-07-12T17:45:01.282Z
+description: >-
+  Raised in communion with the church of England, Alice Hayes (1657-1720) was brought to
+  the knowledge of the living Truth in the twenty-third year of her age through the
+  powerful ministry of Elizabeth Stamper. Because of her unwavering commitment to the
+  Lord, she suffered a variety of hardships at the hands of close relatives, and was
+  threatened with abandonment by a husband whom she “loved as her own life.” But,
+  believing Christ’s words that “he who loves anything more than Me is not worthy of Me,”
+  she clung faithfully to His cross, and in time experienced His hand to overcome her
+  inward and outward enemies, strengthening her in the midst of her trials, and eventually
+  making use of her as an instrument in the Lord’s hand to gather others who groaned under
+  Egyptian bondage.
 born: 1657
 died: 1720
 residences:
@@ -23,18 +34,38 @@ documents:
       A Short Account of Alice Hayes, A Minister of the Gospel, in the Society of Friends.
     slug: life
     filename: Life_of_Alice_Hayes
-    description: TODO
-    partial_description: TODO
+    description: >-
+      Raised in communion with the church of England, Alice Hayes (1657-1720) was brought
+      to the knowledge of the living Truth in the twenty-third year of her age through the
+      powerful ministry of Elizabeth Stamper. Because of her unwavering commitment to the
+      Lord, she suffered a variety of hardships at the hands of close relatives, and was
+      threatened with abandonment by a husband whom she “loved as her own life.” But,
+      believing Christ’s words that “he who loves anything more than Me is not worthy of
+      Me,” she clung faithfully to His cross, and in time experienced His hand to overcome
+      her inward and outward enemies, strengthening her in the midst of her trials, and
+      eventually making use of her as an instrument in the Lord’s hand to gather others
+      who groaned under Egyptian bondage.
+    partial_description: >-
+      An autobiographical account of the life of Alice Hayes, in which she recounts her
+      convincement of the truth and sufferings for the gospel, and offers counsel,
+      encouragement, and words of deep spiritual experience for the benefit of others who
+      will give up to walk in the same narrow path.
     tags:
       - journal
     editions:
       - type: updated
         isbn: 978-1-64476-300-1
         editor: Jason R. Henderson
-        draft: true
+        audio:
+          reader: Jessie Henderson
+          added: 2020-12-02T18:48:08.927Z
+          parts:
+            - title: The Life of Alice Hayes
+              external_id_hq: 1086203968
+              external_id_lq: 1086204343
+              chapters:
+                - 0
       - type: modernized
         isbn: 978-1-64476-282-0
-        draft: true
       - type: original
         isbn: 978-1-64476-283-7
-        draft: true
