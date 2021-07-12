@@ -17,16 +17,8 @@ description: >-
 born: 1657
 died: 1720
 residences:
-  - city: Rickmansworth
+  - city: London
     region: England
-    durations:
-      - start: 1657
-        end: 1712
-  - city: Tottenham
-    region: England
-    durations:
-      - start: 1712
-        end: 1720
 documents:
   - id: a5a7cc71-bee0-4e71-80ae-e9167e140df4
     title: The Life of Alice Hayes
