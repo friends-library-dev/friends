@@ -8,7 +8,18 @@ died: 1809
 residences:
   - city: Castle Donington
     region: England
-description: TODO
+description: >-
+  Although raised by sober and godly parents, after the death of her mother, Ruth Follows
+  (1718-1809) “fell largely into vanity,” frequenting such company as she later said was
+  likely to have proved her ruin, had not the Lord followed her closely with His judgments
+  and reproofs. As she was brought near unto the Lord, and made to love His chastisements,
+  she was rewarded with His sweet presence and peace, and near the thirtieth year of her
+  age she felt a necessity laid upon her to bear a public testimony to His name and
+  goodness. Though at first she felt very unwilling “to be counted a fool or a
+  gazing-stock to the world,” she eventually yielded to the Lord’s requirings, and was
+  frequently made to part with her husband and children for the work of the ministry,
+  visiting England, Ireland, Wales, and Scotland, and laboring faithfully among a largely
+  backslidden church.
 documents:
   - id: 2460c682-7d5d-408b-b059-e05e28a19aea
     title: Journal of Ruth Follows
@@ -17,19 +28,31 @@ documents:
       Minister in the Society of Friends: With Extracts From Her Letters.
     slug: journal
     filename: Journal_of_Ruth_Follows
-    description: TODO
-    partial_description: TODO
+    description: >-
+      Although raised by sober and godly parents, after the death of her mother, Ruth
+      Follows (1718-1809) “fell largely into vanity,” frequenting such company as she
+      later said was likely to have proved her ruin, had not the Lord followed her closely
+      with His judgments and reproofs. As she was brought near unto the Lord, and made to
+      love His chastisements, she was rewarded with His sweet presence and peace, and near
+      the thirtieth year of her age she felt a necessity laid upon her to bear a public
+      testimony to His name and goodness. Though at first she felt very unwilling “to be
+      counted a fool or a gazing-stock to the world,” she eventually yielded to the Lord’s
+      requirings, and was frequently made to part with her husband and children for the
+      work of the ministry, visiting England, Ireland, Wales, and Scotland, and laboring
+      faithfully among a largely backslidden church.
+    partial_description: >-
+      The journal and letters of Ruth Follows, a valuable minister in the Society of
+      Friends, describing her travels and experiences in the ministry, and her constant
+      concern for the preservation of a living church in the midst of an increasingly
+      lukewarm generation.
     tags:
       - journal
       - letters
     editions:
       - type: updated
         isbn: 978-1-64476-276-9
-        draft: true
         editor: Eden Henderson
       - type: modernized
         isbn: 978-1-64476-222-6
-        draft: true
       - type: original
         isbn: 978-1-64476-223-3
-        draft: true
