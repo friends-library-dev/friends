@@ -22,7 +22,7 @@ documents:
     title: Kendall’s Collection of Letters
     original_title: 'Letters on Religious Subjects, Written by Various Friends, Deceased'
     slug: letters
-    filename: Letters
+    filename: Kendalls_Collection_of_Letters
     description: >-
       Kendall’s Collection of Letters is a complication of letters composed by various
       members of the Society of Friends over the course of several decades. A few of the
@@ -45,3 +45,24 @@ documents:
         isbn: 978-1-64476-190-8
       - type: original
         isbn: 978-1-64476-191-5
+  - id: 5f77b4a4-74e8-4d20-a524-c16e1488ff7d
+    title: The Journal and Letters of John Kendall
+    original_title: >-
+      Memoirs of the Life and Religious Experience of John Kendall. To Which Are Added,
+      Letters Written On Various Occasions, To His Friends And Acquaintance, and Other
+      Pieces.
+    slug: journal-letters
+    filename: Journal_and_Letters_of_John_Kendall
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-301-8
+        draft: true
+      - type: original
+        isbn: 978-1-64476-302-5
+        draft: true
