@@ -78,6 +78,10 @@ const regexes = [
   /^\[verse.+]$/,
 ];
 
-const intakeSafeList = [`en/anne-camm/life/modernized`, `en/anne-camm/life/original`];
+const intakeSafeList = [
+  `en/anne-camm/life/modernized`,
+  `en/anne-camm/life/original`,
+  `es/william-sewel/sufrimientos-de-catharine-evans-sarah-cheevers/updated`,
+];
 
 main();
