@@ -78,10 +78,11 @@ const regexes = [
   /^\[verse.+]$/,
 ];
 
-const intakeSafeList = [
+// add patterns of docs that appear to be not intaken
+// and for some reason should not trigger CI failures
+const intakeSafeList: string[] = [
   `en/anne-camm/life/modernized`,
   `en/anne-camm/life/original`,
-  `es/william-sewel/sufrimientos-de-catharine-evans-sarah-cheevers/updated`,
 ];
 
 main();
