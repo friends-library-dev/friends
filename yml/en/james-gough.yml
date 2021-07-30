@@ -68,5 +68,47 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-049-9
+        audio:
+          reader: Jason R. Henderson
+          external_playlist_id_hq: 1294219039
+          external_playlist_id_lq: 1294219078
+          added: 2021-07-30T19:10:39.689Z
+          parts:
+            - title: Preface
+              external_id_hq: 1097249662
+              external_id_lq: 1097249725
+              chapters:
+                - 0
+            - title: Introduction
+              external_id_hq: 1097249833
+              external_id_lq: 1097249959
+              chapters:
+                - 1
+            - title: Chapter 1
+              external_id_hq: 1097250133
+              external_id_lq: 1097250355
+              chapters:
+                - 2
+            - title: Chapter 2
+              external_id_hq: 1097250652
+              external_id_lq: 1097250952
+              chapters:
+                - 2
+            - title: Chapter 3
+              external_id_hq: 1097251201
+              external_id_lq: 1097251516
+              chapters:
+                - 2
+            - title: Supplment
+              external_id_hq: 1097251726
+              external_id_lq: 1097252056
+              chapters:
+                - 3
+            - title: Epistle and Testimony
+              external_id_hq: 1097252218
+              external_id_lq: 1097252368
+              chapters:
+                - 4
+                - 5
       - type: original
         isbn: 978-1-64476-050-5
