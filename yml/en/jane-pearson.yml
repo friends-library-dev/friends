@@ -67,6 +67,7 @@ documents:
         isbn: 978-1-64476-054-3
         editor: Jason R. Henderson
   - id: 3b301c59-f8dd-4029-b650-644b737a70ed
+    alt_language_id: 8894463d-1a61-4d04-8c5a-2ea4ce3ca8eb
     title: Selection from the Life of Jane Pearson
     slug: life-selection
     filename: Selection_Life_of_Jane_Pearson

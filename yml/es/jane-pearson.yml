@@ -1,0 +1,60 @@
+id: 0dbbc3e3-af83-4f81-9205-b0435cfa70de
+name: Jane Pearson
+slug: jane-pearson
+gender: female
+added: 2021-08-05T21:25:50.886Z
+born: 1734
+died: 1816
+residences:
+  - city: Carlisle
+    region: England
+    durations:
+      - start: 1734
+        end: 1791
+  - city: Whitehaven
+    region: England
+    durations:
+      - start: 1791
+        end: 1816
+description: >-
+  Jane Pearson (1735-1816) fue una ministra de la Sociedad de Amigos cuya vida, en muchos
+  aspectos, se asemejó a la de Job. Alrededor de un año después de su matrimonio, habiendo
+  comenzado a tomar su cruz y seguir al Señor, repentinamente encontró que su “falso
+  descanso se había quebrado,” y durante un período de catorce años se vio obligada a
+  pasar a través de profundas pruebas y aflicciones internas que iban “mucho más allá de
+  su capacidad de describirlas.” Y cuando por fin disminuyeron las pruebas internas, los
+  problemas externos llegaron como un torrente, y en el transcurso de algunos años perdió
+  a su marido y a sus siete hijos a causa de diversas enfermedades. Pero según la promesa
+  de Cristo, cuanto más renunciaba a este mundo y a sus tesoros, más riquezas eternas
+  ganaba, y sus experiencias del poder y de la misericordia de Dios en sus últimos años
+  fueron realmente cien veces más que todo lo que había perdido.
+documents:
+  - id: 8894463d-1a61-4d04-8c5a-2ea4ce3ca8eb
+    alt_language_id: 3b301c59-f8dd-4029-b650-644b737a70ed
+    title: La vida de Jane Pearson
+    slug: vida
+    filename: Vida_de_Jane_Pearson
+    description: >-
+      Jane Pearson (1735-1816) fue una ministra de la Sociedad de Amigos cuya vida, en
+      muchos aspectos, se asemejó a la de Job. Alrededor de un año después de su
+      matrimonio, habiendo comenzado a tomar su cruz y seguir al Señor, repentinamente
+      encontró que su “falso descanso se había quebrado,” y durante un período de catorce
+      años se vio obligada a pasar a través de profundas pruebas y aflicciones internas
+      que iban “mucho más allá de su capacidad de describirlas.” Y cuando por fin
+      disminuyeron las pruebas internas, los problemas externos llegaron como un torrente,
+      y en el transcurso de algunos años perdió a su marido y a sus siete hijos a causa de
+      diversas enfermedades. Pero según la promesa de Cristo, cuanto más renunciaba a este
+      mundo y a sus tesoros, más riquezas eternas ganaba, y sus experiencias del poder y
+      de la misericordia de Dios en sus últimos años fueron realmente cien veces más que
+      todo lo que había perdido.
+    partial_description: >-
+      La vida y las experiencias de Jane Pearson, que relata su temprana dedicación al
+      Señor, sus pruebas poco comunes (tanto internas como externas), sus labores como
+      ministra en la Sociedad de Amigos, y sus extraordinarias experiencias religiosas en
+      años posteriores.
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-304-9
+        draft: true
