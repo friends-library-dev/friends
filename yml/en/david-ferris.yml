@@ -60,3 +60,47 @@ documents:
           he had the agreeable company of David Ferris as a fellow-minister and traveling
           companion. Together they labored in the Lord’s vineyard among churches in
           Maryland, New Jersey, Rhode Island, and Pennsylvania.
+  - id: fbcf0659-f2d1-45fd-b560-15b98271dac2
+    title: Selection from the Journal of David Ferris
+    slug: journal-selection
+    filename: Selection_Journal_of_David_Ferris
+    original_title: >-
+      Memoirs of the Life of David Ferris An Approved Minister in the Society of Friends
+      Late of Wilmington, in the State of Delaware
+    published: 1825
+    description: >-
+      David Ferris (1707-1779) was favored as a young child with a merciful visitation of
+      the Lord whereby he was called out of the vanities of the world and enabled to see
+      through the empty forms and superstitions of man-made religion. He was brought up a
+      Presbyterian and educated in their way, but by attending to the inward teachings of
+      divine grace, he became convinced of the principles of Friends (having no outward
+      knowledge of their doctrines or practices). Being timid and diffident by nature, he
+      resisted the Lord’s call to ministry for many years, but at length gave up to preach
+      the gospel and travel in the Lord’s service.
+    partial_description: >-
+      A selection from the journal of the life David Ferris, recounting his remarkable
+      convincement of Truth’s principles apart from any human instrumentality, his
+      timidness in giving up to speak as a minister of the gospel, and his eventual growth
+      and usefulness in the body of Christ.
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-303-2
+        editor: Jason R. Henderson
+        audio:
+          added: 2021-08-05T20:32:20.446Z
+          reader: Jason R. Henderson
+          parts:
+            - title: Selection from the Journal of David Ferris
+              external_id_hq: 1100874700
+              external_id_lq: 1100875072
+              chapters:
+                - 0
+    related_documents:
+      - id: c3428a4c-4a2f-480b-8612-f96e104914dd
+        description: >-
+          For about ten months of Samuel Neale’s lengthy visit to the American colonies,
+          he had the agreeable company of David Ferris as a fellow-minister and traveling
+          companion. Together they labored in the Lord’s vineyard among churches in
+          Maryland, New Jersey, Rhode Island, and Pennsylvania
