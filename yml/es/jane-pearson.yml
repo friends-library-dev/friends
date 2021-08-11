@@ -5,6 +5,12 @@ gender: female
 added: 2021-08-05T21:25:50.886Z
 born: 1734
 died: 1816
+quotes:
+  - source: Jane Pearson
+    text: >-
+      Queridos Amigos, nada servirá sino mantenerse cerca de Dios y morar siempre como en
+      Su presencia. No hagan nada ante Su vista que teman que algún mortal vea. Mantengan
+      un corazón puro y manos limpias, y su final será paz.
 residences:
   - city: Carlisle
     region: England
