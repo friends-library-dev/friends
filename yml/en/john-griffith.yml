@@ -102,6 +102,7 @@ documents:
       - type: original
         isbn: 978-1-64476-284-4
   - id: 1b31482a-5cba-4ab3-b562-462b0a2b4fd3
+    alt_language_id: 6cb39a45-8ba6-4ea2-a248-872a4bd75d19
     title: The Ancient Path
     slug: ancient-path
     filename: Ancient_Path

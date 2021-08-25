@@ -73,3 +73,30 @@ documents:
               external_id_lq: 862048036
               chapters:
                 - 0
+  - id: 6cb39a45-8ba6-4ea2-a248-872a4bd75d19
+    alt_language_id: 1b31482a-5cba-4ab3-b562-462b0a2b4fd3
+    title: La Senda Antigua
+    slug: senda-antigua
+    filename: La_Senda_Antigua
+    description: >-
+      Este tratado, escrito por John Griffith en 1762, se dirigió originalmente a la
+      Sociedad de Amigos con el fuerte deseo de que los descendientes de la primera
+      generación de los Cuáqueros que habían sido “maravillosamente sacados y redimidos de
+      todas las sombras sin vida y formas vacías de la religión, y llevados a disfrutar y
+      estar fundados en el bendito poder y la vida de la misma, se mantuvieran sensibles
+      al camino y a los medios por los que nuestros honorables predecesores obtuvieron un
+      firme establecimiento en la Verdad como es en Jesús.” El tratado está dividido en
+      cuatro secciones, en las que Griffith comparte palabras de sabiduría celestial y
+      profunda experiencia sobre la necesidad de criar a los hijos en el temor del Señor,
+      la experiencia del nuevo nacimiento, la naturaleza de la adoración espiritual y la
+      diferencia entre el verdadero y el falso ministerio.
+    partial_description: >-
+      Este tratado, escrito por John Griffith en 1762, contiene profundos comentarios y
+      valiosos consejos sobre los importantes temas de la crianza de los hijos en el temor
+      del Señor, el nuevo nacimiento, la naturaleza de la adoración espiritual y la
+      diferencia entre el verdadero y el falso ministerio.
+    tags:
+      - treatise
+    editions:
+      - type: updated
+        isbn: 978-1-64476-306-3
