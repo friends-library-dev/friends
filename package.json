@@ -1,7 +1,7 @@
 {
   "name": "@friends-library/friends",
   "description": "yml-based flat file datastore for friends library",
-  "version": "4.13.1",
+  "version": "4.14.0",
   "main": "./dist/index.js",
   "browser": "./src/index.ts",
   "license": "MIT",
