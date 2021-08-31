@@ -63,3 +63,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-304-9
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-08-31T20:34:16.357Z
+          parts:
+            - title: La Vida de Jane Pearson
+              external_id_hq: 1116538189
+              external_id_lq: 1116538636
+              chapters:
+                - 0
