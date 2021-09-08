@@ -29,7 +29,7 @@ function main(): void {
     const rate = adocLines.length / signsOfIntake;
 
     if (rate > 650 && dpc.edition.isDraft === false) {
-      console.error(`${dpc.path}} likely not intaken`);
+      console.error(`${dpc.path} likely not intaken`);
       err = true;
     }
   });
