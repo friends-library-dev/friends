@@ -83,6 +83,7 @@ const regexes = [
 const intakeSafeList: string[] = [
   `en/anne-camm/life/modernized`,
   `en/anne-camm/life/original`,
+  `es/john-gratton/seleccion-del-diario/updated`,
 ];
 
 main();
