@@ -1,0 +1,28 @@
+id: 1ca7476f-9794-48ef-bd43-09aafa2313ab
+name: Job Scott
+slug: job-scott
+gender: male
+# added: 2018-10-03T19:35:18.000Z
+born: 1751
+died: 1793
+residences:
+  - city: Providence
+    region: Rhode Island
+description: >-
+  TODO
+documents:
+  - id: d4582fa7-f570-443d-bc76-856277696f3d
+    alt_language_id: d70a65d2-a3b6-48d8-8de0-b962aca084bf
+    title: Selección del Diario de Job Scott
+    slug: seleccion-del-diario
+    filename: Seleccion_del_Diario_de_Job_Scott
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-310-0
+        draft: true

@@ -50,6 +50,7 @@ documents:
       - type: modernized
         isbn: 978-1-64476-055-0
   - id: d70a65d2-a3b6-48d8-8de0-b962aca084bf
+    alt_language_id: d4582fa7-f570-443d-bc76-856277696f3d
     title: Selection from the Journal of Job Scott
     slug: journal-selection
     filename: Selection_Journal_of_Job_Scott
