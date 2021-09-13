@@ -1,0 +1,28 @@
+id: 89896c93-8573-4e09-ae83-0fd07c7bb0c2
+name: John Banks
+slug: john-banks
+gender: male
+# added: 2020-07-06T15:11:00.554Z
+born: 1637
+died: 1710
+residences:
+  - city: Sunderland
+    region: England
+description: >-
+  TODO
+documents:
+  - id: 02f425a0-aca5-4a17-9a24-4b28c9640b41
+    alt_language_id: 010d8d13-61c7-4485-8ab9-6fcd8297765b
+    title: Selección del Diario de John Banks
+    slug: seleccion-del-diario
+    filename: Seleccion_del_Diario_de_John_Banks
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-308-7
+        draft: true

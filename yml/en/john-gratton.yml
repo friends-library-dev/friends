@@ -57,6 +57,7 @@ documents:
         isbn: 978-1-64476-290-5
         draft: true
   - id: 29b459d6-16ae-4f64-a03c-4ee1794b3523
+    alt_language_id: 2ec53b58-f539-4311-8d09-bf3f28c14a8b
     title: Selection from the Journal of John Gratton
     slug: journal-selection
     filename: Selection_Journal_of_John_Gratton
