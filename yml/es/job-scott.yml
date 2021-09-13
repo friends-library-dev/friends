@@ -2,14 +2,28 @@ id: 1ca7476f-9794-48ef-bd43-09aafa2313ab
 name: Job Scott
 slug: job-scott
 gender: male
-# added: 2018-10-03T19:35:18.000Z
+added: 2021-09-13T19:41:20.988Z
 born: 1751
 died: 1793
 residences:
   - city: Providence
     region: Rhode Island
+quotes:
+  - source: Job Scott (en su lecho de muerte)
+    text: >-
+      Todos los conflictos pasados, por muy dolorosos que fueron en su tiempo, ahora son
+      más livianos que la vanidad, salvo en la medida en que ahora veo que han contribuido
+      en gran manera a la santificación del alma.
 description: >-
-  TODO
+  Job Scott (1751-1793) era un ministro dotado y muy amado en la Sociedad de los Amigos en
+  América. Era conocido por su dependencia total del movimiento y del poder del Espíritu
+  Santo, y por no estar dispuesto a ministrar sin un claro sentido de la voluntad del
+  Señor. En ocasiones, mientras predicaba, él de repente dejaba de hablar y se sentaba, y
+  después explicaba que, habiendo perdido el sentido de la autoridad y dirección del
+  Espíritu de Dios, ya no podía hacer nada sin él. Los escritos en su diario están llenos
+  de sabiduría y experiencia espiritual, y sin duda han consolado y ayudado a muchos
+  viajeros cansados en su camino a Sion. Job Scott murió de viruela en un viaje
+  ministerial a Irlanda en 1793.
 documents:
   - id: d4582fa7-f570-443d-bc76-856277696f3d
     alt_language_id: d70a65d2-a3b6-48d8-8de0-b962aca084bf
@@ -17,12 +31,22 @@ documents:
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_Job_Scott
     description: >-
-      TODO
+      Job Scott (1751-1793) era un ministro dotado y muy amado en la Sociedad de los
+      Amigos en América. Era conocido por su dependencia total del movimiento y del poder
+      del Espíritu Santo, y por no estar dispuesto a ministrar sin un claro sentido de la
+      voluntad del Señor. En ocasiones, mientras predicaba, él de repente dejaba de hablar
+      y se sentaba, y después explicaba que, habiendo perdido el sentido de la autoridad y
+      dirección del Espíritu de Dios, ya no podía hacer nada sin él. Los escritos en su
+      diario están llenos de sabiduría y experiencia espiritual, y sin duda han consolado
+      y ayudado a muchos viajeros cansados en su camino a Sion. Job Scott murió de viruela
+      en un viaje ministerial a Irlanda en 1793.
     partial_description: >-
-      TODO
+      Una selección del diario de Job Scott, que se enfoca en sus primeras experiencias
+      del Espíritu de la Verdad cuando era un niño, en sus tentaciones y rebelión contra
+      las convicciones y correcciones del Señor en su adolescencia, y en su entrega de
+      todo corazón a Cristo a los diecinueve años.
     tags:
       - journal
     editions:
       - type: updated
         isbn: 978-1-64476-310-0
-        draft: true

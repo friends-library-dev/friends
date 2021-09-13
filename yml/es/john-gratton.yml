@@ -2,14 +2,30 @@ id: 0b00d59c-9e4c-49aa-9d9c-ae452fa3a4d0
 name: John Gratton
 slug: john-gratton
 gender: male
-# added: 2018-10-23T19:02:08.000Z
+added: 2021-09-13T19:39:38.415Z
 born: 1641
 died: 1711
 residences:
   - city: Monyash
     region: England
+quotes:
+  - source: William Penn (en una carta a John Gratton)
+    text: >-
+      Querido John, en verdad tu eres uno de mis amigos más queridos y preferidos, con
+      quienes he experimentado una comunión tierna, cercana e interna. Y aunque tú digas
+      que eres pequeño y pobre, y que nunca habías sido tan dependiente, esta es una
+      condición noble, y nada mejor se podría decir de ti, o del más digno en el rebaño.
+      Oh, querido John, yo anhelo morar allí también, mientras viva en este tabernáculo.
 description: >-
-  TODO
+  John Gratton (1641-1711) era uno de los muchos antiguos Cuáqueros que fueron convencidos
+  de la verdad directamente por el Señor, sin la predicación o los escritos de otros
+  miembros de la Sociedad de Amigos. Su búsqueda desesperada y agonizante del verdadero
+  Cristianismo (entre muchas sectas y opiniones que había en su día) finalmente lo llevó a
+  experimentar dramáticamente la verdad de la promesa de Cristo—“Todo aquel que pide
+  recibe, el que busca halla, y el que toca la puerta se le abrirá.” Habiendo encontrado
+  la verdad que tan diligentemente había buscando, la amó, y se sometió a sus poderosas
+  operaciones en su propio corazón, volviéndose un ministro muy estimado, y participando
+  de grandes sufrimientos por el evangelio de Jesucristo.
 documents:
   - id: 2ec53b58-f539-4311-8d09-bf3f28c14a8b
     alt_language_id: 29b459d6-16ae-4f64-a03c-4ee1794b3523
@@ -17,12 +33,23 @@ documents:
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_John_Gratton
     description: >-
-      TODO
+      John Gratton (1641-1711) era uno de los muchos antiguos Cuáqueros que fueron
+      convencidos de la verdad directamente por el Señor, sin la predicación o los
+      escritos de otros miembros de la Sociedad de Amigos. Su búsqueda desesperada y
+      agonizante del verdadero Cristianismo (entre muchas sectas y opiniones que había en
+      su día) finalmente lo llevó a experimentar dramáticamente la verdad de la promesa de
+      Cristo—“Todo aquel que pide recibe, el que busca halla, y el que toca la puerta se
+      le abrirá.” Habiendo encontrado la verdad que tan diligentemente había buscando, la
+      amó, y se sometió a sus poderosas operaciones en su propio corazón, volviéndose un
+      ministro muy estimado, y participando de grandes sufrimientos por el evangelio de
+      Jesucristo.
     partial_description: >-
-      TODO
+      Una selección del diario de John Gratton, que relata su larga y ardiente búsqueda
+      del verdadero Cristianismo entre las muchas sectas y opiniones que había en su día,
+      y su eventual descubrimiento y experiencia de Cristo en su interior, la Perla de
+      gran precio, y la única esperanza de gloria.
     tags:
       - journal
     editions:
       - type: updated
         isbn: 978-1-64476-309-4
-        draft: true

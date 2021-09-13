@@ -2,14 +2,34 @@ id: 89896c93-8573-4e09-ae83-0fd07c7bb0c2
 name: John Banks
 slug: john-banks
 gender: male
-# added: 2020-07-06T15:11:00.554Z
+added: 2021-09-13T19:39:30.673Z
 born: 1637
 died: 1710
 residences:
   - city: Sunderland
     region: England
+quotes:
+  - source: William Penn
+    text: >-
+      Él [John Banks] fue un medio que Dios utilizó para fortalecer mi alma en los
+      primeros días de mi convencimiento. Fui muy tiernamente estimulado por él en la
+      creencia de la bendita doctrina de la luz, espíritu, gracia y verdad de Cristo en lo
+      íntimo, que reprueba, instruye, reforma y redime las almas (que son obedientes a Él)
+      del mal de este mundo.
+  - source: John Banks (últimas palabras)
+    text: >-
+      Todo está bien conmigo. No tengo nada más que hacer salvo morir, y terminaré en la
+      Verdad como comencé.
 description: >-
-  TODO
+  John Banks (1637-1710) era un ministro fiel y prominente entre la primera generación de
+  los Cuáqueros. Cuando murió, un amigo íntimo escribió de él—“Después de que al eterno y
+  sabio Dios le agradó abrir su entendimiento, y dejarle ver su propio estado y condición,
+  y revelar a Su Hijo en él, él estuvo dispuesto a entregarse libremente a la aparición
+  celestial e interna de Cristo Jesús, la esperanza de gloria. Y conforme era obediente a
+  esto, se le era confiado un gran don para el ministerio, en el cual creció, y llegó a
+  estar lleno de poder, para la conversión de muchos al camino correcto del Señor quienes
+  eran convencidos de la maldad de sus caminos, y vueltos a Jesucristo, su Maestro
+  gratuito, y llevados a bendecir al Señor debido a su ministerio.”
 documents:
   - id: 02f425a0-aca5-4a17-9a24-4b28c9640b41
     alt_language_id: 010d8d13-61c7-4485-8ab9-6fcd8297765b
@@ -17,12 +37,22 @@ documents:
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_John_Banks
     description: >-
-      TODO
+      John Banks (1637-1710) era un ministro fiel y prominente entre la primera generación
+      de los Cuáqueros. Cuando murió, un amigo íntimo escribió de él—“Después de que al
+      eterno y sabio Dios le agradó abrir su entendimiento, y dejarle ver su propio estado
+      y condición, y revelar a Su Hijo en él, él estuvo dispuesto a entregarse libremente
+      a la aparición celestial e interna de Cristo Jesús, la esperanza de gloria. Y
+      conforme era obediente a esto, se le era confiado un gran don para el ministerio, en
+      el cual creció, y llegó a estar lleno de poder, para la conversión de muchos al
+      camino correcto del Señor quienes eran convencidos de la maldad de sus caminos, y
+      vueltos a Jesucristo, su Maestro gratuito, y llevados a bendecir al Señor debido a
+      su ministerio.”
     partial_description: >-
-      TODO
+      Una selección del diario de John Banks, que relata su temprano descubrimiento de la
+      verdad, su llamado al ministerio, y sus sufrimiento por el evangelio; también
+      contiene unas cuántas cartas a su esposa e hijos que escribió desde la prisión.
     tags:
       - journal
     editions:
       - type: updated
         isbn: 978-1-64476-308-7
-        draft: true
