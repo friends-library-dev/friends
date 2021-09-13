@@ -32,6 +32,7 @@ description: >-
   Teacher, and were made to bless the Lord on his behalf.”
 documents:
   - id: 010d8d13-61c7-4485-8ab9-6fcd8297765b
+    alt_language_id: 02f425a0-aca5-4a17-9a24-4b28c9640b41
     title: Selection from the Journal of John Banks
     slug: journal-selection
     filename: Selection_Journal_of_John_Banks
