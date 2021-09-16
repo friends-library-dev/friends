@@ -100,3 +100,34 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-306-3
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-09-16T14:46:02.293Z
+          external_playlist_id_hq: 1317362551
+          external_playlist_id_lq: 1317362596
+          parts:
+            - title: Prefacio
+              external_id_lq: 1125735385
+              external_id_hq: 1125733150
+              chapters:
+                - 0
+            - title: Sección 1 - Recomendaciones a los Padres e Hijos
+              external_id_lq: 1125778831
+              external_id_hq: 1125736813
+              chapters:
+                - 1
+            - title: Sección 2 - La Naturaleza y Necesidad del Nuevo Nacimiento
+              external_id_lq: 1125784162
+              external_id_hq: 1125781120
+              chapters:
+                - 2
+            - title: Sección 3 - La Naturaleza de la Verdadera Adoración
+              external_id_lq: 1125789166
+              external_id_hq: 1125786688
+              chapters:
+                - 3
+            - title: Sección 4 - El Ministerio Falso y Verdadero
+              external_id_lq: 1125794332
+              external_id_hq: 1125791791
+              chapters:
+                - 4
