@@ -1,0 +1,33 @@
+id: 37149b2e-41c4-4b0d-8222-8aab9ca00678
+name: Joseph Hoag
+slug: joseph-hoag
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1762
+died: 1846
+residences:
+  - city: Charlotte
+    region: Vermont
+documents:
+  - id: 88220215-a675-4b8c-8762-0dd13d8c649a
+    title: The Journal of Joseph Hoag
+    original_title: >-
+      TODO
+    slug: journal
+    filename: Journal_of_Joseph_Hoag
+    description: >-
+      Journal of the Life of Joseph Hoag An Eminent Minister of the Gospel in the Society
+      of Friends.
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-313-1
+        draft: true
+      - type: original
+        isbn: 978-1-64476-314-8
+        draft: true

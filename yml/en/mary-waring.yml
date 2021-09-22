@@ -1,0 +1,33 @@
+id: 42b2a932-b74f-4754-9208-1fef89c7aa75
+name: Mary Waring
+slug: mary-waring
+gender: female
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1760
+died: 1805
+residences:
+  - city: Godalming
+    region: England
+documents:
+  - id: 88b23e33-bee6-4792-a282-7b7118e818dc
+    title: The Diary of Mary Waring
+    original_title: >-
+      A Diary of the Religious Experience of Mary Waring, Daughter of Elijah and Sarah
+      Waring; Late of Godalming
+    slug: diary
+    filename: Diary_of_Mary_Waring
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-311-7
+        draft: true
+      - type: original
+        isbn: 978-1-64476-312-4
+        draft: true
