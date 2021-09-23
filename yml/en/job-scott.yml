@@ -84,3 +84,20 @@ documents:
               external_id_lq: 830028478
               chapters:
                 - 0
+  - id: d5d7987d-29a2-4ecb-ab5b-26e355d06a54
+    title: The Letters of Job Scott
+    slug: letters
+    filename: Letters_of_Job_Scott
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: original
+        isbn: 978-1-64476-315-5
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-316-2
+        draft: true
