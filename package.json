@@ -21,7 +21,8 @@
     "verify:intake": "fldev tsnode ./verify/intake.ts",
     "verify:assets": "fldev tsnode ./verify/assets.ts",
     "generate:js-map": "fldev tsnode ./src/js-map-gen.ts",
-    "postpublish": "node ./postpublish.js"
+    "postpublish": "node ./postpublish.js",
+    "npub:precheck": "fldev ci"
   },
   "dependencies": {
     "@friends-library/types": "^5.1.0",
