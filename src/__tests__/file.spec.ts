@@ -46,7 +46,7 @@ files.forEach((file) => {
       friends.push(friend);
       documents = friend.documents;
     } catch (err) {
-      throw new Error(err.message);
+      throw new Error(String(err));
     }
 
     test(`no asciidoc-style escaping`, () => {
