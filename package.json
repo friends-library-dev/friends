@@ -25,7 +25,7 @@
     "npub:precheck": "fldev ci"
   },
   "dependencies": {
-    "@friends-library/types": "^5.1.0",
+    "@friends-library/types": "^6.0.0",
     "glob": "^7.1.4",
     "js-yaml": "^3.12.0",
     "jsonschema": "1.2.6",
@@ -33,9 +33,9 @@
     "x-ts-utils": "^1.2.0"
   },
   "devDependencies": {
-    "@friends-library/dev": "~4.3.1",
+    "@friends-library/dev": "~4.4.1",
     "@friends-library/document-meta": "^2.2.2",
-    "@friends-library/env": "^1.3.2",
+    "@friends-library/env": "^1.4.0",
     "@friends-library/friend-repos": "^1.1.1",
     "@types/glob": "^7.1.3",
     "@types/js-yaml": "^3.12.1",
