@@ -81,6 +81,8 @@ const regexes = [
 // add patterns of docs that appear to be not intaken
 // and for some reason should not trigger CI failures
 const intakeSafeList: string[] = [
+  `en/jane-hoskens/life/modernized`,
+  `en/jane-hoskens/life/original`,
   `en/anne-camm/life/modernized`,
   `en/anne-camm/life/original`,
   `es/john-gratton/seleccion-del-diario/updated`,
