@@ -2,9 +2,19 @@ id: 42b2a932-b74f-4754-9208-1fef89c7aa75
 name: Mary Waring
 slug: mary-waring
 gender: female
-# added: 2021-07-12T17:45:01.282Z
+added: 2021-09-29T19:43:46.820Z
 description: >-
-  TODO
+  Although there are many excellent and interesting journals published by Friends that
+  relate the spiritual progress and ministerial labors of eminent men and women of God,
+  there are very few publications that are similar to this one. Mary Waring (1760-1805)
+  was neither a minister nor a public figure in the Society of Friends, but was rather a
+  private, almost obscure individual, even in her native land. She never married or moved
+  from the home her parents, and her diary relates little more than what are generally
+  considered the common and daily duties of a private life. But what is truly remarkable
+  about this unassuming woman, and what will no doubt be inspiring to all sincere readers,
+  is the way she ordered everything in her life with a single eye to her Maker, constantly
+  and faithfully considering whether every little act, word, disposition, or practice was
+  pleasing to Him.
 born: 1760
 died: 1805
 residences:
@@ -19,15 +29,25 @@ documents:
     slug: diary
     filename: Diary_of_Mary_Waring
     description: >-
-      TODO
+      Although there are many excellent and interesting journals published by Friends that
+      relate the spiritual progress and ministerial labors of eminent men and women of
+      God, there are very few publications that are similar to this one. Mary Waring
+      (1760-1805) was neither a minister nor a public figure in the Society of Friends,
+      but was rather a private, almost obscure individual, even in her native land. She
+      never married or moved from the home her parents, and her diary relates little more
+      than what are generally considered the common and daily duties of a private life.
+      But what is truly remarkable about this unassuming woman, and what will no doubt be
+      inspiring to all sincere readers, is the way she ordered everything in her life with
+      a single eye to her Maker, constantly and faithfully considering whether every
+      little act, word, disposition, or practice was pleasing to Him.
     partial_description: >-
-      TODO
+      The Diary of Mary Waring, commencing in her thirty-first year, and relating the
+      daily struggles, convictions, and heavenly aspirations of one whose heart was
+      “sweetly drawn to aspire after perfect purity and holiness.”
     tags:
       - journal
     editions:
       - type: modernized
         isbn: 978-1-64476-311-7
-        draft: true
       - type: original
         isbn: 978-1-64476-312-4
-        draft: true
