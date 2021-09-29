@@ -1,8 +1,19 @@
 id: 84c67355-24eb-4ac2-820b-8c2299376c8c
 name: William Reckitt
 slug: william-reckitt
+added: 2021-09-29T19:30:50.976Z
 gender: male
-description: TODO
+description: >-
+  William Reckitt (1706-1769) was born in Lincolnshire to honest parents, both of whom
+  died when he was very young. When an adolescent, serving as an apprentice to weaver, he
+  was convinced of the Truth through the ministry of a Friend on a religious visit, and by
+  diligently harkening to the Light of Christ that shined in his heart, he was preserved
+  from the many temptations to which unguarded youth are commonly exposed. In 1742, at the
+  age of thirty-six, he first came forth in the work of the ministry, and in 1756, when en
+  route to America, he and several others on board were taken captive by a French
+  privateer and brought to Morlaix. There he was detained in a painful state of captivity
+  for about six months, but was preserved throughout in remarkable quietness and
+  resignation, to the great admiration of some of the French inhabitants.
 born: 1706
 died: 1769
 residences:
@@ -16,14 +27,26 @@ documents:
       In Great Britain.
     slug: life
     filename: Life_of_William_Reckitt
-    description: TODO
-    partial_description: TODO
+    description: >-
+      William Reckitt (1706-1769) was born in Lincolnshire to honest parents, both of whom
+      died when he was very young. When an adolescent, serving as an apprentice to weaver,
+      he was convinced of the Truth through the ministry of a Friend on a religious visit,
+      and by diligently harkening to the Light of Christ that shined in his heart, he was
+      preserved from the many temptations to which unguarded youth are commonly exposed.
+      In 1742, at the age of thirty-six, he first came forth in the work of the ministry,
+      and in 1756, when en route to America, he and several others on board were taken
+      captive by a French privateer and brought to Morlaix. There he was detained for
+      about six months, but was preserved throughout in remarkable quietness and
+      resignation, to the great admiration of some of the French inhabitants.
+    partial_description: >-
+      The journal of William Reckitt, a devoted minister in the Society of Friends,
+      relating his lengthy imprisonment in France, his travels and experiences in the
+      ministry, and the correspondence between himself and his family while absent in
+      America.
     tags:
       - journal
     editions:
       - type: modernized
         isbn: 978-1-64476-291-2
-        draft: true
       - type: original
         isbn: 978-1-64476-292-9
-        draft: true
