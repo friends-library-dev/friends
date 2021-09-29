@@ -2,9 +2,38 @@ id: 405d1dd7-05e2-4b1e-b7c7-ffb5a689f3ef
 name: John Wilbur
 slug: john-wilbur
 gender: male
-description: TODO
+added: 2021-09-29T19:52:11.510Z
+description: >-
+  Perhaps more than any other Friend in the nineteenth century, John Wilbur (1774-1856)
+  labored and suffered to uphold the original principles and testimonies of the Society of
+  Friends (as held and maintained by George Fox, Robert Barclay, Isaac Penington, etc.) at
+  a time when multitudes were fast abandoning the faith of their worthy predecessors.
+  Though naturally averse to controversy and conflict, Wilbur labored tirelessly in word
+  and in writing to stop the propagation of those principles that he clearly saw would
+  lead out from a living experience of the indwelling Christ and back into a crossless
+  religion of words. Though loved and admired by the faithful in his day (like John
+  Barclay, Sarah L. Grubb, Daniel Wheeler, etc.), he was persecuted by many members of his
+  own society and eventually disowned by his yearly meeting. Having abandoned its solid
+  foundation, the Society of Friends continued to “mix with the nations” and soon fell
+  into a lamentable state of ruin, but the name John Wilbur came to be forever associated
+  with original Quakerism, and with the small band of worthies who held on till the end.
 born: 1774
 died: 1856
+quotes:
+  - source: Christopher Healy (in a letter to John Wilbur)
+    text: >-
+      I know of no one in these latter days of trouble in our Society that has had so deep
+      baptisms to pass through as you have. Oh, my dear friend, as you are so thoroughly
+      converted, go on and strengthen your brethren; yes speak often to them and one unto
+      another, and the Lord who has been your helper will hearken, and a book of
+      remembrance will be written before Him.
+  - source: John Barclay (in a letter to John Wilbur)
+    text: >-
+      I know of no one in these latter days of trouble in our Society that has had so deep
+      baptisms to pass through as you have. Oh, my dear friend, as you are so thoroughly
+      converted, go on and strengthen your brethren; yes speak often to them and one unto
+      another, and the Lord who has been your helper will hearken, and a book of
+      remembrance will be written before Him.
 residences:
   - city: Hopkinton
     region: Rhode Island
@@ -16,15 +45,31 @@ documents:
       Friends; with Selections from His Correspondence, etc.
     slug: journal-letters
     filename: Journal_Letters_of_John_Wilbur
-    description: TODO
-    partial_description: TODO
+    description: >-
+      Perhaps more than any other Friend in the nineteenth century, John Wilbur
+      (1774-1856) labored and suffered to uphold the original principles and testimonies
+      of the Society of Friends (as held and maintained by George Fox, Robert Barclay,
+      Isaac Penington, etc.) at a time when multitudes were fast abandoning the faith of
+      their worthy predecessors. Though naturally averse to controversy and conflict,
+      Wilbur labored tirelessly in word and in writing to stop the propagation of those
+      principles that he clearly saw would lead out from a living experience of the
+      indwelling Christ and back into a crossless religion of words. Though loved and
+      admired by the faithful in his day (like John Barclay, Sarah L. Grubb, Daniel
+      Wheeler, etc.), he was persecuted by many members of his own society and eventually
+      disowned by his yearly meeting. Having abandoned its solid foundation, the Society
+      of Friends continued to “mix with the nations” and soon fell into a lamentable state
+      of ruin, but the name John Wilbur came to be forever associated with original
+      Quakerism, and with the small band of worthies who held on till the end.
+    partial_description: >-
+      The journal and letters of John Wilbur, relating his travels in the work of the
+      ministry when young, and his tireless defense of the original principles and
+      practices of the Society of Friends at a time when multitudes were abandoning the
+      faith of their worthy predecessors.
     tags:
       - journal
       - letters
     editions:
       - type: modernized
         isbn: 978-1-64476-298-1
-        draft: true
       - type: original
         isbn: 978-1-64476-299-8
-        draft: true
