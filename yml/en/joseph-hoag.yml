@@ -2,9 +2,20 @@ id: 37149b2e-41c4-4b0d-8222-8aab9ca00678
 name: Joseph Hoag
 slug: joseph-hoag
 gender: male
-# added: 2021-07-12T17:45:01.282Z
+added: 2021-09-29T19:47:22.760Z
 description: >-
-  TODO
+  Joseph Hoag (1762-1846) was an honest and faithful minister in the Society of Friends at
+  a time when multitudes were being drawn off the true foundation, both on the right hand
+  and on the left. He stood firmly against the anti-christian innovations of Elias Hicks
+  during the first great schism that the Society of Friends ever experienced. And some
+  years later, he early detected and opposed the unsound views of Joseph John Gurney and
+  his followers, believing (as it well proved) that adherence to these views would mean
+  the eventual downfall of the society. In addition to having received a large gift in the
+  ministry, Hoag was conspicuous for his prophetic giftings, whereby he was often enabled
+  by the Lord to enter with great clearness into the particular state of both individuals
+  and meetings. He also on some occasions received remarkable visions and dreams of things
+  to come, not the least of which being his clear foresight of the coming civil war in
+  America that would be fought between the northern and southern states.
 born: 1762
 died: 1846
 residences:
@@ -14,20 +25,33 @@ documents:
   - id: 88220215-a675-4b8c-8762-0dd13d8c649a
     title: The Journal of Joseph Hoag
     original_title: >-
-      TODO
-    slug: journal
-    filename: Journal_of_Joseph_Hoag
-    description: >-
       Journal of the Life of Joseph Hoag An Eminent Minister of the Gospel in the Society
       of Friends.
+    description: >-
+      Joseph Hoag (1762-1846) was an honest and faithful minister in the Society of
+      Friends at a time when multitudes were being drawn off the true foundation, both on
+      the right hand and on the left. He stood firmly against the anti-christian
+      innovations of Elias Hicks during the first great schism that the Society of Friends
+      ever experienced. And some years later, he early detected and opposed the unsound
+      views of Joseph John Gurney and his followers, believing (as it well proved) that
+      adherence to these views would mean the eventual downfall of the society. In
+      addition to having received a large gift in the ministry, Hoag was conspicuous for
+      his prophetic giftings, whereby he was often enabled by the Lord to enter with great
+      clearness into the particular state of both individuals and meetings. He also on
+      some occasions received remarkable visions and dreams of things to come, not the
+      least of which being his clear foresight of the coming civil war in America that
+      would be fought between the northern and southern states.
+    slug: journal
+    filename: Journal_of_Joseph_Hoag
     partial_description: >-
-      TODO
+      The journal of Joseph Hoag, an honest, faithful, and prophetically gifted minister
+      in the Society of Friends who stood firmly for “the faith once delivered to the
+      saints,” against the great tide of unsound principles and practices that overran the
+      society in the first half of the nineteenth century.
     tags:
       - journal
     editions:
       - type: modernized
         isbn: 978-1-64476-313-1
-        draft: true
       - type: original
         isbn: 978-1-64476-314-8
-        draft: true
