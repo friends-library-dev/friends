@@ -89,15 +89,25 @@ documents:
     slug: letters
     filename: Letters_of_Job_Scott
     description: >-
-      TODO
+      Job Scott (1751-1793) was a gifted and beloved minister in the Society of Friends in
+      America. He was known for his total dependence upon the immediate moving and
+      empowering of the Holy Spirit, and his unwillingness to minister without a clear
+      sense of the Lord’s will. On occasions, while preaching, he would suddenly stop
+      speaking and sit down, explaining later that, having lost a sense of the authority
+      and direction of the Spirit of God, he could do nothing without it. This large
+      collection of letters and epistles addressed to friends, family, and
+      fellow-ministers of the gospel was written between 1774 and 1793, and records some
+      of the painful inward trials, spiritual favors, and heavenly wisdom of a man whose
+      neck was entirely bowed and submitted to the yoke of Christ.
     partial_description: >-
-      TODO
+      A large collection of letters and extracts of letters written by that eminent and
+      beloved minister of the gospel, Job Scott, between the years 1774 and 1793. Also
+      containing his general epistle of “Caution Against Stumbling at the Faults of
+      Others,” addressed to the members of the Society of Friends.
     tags:
       - letters
     editions:
       - type: original
         isbn: 978-1-64476-315-5
-        draft: true
       - type: modernized
         isbn: 978-1-64476-316-2
-        draft: true
