@@ -2,7 +2,22 @@ id: dd1680e7-9df7-4b13-9e83-fa53400c1255
 name: John G. Sargent
 slug: john-g-sargent
 gender: male
-description: TODO
+description: >-
+  Though an Englishman, John G. Sargent (1813 – 1883) spent much of the first half of his
+  life living and working in Paris. His parents were members of the Society of Friends,
+  but prior to his twenty-fifth year, he says, “I did not know the real foundation and
+  essence of their principles, nor did I understand the leading of the Spirit.” When his
+  heart was reached and his mind convinced by the Spirit of Truth, he gave up in
+  whole-hearted obedience to follow the Lord and to wait upon Him in the way of His
+  judgments. This he did faithfully for around eight years in France, though he frequently
+  sat alone in the meeting house in Paris, often being the only person in attendance both
+  Sundays and Thursdays. Upon returning to England in 1844, his heart was broken at seeing
+  the sorrowful departures in doctrine, practice, and discipline that were rapidly gaining
+  ground in the society, and according to the gift bestowed upon him, he endeavored to
+  lift up his voice against the various innovations imposed upon a people who had been so
+  preeminently raised up to show forth the purity and spirituality of the Gospel
+  dispensation.
+added: 2021-09-29T20:01:49.902Z
 born: 1813
 died: 1883
 residences:
@@ -51,15 +66,31 @@ documents:
       as Representing the Society of Friends.
     slug: journal-letters
     filename: Journal_Letters_of_John_G_Sargenet
-    description: TODO
-    partial_description: TODO
+    description: >-
+      Though an Englishman, John G. Sargent (1813 – 1883) spent much of the first half of
+      his life living and working in Paris. His parents were members of the Society of
+      Friends, but prior to his twenty-fifth year, he says, “I did not know the real
+      foundation and essence of their principles, nor did I understand the leading of the
+      Spirit.” When his heart was reached and his mind convinced by the Spirit of Truth,
+      he gave up in whole-hearted obedience to follow the Lord and to wait upon Him in the
+      way of His judgments. This he did faithfully for around eight years in France,
+      though he frequently sat alone in the meeting house in Paris, often being the only
+      person in attendance both Sundays and Thursdays. Upon returning to England in 1844,
+      his heart was broken at seeing the sorrowful departures in doctrine, practice, and
+      discipline that were rapidly gaining ground in the society, and according to the
+      gift bestowed upon him, he endeavored to lift up his voice against the various
+      innovations imposed upon a people who had been so preeminently raised up to show
+      forth the purity and spirituality of the Gospel dispensation.
+    partial_description: >-
+      The journal and letters of John G. Sargent, a faithful minister in the Society of
+      Friends in England who endeavored to support and maintain the original principles
+      and practices of Quakers (as held by George Fox, Robert Barclay, William Penn, etc.)
+      at a time when multitudes were sliding off the ancient foundation.
     tags:
       - journal
       - letters
     editions:
       - type: modernized
         isbn: 978-1-64476-293-6
-        draft: true
       - type: original
         isbn: 978-1-64476-294-3
-        draft: true
