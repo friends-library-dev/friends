@@ -108,3 +108,36 @@ documents:
         isbn: 978-1-64476-268-4
       - type: original
         isbn: 978-1-64476-269-1
+  - id: 20d1e00c-dd8b-4d28-9270-58c42b5c2b55
+    title: Selection from the Life of Francis Howgill
+    slug: life-selection
+    filename: Selection_Life_of_Francis_Howgill
+    description: >-
+      Francis Howgill (1618–1668) was a valiant minister of the gospel in the early
+      Society of Friends in England who suffered great persecution and eventually died in
+      prison for “the Word of God and for the testimony of Jesus.” This selection of his
+      works contains an autobiographical account of his spiritual experiences in early
+      life, a narration of his trial when indicted for refusing to swear and not attending
+      the national church, and an extraordinary letter sent to his young daughter from
+      prison.
+    partial_description: >-
+      A selection from the writings of Francis Howgill, containing an autobiographical
+      account of his spiritual awakening in early life, a transcript of his trial when
+      prosecuted for refusing to swear, and a precious letter written from prison to his
+      oldest daughter Abigail.
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: updated
+        isbn: 978-1-64476-317-9
+        editor: Jason R. Henderson
+        audio:
+          reader: Jason R. Henderson
+          added: 2021-09-29T13:28:44.300Z
+          parts:
+            - title: Selection from the Life of Francis Howgill
+              external_id_hq: 1133024134
+              external_id_lq: 1133024557
+              chapters:
+                - 0
