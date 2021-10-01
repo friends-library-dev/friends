@@ -20,6 +20,7 @@
     "prepublishOnly": "npm run generate:js-map && npm run compile",
     "verify:intake": "fldev tsnode ./verify/intake.ts",
     "verify:assets": "fldev tsnode ./verify/assets.ts",
+    "verify:headings": "fldev tsnode ./verify/headings.ts",
     "generate:js-map": "fldev tsnode ./src/js-map-gen.ts",
     "postpublish": "node ./postpublish.js",
     "npub:precheck": "fldev ci"
