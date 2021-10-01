@@ -33,8 +33,11 @@ jobs:
       - name: verify:intake
         run: |
           npm install @friends-library/dpc-fs
+          npm install @friends-library/evaluator
           rm -rf ./node_modules/@friends-library/friends
           ln -s $PWD ./node_modules/@friends-library/friends
           npm run verify:intake
       - name: verify:assets
         run: npm run verify:assets
+      - name: verify:headings
+        run: npm run verify:headings
