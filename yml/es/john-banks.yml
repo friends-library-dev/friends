@@ -56,3 +56,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-308-7
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-10-08T20:37:05.539Z
+          parts:
+            - title: Selección del Diario de John Banks
+              external_id_lq: 1138577776
+              external_id_hq: 1138577485
+              chapters:
+                - 0
