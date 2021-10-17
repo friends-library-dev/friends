@@ -44,3 +44,21 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-004-8
+  - id: 3fb9f57e-eaf3-427d-b438-cf6be95268c5
+    title: The Journal and Writings of Ambrose Rigge (Replacement)
+    slug: replacement
+    filename: Journal_of_Ambrose_Rigge_Replace
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: original
+        isbn: 978-1-64476-318-6
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-319-3
+        draft: true
