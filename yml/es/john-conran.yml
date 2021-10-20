@@ -1,0 +1,32 @@
+id: 946a4ba6-0ae2-481c-879d-d71cd8199403
+name: John Conran
+slug: john-conran
+gender: male
+added: 2021-10-20T17:39:52.286Z
+born: 1737
+died: 1827
+quotes:
+  - source: John Conran
+    text: >-
+      TODO
+residences:
+  - city: Dublin
+    region: Ireland
+description: >-
+  TODO
+documents:
+  - id: 003f07e3-3930-4f58-a6dd-5fb9fa6e765a
+    alt_language_id: 91324cab-b3aa-4b46-abab-703f24a68f95
+    title: Selección del Diario de John Conran
+    slug: seleccion-del-diario
+    filename: Seleccion_del_Diario_de_John_Conran
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: updated
+        isbn: 978-1-64476-318-6
+        draft: true

@@ -59,6 +59,7 @@ documents:
       - type: original
         isbn: 978-1-64476-067-3
   - id: 91324cab-b3aa-4b46-abab-703f24a68f95
+    alt_language_id: 003f07e3-3930-4f58-a6dd-5fb9fa6e765a
     title: Selection from the Journal of John Conran
     slug: journal-selection
     filename: Selection_Journal_John_Conran
