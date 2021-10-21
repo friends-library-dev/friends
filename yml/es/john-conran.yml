@@ -2,18 +2,33 @@ id: 946a4ba6-0ae2-481c-879d-d71cd8199403
 name: John Conran
 slug: john-conran
 gender: male
-added: 2021-10-20T17:39:52.286Z
+added: 2021-10-21T17:40:04.998Z
 born: 1737
 died: 1827
 quotes:
   - source: John Conran
     text: >-
-      TODO
+      Esas cosas que había sufrido sólo eran el principio de dolores. El terreno del
+      corazón no debía ser removido superficialmente. No, era necesario introducir el
+      arado del evangelio, romper el terreno no labrado, y no sembrar más entre espinos.
+      Los terrores de los juicios de Dios a menudo eran puestos delante de mi mente, y me
+      causaron impresiones tan profundas, que creo que nunca se borrarán. Es una verdad
+      más allá de toda contradicción para mí, que el Espíritu divino no morará en un
+      templo que Él no haya limpiado previamente en gran medida.
 residences:
   - city: Dublin
     region: Ireland
 description: >-
-  TODO
+  Hasta los 33 años de edad, John Conran (1739-1827) fue un miembro celoso de la Iglesia
+  de Inglaterra, pero anhelando experimentar una pureza interna y una verdadera
+  transformación del alma, comenzó a asistir a las reuniones de la Sociedad de Amigos, y
+  en ellas fue confrontado poderosamente por el Espíritu de Dios. Al ser despertado para
+  ver su verdadera condición espiritual, y su necesidad del bautismo de Cristo en el
+  Espíritu Santo y fuego, se “negó a sí mismo, tomó su cruz, y siguió a Cristo,” y se
+  volvió una vasija de honor en la casa del Señor. Sus luchas fueron muchas y arduas,
+  tanto contra los enemigos de su alma, como contra la condición declinante de la Sociedad
+  de Amigos. Pero John Conran guardó la fe, y terminó su carrera como un testimonio vivo
+  del poder de la gracia que purifica el corazón.
 documents:
   - id: 003f07e3-3930-4f58-a6dd-5fb9fa6e765a
     alt_language_id: 91324cab-b3aa-4b46-abab-703f24a68f95
@@ -21,12 +36,22 @@ documents:
     slug: seleccion-del-diario
     filename: Seleccion_del_Diario_de_John_Conran
     description: >-
-      TODO
+      Hasta los 33 años de edad, John Conran (1739-1827) fue un miembro celoso de la
+      Iglesia de Inglaterra, pero anhelando experimentar una pureza interna y una
+      verdadera transformación del alma, comenzó a asistir a las reuniones de la Sociedad
+      de Amigos, y en ellas fue confrontado poderosamente por el Espíritu de Dios. Al ser
+      despertado para ver su verdadera condición espiritual, y su necesidad del bautismo
+      de Cristo en el Espíritu Santo y fuego, se “negó a sí mismo, tomó su cruz, y siguió
+      a Cristo,” y se volvió una vasija de honor en la casa del Señor. Sus luchas fueron
+      muchas y arduas, tanto contra los enemigos de su alma, como contra la condición
+      declinante de la Sociedad de Amigos. Pero John Conran guardó la fe, y terminó su
+      carrera como un testimonio vivo del poder de la gracia que purifica el corazón.
     partial_description: >-
-      TODO
+      Una selección del Diario de John Conran, que relata su salida del cristianismo de
+      nombre, su poderosa experiencia de los juicios del Señor mezclados con misericordia,
+      y sus viajes y pruebas en la obra del ministerio.
     tags:
       - journal
     editions:
       - type: updated
         isbn: 978-1-64476-318-6
-        draft: true
