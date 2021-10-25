@@ -53,3 +53,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-309-4
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-10-25T15:38:36.110Z
+          parts:
+            - title: Selección del Diario de John Gratton
+              external_id_hq: 1147698784
+              external_id_lq: 1147699297
+              chapters:
+                - 0
