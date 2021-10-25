@@ -123,6 +123,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-030-7
+      - type: original
+        isbn: 978-1-64476-321-6
+        draft: true
   - id: 8e77ebe3-8678-44d2-9826-8c1be2633dcc
     title: 'Piety Promoted, Volume II'
     slug: piety-promoted-v2
@@ -147,6 +150,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-173-1
+      - type: original
+        isbn: 978-1-64476-322-3
+        draft: true
   - id: 951f52bb-fc11-4e76-a08d-c3dc52b8a07c
     title: 'Piety Promoted, Volume III'
     slug: piety-promoted-v3
@@ -172,6 +178,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-174-8
+      - type: original
+        isbn: 978-1-64476-323-0
+        draft: true
   - id: 46cffe12-7fac-486d-8597-afecee546baa
     title: 'Piety Promoted, Volume IV'
     slug: piety-promoted-v4
@@ -197,6 +206,9 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-175-5
+      - type: original
+        isbn: 978-1-64476-324-7
+        draft: true
   - id: 960e1f3b-deb2-480a-83bf-ca7dfd3b965c
     title: Examples of Youthful Piety
     original_title: >-
