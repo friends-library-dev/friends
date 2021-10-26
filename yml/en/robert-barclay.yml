@@ -139,16 +139,15 @@ documents:
     slug: apology
     filename: Apology
     description: >-
-      Robert Barclay (1648–1690) was born into opulence and educated in some of the finest
-      schools of the time, where his natural genius gained the admiration of both teachers
-      and peers. But at seventeen years of age, upon entering a meeting of the people
-      called Quakers, he said, “I felt a secret power among them which touched my heart.”
-      And as he abode under the powerful operations of grace, he “came to receive and bear
-      witness of the Truth,” not being convinced “by strength of argument, or by a
-      particular discussion of each doctrine, but by being secretly reached by Life.”
-      Barclay’s Apology for the True Christian Divinity was first published in 1675, and
-      came to be considered the definitive exposition and defense of Quaker principles for
-      the next 200 years.
+      Robert Barclay’s Apology [i.e. Defense] for the True Christian Divinity is probably
+      the most well-known and celebrated of all early Quaker writings, and is a must for
+      anyone desiring to understand the original principles and practices of the Society
+      of Friends. The work consists of fifteen propositions, in which some of the most
+      vital and misunderstood aspects of Christianity are brilliantly expounded and
+      defended, and the reader is given a clear and compelling description of the true
+      nature, experience, and extent of the salvation that God offers the soul through
+      Jesus Christ. The publication offered here is the complete and unedited edition,
+      first printed in 1675 in Latin, and then translated by Barclay himself into English.
     partial_description: >-
       The Apology for the True Christian Divinity is perhaps the most well-known of all
       Friends publications, and has been considered the definitive exposition and defense
@@ -158,7 +157,6 @@ documents:
     editions:
       - type: original
         isbn: 978-1-64476-116-8
-        draft: true
   - id: fea5c7ff-bd6f-4c46-b928-c3b4fb1a04e6
     alt_language_id: 1314f777-2b9e-40b4-b148-18e64278557a
     title: Considerations upon Recreation and Entertainment
