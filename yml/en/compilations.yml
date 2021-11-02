@@ -395,3 +395,63 @@ documents:
               external_id_hq: 1041802384
               chapters:
                 - 9
+  - id: defee80e-cccd-4301-a53b-697dcc71b8ee
+    title: 'Piety Promoted, Volume I'
+    slug: piety-promoted-v1-replace
+    filename: Piety_Promoted_v1_REPLACE
+    print_size: m
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-325-4
+        draft: true
+  - id: 9bb54eda-dba7-4304-bbea-c442b72987fe
+    title: 'Piety Promoted, Volume II'
+    slug: piety-promoted-v2-replace
+    filename: Piety_Promoted_v2_REPLACE
+    print_size: m
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-326-1
+        draft: true
+  - id: e3303fef-3bdc-4f5e-842d-5e7eb54917cc
+    title: 'Piety Promoted, Volume III'
+    slug: piety-promoted-v3-replace
+    filename: Piety_Promoted_v3_REPLACE
+    print_size: m
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-327-8
+        draft: true
+  - id: 8467d118-c716-4e63-a5be-8df72f88de5a
+    title: 'Piety Promoted, Volume IV'
+    slug: piety-promoted-v4-replace
+    filename: Piety_Promoted_v4_REPLACE
+    print_size: m
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-328-5
+        draft: true
