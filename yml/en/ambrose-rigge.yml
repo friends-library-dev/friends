@@ -44,8 +44,43 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-004-8
+  - id: b7cdfbb1-abf9-47b9-a483-a9e7dee6b435
+    title: Selection from the Journal and Writings of Ambrose Rigge
+    slug: journal-and-writings-selection
+    filename: Selection_Journal_of_Ambrose_Rigge
+    description: >-
+      Ambrose Rigge (1635-1705) was early convinced of the truth through the preaching of
+      George Fox, and grew to be a powerful minister of the gospel, a faithful elder, and
+      a great sufferer for the cause of Christ. In one of his letters, he writes, “I have
+      been in eleven prisons in this county, one of which held me ten years, four months
+      and upward, besides twice premunired, and once publicly lashed, and many other
+      sufferings too long to relate here.” Yet through all he kept the faith, and served
+      the Lord’s body even while in bonds, through letters and papers given to encourage
+      and establish the flock. Ambrose Rigge was one of many in his generation who sold
+      all to buy the Pearl of great price, and having found true treasure, he kept it till
+      the end.
+    partial_description: >-
+      A selection from the Life of Ambrose Rigge, containing an autobiographical account
+      of his life, ministry, and sufferings; and two of his publications dealing with the
+      condition of man in his fallen state, and the inward and spiritual grace of God.
+    tags:
+      - journal
+      - letters
+    editions:
+      - type: updated
+        isbn: 978-1-64476-330-8
+        editor: Jason R. Henderson
+        audio:
+          added: 2021-11-15T21:09:35.453Z
+          reader: Jason R. Henderson
+          parts:
+            - title: Selection from the Journal and Writings of Ambrose Rigge
+              external_id_hq: 1160606278
+              external_id_lq: 1160608534
+              chapters:
+                - 0
   - id: 270846d4-b365-4849-abcd-f0a999b6f0f6
-    title: Journal (Replacement, draft)
+    title: 'Journal (Replacement, draft)'
     slug: replace
     filename: Ambrose_Rigge_Replace
     description: TODO
