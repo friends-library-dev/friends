@@ -1,8 +1,8 @@
-id: 5b448161-953f-4196-a1e4-e07fd5d48412
+id: 65bdfb77-8292-4b96-a422-cd6473d8145a
 name: Mary Ann Kelty
 slug: mary-ann-kelty
 gender: female
-added: 2018-11-12T17:14:02.000Z
+# added: 2018-11-12T17:14:02.000Z # TODO
 born: 1789
 died: 1873
 quotes:
@@ -29,48 +29,13 @@ description: >-
   short history of the early Society of Friends, highlighting the most noteworthy figures
   and remarkable events of that time.
 documents:
-  - id: 92d2a0ab-55d5-4fc1-aaf6-f003b172898d
-    title: The Lives and Persecutions of the Primitive Quakers
+  - id: 45b75dca-02cb-46ff-adf3-b08d0f044dad
+    alt_language_id: a689e647-7065-4bf5-8b50-c4f3b1e73135
+    title: Mamá y María
     original_title: >-
-      Memoirs of the Lives and Persecutions of the Primitive Quakers, Exemplifying the
-      Obedience of Faith in Some of the Early Members of the Society.
-    slug: lives-of-primitive-quakers
-    filename: Lives_and_Persecutions_of_the_Primitive_Quakers
-    description: >-
-      Mary Ann Kelty (1789-1873) was a teacher and author in England who appears to have
-      discovered the writings of early Friends later in her life. Though she plainly shows
-      herself to be in perfect accord with the principles and practices of the primitive
-      Quakers, she lived in a time of great declension from the original purity and power
-      in the Society, and probably for that reason, never formally joined with them in
-      membership (though she is said to have frequently attended the Friends’ meeting
-      house at Peckham). Her book “The Lives and Persecutions of the Primitive Quakers” is
-      a very well-written, short history of the early Society of Friends, highlighting the
-      most noteworthy figures and remarkable events of that time.
-    partial_description: >-
-      A short history of the remarkable lives and relentless persecutions of the primitive
-      Quakers, demonstrating their deep root in the life and substance of true
-      Christianity, and their willingness to “spend and be spent” for the Truth as it is
-      in Jesus.
-    tags:
-      - history
-    editions:
-      - type: modernized
-        isbn: 978-1-64476-100-7
-      - type: original
-        isbn: 978-1-64476-101-4
-    related_documents:
-      - id: 69c5fc26-76e3-4302-964e-ba46d889003b
-        description: >-
-          Both the lives and the sufferings of the Friends mentioned in Mary Ann Kelty’s
-          history, are related in much greater detail in William Sewel’s classic “History
-          of the Rise, Increase, and Progress of that Christian People Called Quakers.”
-  - id: a689e647-7065-4bf5-8b50-c4f3b1e73135
-    alt_language_id: 45b75dca-02cb-46ff-adf3-b08d0f044dad
-    title: Mamma and Mary
-    original_title: >-
-      Mamma and Mary, Discoursing Upon Good and Evil. In Six Dialogues.
-    filename: Mamma_and_Mary
-    slug: mamma-and-mary
+      Mamá y María, Conversando Sobre el Bien y el Mal En Seis Diálogos
+    filename: Mama_y_Maria
+    slug: mama-y-maria
     description:
       This short collection of dialogues between a mother and her young daughter was
       written by Mary Ann Kelty (1789-1873) in order to illustrate the necessity of
@@ -88,9 +53,5 @@ documents:
       - spiritual life
     editions:
       - type: updated
-        editor: Jason R. Henderson
-        isbn: 978-1-64476-263-9
-      - type: modernized
-        isbn: 978-1-64476-264-6
-      - type: original
-        isbn: 978-1-64476-265-3
+        isbn: 978-1-64476-331-5
+        draft: true
