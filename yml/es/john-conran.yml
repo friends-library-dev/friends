@@ -55,3 +55,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-318-6
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-11-22T20:30:53.933Z
+          parts:
+            - title: Selección del Diario de John Conran
+              external_id_lq: 1164820753
+              external_id_hq: 1164820390
+              chapters:
+                - 0
