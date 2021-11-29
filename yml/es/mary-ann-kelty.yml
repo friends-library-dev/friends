@@ -2,32 +2,22 @@ id: 65bdfb77-8292-4b96-a422-cd6473d8145a
 name: Mary Ann Kelty
 slug: mary-ann-kelty
 gender: female
-# added: 2018-11-12T17:14:02.000Z # TODO
+added: 2021-11-29T19:36:03.522Z
 born: 1789
 died: 1873
-quotes:
-  - source: Mary Ann Kelty
-    text: >-
-      Permit the word of exhortation, upon a point wherein it seems to me you are in some
-      danger—it is that of mixing up the pure, distinct, interior principle of faith in
-      the gift of God, as an invisible and spiritual thing, only to be known, apprehended,
-      believed in, felt, and obeyed, by the inward senses of the new-born creature—-I say,
-      it is to be feared, that you mix and confound this precious, living thing, with the
-      notional, historical knowledge, which is to be picked up from the letter that
-      describes it.
 residences:
   - city: Peckham
     region: England
 description: >-
-  Mary Ann Kelty (1789-1873) was a teacher and author in England who appears to have
-  discovered the writings of early Friends later in her life. Though she plainly shows
-  herself to be in perfect accord with the principles and practices of the primitive
-  Quakers, she lived in a time of great declension from the original purity and power in
-  the Society, and probably for that reason, never formally joined with them in membership
-  (though she is said to have frequently attended the Friends’ meeting house at Peckham).
-  Her book “The Lives and Persecutions of the Primitive Quakers” is a very well-written,
-  short history of the early Society of Friends, highlighting the most noteworthy figures
-  and remarkable events of that time.
+  Mary Ann Kelty (1789-1873) fue una profesora y escritora en Inglaterra que parece haber
+  descubierto los escritos de los primeros Amigos a una edad avanzada de su vida. Aunque
+  se muestra claramente de acuerdo con los principios y las prácticas de los primitivos
+  cuáqueros, vivió en una época en la que la pureza y el poder originales de la Sociedad
+  habían decaído enormemente y, probablemente por esta razón, nunca se unió formalmente a
+  ellos como miembro (aunque se dice que asistía con frecuencia a la reunión de los Amigos
+  en Peckham). Su libro “La Vida y Las Persecuciones de los Cuáqueros Primitivos” es una
+  historia breve y muy bien escrita de la primera Sociedad de los Amigos, en la que se
+  destacan las figuras más notables y los acontecimientos más importantes de esa época.
 documents:
   - id: 45b75dca-02cb-46ff-adf3-b08d0f044dad
     alt_language_id: a689e647-7065-4bf5-8b50-c4f3b1e73135
@@ -36,22 +26,21 @@ documents:
       Mamá y María, Conversando Sobre el Bien y el Mal En Seis Diálogos
     filename: Mama_y_Maria
     slug: mama-y-maria
-    description:
-      This short collection of dialogues between a mother and her young daughter was
-      written by Mary Ann Kelty (1789-1873) in order to illustrate the necessity of
-      identifying and uprooting the root of sin in children, before it grows strong and
-      unyielding. “It is not,” says Kelty, “by lopping off the branches of corruption that
-      the instructor of youth can hope to be of service,” but rather by helping them to an
-      early and deep familiarity with the Light of Jesus Christ, that living “Word in the
-      heart” which manifests all that is contrary to Truth, and gives power to become the
-      children of God.
-    partial_description:
-      A collection of six dialogues between a mother and her young daughter, exposing the
-      root and tendency of sin in the heart of man, and offering practical advice for
-      parents on how to turn their children from self to the light of Christ.
+    description: >-
+      Esta pequeña colección de diálogos entre una madre y su joven hija fue escrita por
+      Mary Ann Kelty (1789-1873) con el fin de ilustrar la necesidad de identificar y
+      desarraigar la raíz de pecado en los hijos, antes de que se vuelva fuerte e
+      indomable. “No es” dice Kelty, “al podar las ramas de la corrupción que los padres
+      pueden esperar ser de gran utilidad en su labor,” sino más bien por ayudarlos a
+      familiarizarse profundamente (a una edad temprana) con la luz de Jesucristo, esa
+      “Palabra en el corazón” que manifiesta todo lo que es contrario a la Verdad, y da
+      poder para ser hechos hijos de Dios.
+    partial_description: >-
+      Una colección de seis diálogos entre una madre y su joven hija, que expone la raíz y
+      tendencia de pecado en el corazón del hombre, y ofrece consejos prácticos a los
+      padres sobre cómo volver a sus hijos del yo a la luz de Cristo.
     tags:
       - spiritual life
     editions:
       - type: updated
         isbn: 978-1-64476-331-5
-        draft: true
