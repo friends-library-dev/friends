@@ -44,6 +44,8 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-004-8
+      - type: original
+        isbn: 978-1-64476-320-9
   - id: b7cdfbb1-abf9-47b9-a483-a9e7dee6b435
     title: Selection from the Journal and Writings of Ambrose Rigge
     slug: journal-and-writings-selection
@@ -79,19 +81,3 @@ documents:
               external_id_lq: 1160608534
               chapters:
                 - 0
-  - id: 270846d4-b365-4849-abcd-f0a999b6f0f6
-    title: 'Journal (Replacement, draft)'
-    slug: replace
-    filename: Ambrose_Rigge_Replace
-    description: TODO
-    partial_description: TODO
-    tags:
-      - journal
-      - letters
-    editions:
-      - type: modernized
-        isbn: 978-1-64476-319-3
-        draft: true
-      - type: original
-        isbn: 978-1-64476-320-9
-        draft: true
