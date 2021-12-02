@@ -62,40 +62,8 @@ documents:
     tags:
       - history
     editions:
-      - type: modernized
-        isbn: 978-1-64476-158-8
-        splits:
-          - 14
       - type: original
         isbn: 978-1-64476-159-5
-        splits:
-          - 14
-  - id: 1066b1df-5dcd-4ed7-b6f9-8c89714dedb8
-    # alt_language_id: 41b1ae64-5130-418e-9fea-a004dbdb46d5
-    title: >-
-      (New REPLACEMENT) The History of the, Rise, Increase, and Progress of the Christian
-      People Called Quakers
-    slug: history-of-quakers-replace
-    filename: History_of_Quakers_REPLACE
-    description: >-
-      William Sewel (1653-1720), being a Quaker himself, an honest and meticulous
-      researcher, and an eye-witness to many of the events described in his writings, has
-      long been considered the foremost authority on the early history of the Society of
-      Friends. This lengthy but invaluable publication (first written in Dutch in 1717,
-      and then translated by Sewel into English) tells the truly amazing story of a people
-      who awoke from the lifeless and formal religion of their day, submitted
-      whole-heartedly to the teachings of the Spirit of truth, and so returned to the
-      original life, light, power, and purity of primitive Christianity.
-    partial_description: >-
-      The most accurate and exhaustive history of the Society of Friends, long considered
-      the foremost authority on the true rise, increase, and progress of this Christian
-      people during their first sixty-five years.
-    tags:
-      - history
-    editions:
-      - type: original
-        isbn: 978-1-64476-329-2
-        draft: true
         splits:
           - 16
   - id: 2c64c45a-02b0-406d-935f-c90a42daf5a7
