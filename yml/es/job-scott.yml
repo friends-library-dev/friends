@@ -50,3 +50,12 @@ documents:
     editions:
       - type: updated
         isbn: 978-1-64476-310-0
+        audio:
+          reader: Keren Alvaredo
+          added: 2021-12-07T14:39:52.408Z
+          parts:
+            - title: Selección del Diario de Job Scott
+              external_id_hq: 1173056512
+              external_id_lq: 1173057034
+              chapters:
+                - 0
