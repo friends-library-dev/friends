@@ -65,4 +65,12 @@ documents:
       - type: updated
         isbn: 978-1-64476-158-8
         editor: Jason R. Henderson
-        draft: true
+        audio:
+          added: 2021-12-10T14:11:47.240Z
+          reader: Jason R. Henderson
+          parts:
+            - title: Selection from the Life of William Lewis
+              external_id_hq: 1175539189
+              external_id_lq: 1175539678
+              chapters:
+                - 0
