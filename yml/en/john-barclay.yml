@@ -92,3 +92,24 @@ documents:
         isbn: 978-1-64476-259-2
       - type: modernized
         isbn: 978-1-64476-260-8
+  - id: 3e29db68-80d4-4361-aab2-8be702338705
+    title: Letters of Early Friends
+    original_title: >-
+      Letters, etc., of Early Friends; Illustrative of the History of the Society, from
+      Nearly its Origin, to About the Period of George Fox’s Decease; with Documents
+      Respecting its Early Discipline; Also Epistles of Councel and Exhortation, etc.
+    slug: letters-of-early-friends
+    filename: Letters_of_Early_Friends
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: original
+        isbn: 978-1-64476-319-3
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-325-4
+        draft: true
