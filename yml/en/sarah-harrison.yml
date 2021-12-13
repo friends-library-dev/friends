@@ -1,0 +1,32 @@
+id: 4d50b4b7-3f28-44ba-8246-2c217524e969
+name: Sarah Harrison
+slug: sarah-harrison
+gender: female
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1736
+died: 1812
+residences:
+  - city: Philadelphia # TODO !!!!!  double-check this
+    region: Pennsylvania
+documents:
+  - id: 61e7cf9c-a688-4003-be35-e574a750ec10
+    title: The Life of Sarah Harrison
+    original_title: >-
+      Memoirs of the Life and Travels of Sarah Harrison; Late of Philadelphia, Deceased
+    slug: life
+    filename: Life_of_Sarah_Harrison
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-326-1
+        draft: true
+      - type: original
+        isbn: 978-1-64476-327-8
+        draft: true
