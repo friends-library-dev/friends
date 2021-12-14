@@ -1,0 +1,32 @@
+id: 70a862ad-7261-4534-aa68-113634639fa6
+name: John Rutty
+slug: john-rutty
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1697
+died: 1775
+residences:
+  - city: Dublin
+    region: Ireland
+documents:
+  - id: 6ee37dca-0b73-4676-aed8-2de0876a0f6b
+    title: History of the Quakers in Ireland
+    original_title: >-
+      A History of the Rise and Progress of the People Called Quakers in Ireland
+    slug: history-of-the-quakers-in-ireland
+    filename: History_of_the_Quakers_in_Ireland
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - history
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-328-5
+        draft: true
+      - type: original
+        isbn: 978-1-64476-329-2
+        draft: true
