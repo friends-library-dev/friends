@@ -1,0 +1,33 @@
+id: 97d10f6d-b96f-4b8b-8820-10d1b109f02f
+name: Lydia Ann Barclay
+slug: lydia-ann-barclay
+gender: female
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1799
+died: 1855
+residences:
+  - city: London # @TODO -- not correct!
+    region: England
+documents:
+  - id: 57ac3979-2623-4737-8593-5b3cb2d0e1a6
+    title: The Letters of Lydia Ann Barclay
+    original_title: >-
+      A Selection from The Letters of Lydia Ann Barclay, A Minister of the Gospel in the
+      Society of Friends.
+    slug: letters
+    filename: Letters_of_Lydian_Ann_Barclay
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-332-2
+        draft: true
+      - type: original
+        isbn: 978-1-64476-333-9
+        draft: true
