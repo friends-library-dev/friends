@@ -113,3 +113,24 @@ documents:
       - type: modernized
         isbn: 978-1-64476-325-4
         draft: true
+  - id: b67bb076-0fe3-4959-9ebe-0aa1c7e41b28
+    title: Barclay’s Anecdotes
+    original_title: >-
+      Select Anecdotes And Instructive Incidents, Taken From Publications of Several
+      Members of the Society of Friends, Chiefly Illustrative of Their Sentiments and
+      Conduct on Various Occasions
+    slug: anecdotes
+    filename: Barclays_Anecdotes
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: original
+        isbn: 978-1-64476-334-6
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-335-3
+        draft: true
