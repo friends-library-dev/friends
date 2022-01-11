@@ -74,5 +74,127 @@ documents:
     editions:
       - type: modernized
         isbn: 978-1-64476-271-4
+        audio:
+          reader: Jessie Henderson
+          added: 2022-01-11T17:08:51.304Z
+          external_playlist_id_hq: 1377842521
+          external_playlist_id_lq: 1377842551
+          parts:
+            - title: 'Preface, Address to her Children'
+              external_id_hq: 1194428743
+              external_id_lq: 1194429193
+              chapters:
+                - 0
+                - 1
+            - title: Letters from 1788 to 1796
+              external_id_hq: 1194429484
+              external_id_lq: 1194429793
+              chapters:
+                - 2
+            - title: Letters from 1797 to 1798
+              external_id_hq: 1194430027
+              external_id_lq: 1194430399
+              chapters:
+                - 3
+            - title: Letters from 1798 to 1799
+              external_id_hq: 1194430744
+              external_id_lq: 1194431122
+              chapters:
+                - 4
+            - title: Letters from 1799 to 1801
+              external_id_hq: 1194431509
+              external_id_lq: 1194431992
+              chapters:
+                - 5
+            - title: Letters from 1801 to 1807
+              external_id_hq: 1194432364
+              external_id_lq: 1194432709
+              chapters:
+                - 6
+            - title: Letters from 1811 to 1814
+              external_id_hq: 1194432949
+              external_id_lq: 1194433249
+              chapters:
+                - 7
+            - title: Letters from 1814 to 1818
+              external_id_hq: 1194433573
+              external_id_lq: 1194433939
+              chapters:
+                - 8
+            - title: Letters from 1818 to 1820
+              external_id_hq: 1194434182
+              external_id_lq: 1194434623
+              chapters:
+                - 9
+            - title: Letters from 1821 to 1823
+              external_id_hq: 1194434950
+              external_id_lq: 1194435310
+              chapters:
+                - 10
+            - title: Letters from 1823 to 1825
+              external_id_hq: 1194435577
+              external_id_lq: 1194435874
+              chapters:
+                - 11
+            - title: Letters from 1825 to 1828
+              external_id_hq: 1194436198
+              external_id_lq: 1194436441
+              chapters:
+                - 12
+            - title: Letters from 1828 to 1830
+              external_id_hq: 1194436672
+              external_id_lq: 1194436879
+              chapters:
+                - 13
+            - title: Letters from 1830 to 1833
+              external_id_hq: 1194437170
+              external_id_lq: 1194437539
+              chapters:
+                - 14
+            - title: Letters from 1833 to 1834
+              external_id_hq: 1194437827
+              external_id_lq: 1194438160
+              chapters:
+                - 15
+            - title: Letters from 1834
+              external_id_hq: 1194438556
+              external_id_lq: 1194438919
+              chapters:
+                - 16
+            - title: Letters from 1834 to 1836
+              external_id_hq: 1194439252
+              external_id_lq: 1194439525
+              chapters:
+                - 17
+            - title: Letters from 1836 to 1837
+              external_id_hq: 1194439876
+              external_id_lq: 1194440206
+              chapters:
+                - 18
+            - title: Letters from 1837 to 1838
+              external_id_hq: 1194440515
+              external_id_lq: 1194440917
+              chapters:
+                - 19
+            - title: Letters from 1838 to 1839
+              external_id_hq: 1194441457
+              external_id_lq: 1194442264
+              chapters:
+                - 20
+            - title: Letters from 1839 to 1840
+              external_id_hq: 1194443053
+              external_id_lq: 1194443692
+              chapters:
+                - 21
+            - title: Letters from 1840 to 1841
+              external_id_hq: 1194444448
+              external_id_lq: 1194445228
+              chapters:
+                - 22
+            - title: Letters from 1841 to 1842
+              external_id_hq: 1194446053
+              external_id_lq: 1194446833
+              chapters:
+                - 23
       - type: original
         isbn: 978-1-64476-272-1
