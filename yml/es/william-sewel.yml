@@ -95,26 +95,9 @@ documents:
         audio:
           reader: Keren Alvaredo
           added: 2019-07-10T04:00:00.000Z
-          external_playlist_id_hq: 1019854648
-          external_playlist_id_lq: 1019854771
           parts:
-            - title: 'Sufrimientos de Catherine Evans Sarah Cheevers, pt. 1'
-              external_id_lq: 783194737
-              external_id_hq: 783198235
-              chapters:
-                - 0
-            - title: 'Sufrimientos de Catherine Evans Sarah Cheevers, pt. 2'
-              external_id_lq: 783194773
-              external_id_hq: 783198256
-              chapters:
-                - 0
-            - title: 'Sufrimientos de Catherine Evans Sarah Cheevers, pt. 3'
-              external_id_lq: 783194797
-              external_id_hq: 783198271
-              chapters:
-                - 0
-            - title: 'Sufrimientos de Catherine Evans Sarah Cheevers, pt. 4'
-              external_id_lq: 783194842
-              external_id_hq: 783198307
+            - title: Sufrimientos de Catherine Evans Sarah Cheevers
+              external_id_lq: 1202768359
+              external_id_hq: 1202767780
               chapters:
                 - 0
