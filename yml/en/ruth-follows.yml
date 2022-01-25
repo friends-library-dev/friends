@@ -52,6 +52,54 @@ documents:
       - type: updated
         isbn: 978-1-64476-276-9
         editor: Eden Henderson
+        audio:
+          reader: Jessie Henderson
+          added: 2022-01-25T19:34:34.974Z
+          external_playlist_id_hq: 1385270617
+          external_playlist_id_lq: 1385270674
+          parts:
+            - title: 'Preface, Chapter 1'
+              external_id_hq: 1203596293
+              external_id_lq: 1203596554
+              chapters:
+                - 0
+                - 1
+            - title: Chapter 2
+              external_id_hq: 1203596767
+              external_id_lq: 1203597007
+              chapters:
+                - 2
+            - title: Chapter 3
+              external_id_hq: 1203597262
+              external_id_lq: 1203597592
+              chapters:
+                - 3
+            - title: Chapter 4
+              external_id_hq: 1203597859
+              external_id_lq: 1203598078
+              chapters:
+                - 4
+            - title: Chapter 5
+              external_id_hq: 1203598279
+              external_id_lq: 1203598528
+              chapters:
+                - 5
+            - title: Chapter 6
+              external_id_hq: 1203598816
+              external_id_lq: 1203599200
+              chapters:
+                - 6
+            - title: Chapter 7
+              external_id_hq: 1203599512
+              external_id_lq: 1203599782
+              chapters:
+                - 7
+            - title: 'Chapter 8, Testimony'
+              external_id_hq: 1203600079
+              external_id_lq: 1203600331
+              chapters:
+                - 8
+                - 9
       - type: modernized
         isbn: 978-1-64476-222-6
       - type: original
