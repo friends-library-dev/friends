@@ -1,0 +1,35 @@
+id: f95e4164-8c3a-446f-8c3e-184ed9f5ae81
+name: John Barcroft
+slug: john-barcroft
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+# born: 1657
+# died: 1720
+# residences:
+#   - city: London
+#     region: England
+documents:
+  - id: 4ca12c11-c035-461a-b68b-ce9ae0ec3fab
+    title: The Life of John Barcroft
+    slug: life
+    original_title: >-
+      A Brief Narrative of the Life, Convincement, Conversion and Labours of Love in the
+      Gospel-Ministry of that Worthy Servant of Jesus Christ, John Barcroft. Who Departed
+      this Life, at His House at Arkill, in the Kingdom of Ireland, the 24th of the
+      Eleventh Month, 1923.
+    filename: Life_of_John_Barcroft
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-340-7
+        draft: true
+      - type: original
+        isbn: 978-1-64476-341-4
+        draft: true

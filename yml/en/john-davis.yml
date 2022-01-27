@@ -1,0 +1,33 @@
+id: 62776867-b180-4f35-9411-8ca7d84e1e98
+name: John Davis
+slug: john-davis
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+# born: 1657
+# died: 1720
+# residences:
+#   - city: London
+#     region: England
+documents:
+  - id: 1a0ebaef-f261-459f-914a-83cced15e708
+    title: The Life of John Davis
+    slug: life
+    original_title: >-
+      Some Account of the Wonderful Operations Of Divine Love and Mercy, As Exemplified in
+      the Life and Experience of John Davis
+    filename: Life_of_John_Davis
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-342-1
+        draft: true
+      - type: original
+        isbn: 978-1-64476-343-8
+        draft: true

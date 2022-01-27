@@ -1,0 +1,33 @@
+id: b7447df3-b13b-4c33-b721-b787a9fa977b
+name: Abel Thomas
+slug: abel-thomas
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+# born: 1657
+# died: 1720
+# residences:
+#   - city: London
+#     region: England
+documents:
+  - id: 482e2791-8f79-4c98-a142-de12ae7f2220
+    title: The Life of Abel Thomas
+    slug: life
+    original_title: >-
+      A Brief Memoir Concerning Abel Thomas, A Minister of the Gospel of Christ In the
+      Society of Friends
+    filename: Life_of_Abel_Thomas
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - journal
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-345-2
+        draft: true
+      - type: original
+        isbn: 978-1-64476-346-9
+        draft: true

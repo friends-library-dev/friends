@@ -391,3 +391,20 @@ documents:
               external_id_hq: 1041802384
               chapters:
                 - 9
+  - id: 50a824f9-5176-4b4f-9e2a-1a5b8ef8b7c0
+    title: Memoirs of the Godly
+    slug: memoirs-of-the-godly
+    filename: Memoirs_of_the_Godly
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: original
+        isbn: 978-1-64476-347-6
+        draft: true
+      - type: modernized
+        isbn: 978-1-64476-348-3
+        draft: true
