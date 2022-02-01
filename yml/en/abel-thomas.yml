@@ -5,11 +5,11 @@ gender: male
 # added: 2021-07-12T17:45:01.282Z
 description: >-
   TODO
-# born: 1657
-# died: 1720
+born: 1737
+died: 1816
 # residences:
-#   - city: London
-#     region: England
+#   - city: Merion
+#     region: Pennsylvania
 documents:
   - id: 482e2791-8f79-4c98-a142-de12ae7f2220
     title: The Life of Abel Thomas

@@ -5,11 +5,19 @@ gender: male
 # added: 2021-07-12T17:45:01.282Z
 description: >-
   TODO
-# born: 1657
-# died: 1720
-# residences:
-#   - city: London
-#     region: England
+born: 1804
+died: 1878
+residences:
+  - city: Sheffield
+    region: England
+    durations:
+      - start: 1804
+        end: 1827
+  - city: Philadelphia
+    region: Pennslyvania
+    durations:
+      - start: 1827
+        end: 1878
 documents:
   - id: 9b00291a-55b5-4d01-96b2-adee803b4a6b
     title: The Society of Friends in the Nineteenth Century -- Volume I

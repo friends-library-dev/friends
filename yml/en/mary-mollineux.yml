@@ -5,11 +5,11 @@ gender: female
 # added: 2021-07-12T17:45:01.282Z
 description: >-
   TODO
-# born: 1657
-# died: 1720
-# residences:
-#   - city: London
-#     region: England
+born: 1651
+died: 1695
+residences:
+  - city: Liverpool
+    region: England
 documents:
   - id: 42678b76-a701-49cb-b65f-7276c673c37a
     title: Fruits of Retirement

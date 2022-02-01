@@ -5,11 +5,13 @@ gender: male
 # added: 2021-07-12T17:45:01.282Z
 description: >-
   TODO
-# born: 1657
-# died: 1720
-# residences:
-#   - city: London
-#     region: England
+born: 1667
+died: 1744
+residences:
+  - city: Amesbury
+    region: England
+  - city: London
+    region: England
 documents:
   - id: 1a0ebaef-f261-459f-914a-83cced15e708
     title: The Life of John Davis

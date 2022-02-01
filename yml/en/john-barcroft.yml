@@ -5,11 +5,11 @@ gender: male
 # added: 2021-07-12T17:45:01.282Z
 description: >-
   TODO
-# born: 1657
-# died: 1720
-# residences:
-#   - city: London
-#     region: England
+born: 1664
+died: 1723
+residences:
+  - city: Edenderry
+    region: Ireland
 documents:
   - id: 4ca12c11-c035-461a-b68b-ce9ae0ec3fab
     title: The Life of John Barcroft
