@@ -85,6 +85,7 @@ documents:
       - type: modernized
         isbn: 978-1-64476-009-3
   - id: a40a3ac1-af68-474f-bf76-66028ca17b49
+    alt_language_id: 0e8bb936-8929-4495-90ea-8f8c8d81544d
     title: Selection from the Life and Letters of Catherine Payton
     slug: life-and-letters-selection
     filename: Selection_Life_and_Letters_of_Catherine_Payton
