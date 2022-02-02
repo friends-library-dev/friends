@@ -2,22 +2,27 @@ id: 01a47a1f-189e-4cb5-bba2-cf39ec6bedd2
 name: Catherine Payton
 slug: catherine-payton
 gender: female
-# added: 2018-09-03T20:49:44.000Z
+added: 2022-02-02T15:27:11.487Z
 born: 1727
 died: 1794
-# quotes:
-#   - source: Sarah R. Grubb
-#     text: >-
-#       About two years ago, to my humble admiration, in a season of great proving of spirit
-#       it was so renewed and sealed to me (the inward attraction being so strong, and the
-#       evidence so undoubtable) that [Catherine Payton] was a faithful follower of the
-#       Lamb; for a language sweetly flowed through my mind, “I have chosen her and she is
-#       mine”—so that I not only rejoiced, but was strengthened.
+quotes:
+  - source: Sarah R. Grubb
+    text: >-
+      Hace unos dos años, para mi humilde admiración, en un tiempo de gran prueba de
+      espíritu, esta convicción fue profundamente renovada y sellada en mí; pues sentí una
+      persuasión interna muy fuerte y una incuestionable evidencia, de que Catherine
+      Payton era una fiel seguidora del Cordero. En efecto, oí un dulce lenguaje fluyendo
+      a través de mi mente que decía: “Yo la he escogido y es Mía.”
 residences:
   - city: Dudley
     region: England
 description: >-
-  TODO
+  Catherine Payton (1727-1794, también conocida por su nombre de casada, Catherine
+  Phillips) era una ministra eminentemente dotada en la Sociedad de Amigos, quien viajó
+  casi continuamente durante cuarenta años en el servicio de la Verdad por toda
+  Inglaterra, Irlanda, y Norte América. Su diario y sus cartas demuestran claramente una
+  vida rendida a la cruz de Cristo, una mente provista de conocimiento y sabiduría
+  celestial, y un corazón lleno de amor por Dios y por la humanidad.
 documents:
   - id: 0e8bb936-8929-4495-90ea-8f8c8d81544d
     alt_language_id: a40a3ac1-af68-474f-bf76-66028ca17b49
@@ -25,13 +30,22 @@ documents:
     slug: seleccion-diario-y-cartas
     filename: Seleccion_del_Diario_y_Cartas_de_Catherine_Payton
     description: >-
-      TODO
+      Catherine Payton (1727-1794, también conocida por su nombre de casada, Catherine
+      Phillips) era una ministra muy conocida y estimada en la Sociedad de Amigos, cuyas
+      labores en el evangelio convirtieron a muchos de las tinieblas a la luz, y de la
+      potestad de Satanás a Dios. Este extracto de su diario contiene una porción
+      autobiográfica, en la que Catherine describe sus primeras experiencias de las
+      misericordias y los juicios del Señor, y su llamado al ministerio, seguido por una
+      muestra de sus cartas que manifiestan su extraordinario capacidad para ministrar
+      consejo y amonestación a las diferentes condiciones espirituales.
     partial_description: >-
-      TODO
+      Un extracto de la Vida y las Cartas de Catherine Payton  (1727-1794, también
+      conocida por su nombre de casada, Catherine Phillips) que contiene un relato
+      autobiográfico de su crianza y entrega al Señor en su juventud, junto a cuatro
+      cartas extraordinarias, escritas a individuos en diversas condiciones espirituales.
     tags:
       - journal
       - letters
     editions:
       - type: updated
         isbn: 978-1-64476-336-0
-        draft: true
