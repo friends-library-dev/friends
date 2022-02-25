@@ -1,0 +1,36 @@
+id: 25733cda-9010-40bc-8a3b-eac51f5a8187
+name: William Bennit
+slug: william-bennit
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+# born: 1657
+# died: 1720
+# residences:
+#   - city: London
+#     region: England
+documents:
+  - id: e0b19be9-04b3-406e-8f13-c277cd137cf7
+    title: The Letters of William Bennit
+    slug: letters
+    original_title:
+      Selections From the Epistles, etc. of William Bennit, An Early Minister of the
+      Gospel in the Society of Friends; Who, After Suffering Long and Patiently for His
+      Testimony to the Truth, Departed This Life in the County Jail, at Ipswich, Where He
+      was a Prisoner For Conscience Sake; To Which is Prefixed A Memoir of His Religious
+      Experience and Character.
+    filename: Letters_of_William_Bennit
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-351-3
+        draft: true
+      - type: original
+        isbn: 978-1-64476-352-0
+        draft: true

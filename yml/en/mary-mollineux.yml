@@ -1,0 +1,32 @@
+id: 630b17a2-ad0f-411b-a4a3-c5b3f15b610d
+name: Mary Mollineux
+slug: mary-mollineux
+gender: female
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1651
+died: 1695
+residences:
+  - city: Liverpool
+    region: England
+documents:
+  - id: 42678b76-a701-49cb-b65f-7276c673c37a
+    title: Fruits of Retirement
+    slug: fruits-of-retirement
+    original_title: >-
+      Fruits of Retirement: Or Miscellaneous Poems, Moral and Divine. Being Some
+      Contemplations, Letters, etc. Written on A Variety of subjects and Occasions. By
+      Mary Mollineux, Late of Liverpool, Deceased.  To Which is Prefixed, some Account of
+      the Author.
+    filename: Fruits_of_Retirement
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: original
+        isbn: 978-1-64476-344-5
+        draft: true

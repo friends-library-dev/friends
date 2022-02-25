@@ -1,0 +1,34 @@
+id: 682a162d-f3e9-4445-8b8f-5f62ba8b3b15
+name: William Boen
+slug: william-boen
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+# born: 1657
+# died: 1720
+# residences:
+#   - city: London
+#     region: England
+documents:
+  - id: 6009fc4a-e58d-4330-9a92-08c3589b04e9
+    title: The Life of William Boen
+    slug: letters
+    original_title: >-
+      Anecdotes and Memoirs OF William Boen, A Coloured Man, Who Lived and Died Near Mount
+      Holly, New Jersey. To Which is Added, The Testimony of Friends of Mount Holly
+      Monthly Meeting Concerning Him.
+    filename: Life_of_William_Boen
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - letters
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-353-7
+        draft: true
+      - type: original
+        isbn: 978-1-64476-354-4
+        draft: true

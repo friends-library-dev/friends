@@ -1,0 +1,61 @@
+id: 78ce3957-b5ab-4d63-a797-697053c5aeca
+name: William Hodgson
+slug: william-hodgson
+gender: male
+# added: 2021-07-12T17:45:01.282Z
+description: >-
+  TODO
+born: 1804
+died: 1878
+residences:
+  - city: Sheffield
+    region: England
+    durations:
+      - start: 1804
+        end: 1827
+  - city: Philadelphia
+    region: Pennslyvania
+    durations:
+      - start: 1827
+        end: 1878
+documents:
+  - id: 9b00291a-55b5-4d01-96b2-adee803b4a6b
+    title: The Society of Friends in the Nineteenth Century -- Volume I
+    slug: friends-in-the-nineteenth-century-volume-1
+    original_title:
+      The Society of Friends in the Nineteenth Century. A Historical View Of the
+      Successive Convulsions and Schisms Therein During That Period.
+    filename: Society_of_Friends_Nineteenth_Century_vol_1
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - history
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-336-0
+        draft: true
+      - type: original
+        isbn: 978-1-64476-337-7
+        draft: true
+  - id: ad307cb6-0e9d-4724-8b86-e3b770b28386
+    title: The Society of Friends in the Nineteenth Century -- Volume II
+    slug: friends-in-the-nineteenth-century-volume-2
+    original_title:
+      The Society of Friends in the Nineteenth Century. A Historical View Of the
+      Successive Convulsions and Schisms Therein During That Period.
+    filename: Society_of_Friends_Nineteenth_Century_vol_2
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - history
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-338-4
+        draft: true
+      - type: original
+        isbn: 978-1-64476-339-1
+        draft: true

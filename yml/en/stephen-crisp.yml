@@ -154,3 +154,26 @@ documents:
         isbn: 978-1-64476-184-7
       - type: original
         isbn: 978-1-64476-185-4
+  - id: 947d6ba1-791c-4439-b718-9b53a0f74fd8
+    title: Sermons of Stephen Crisp
+    slug: sermons
+    filename: Sermons_of_Stephen_Crisp
+    original_title: >-
+      Scripture Truths Demonstrated In Thirty-Two Sermons, Or Declarations of Stephen
+      Crisp, Late of Colchester, in Essex, Deceased. Carefully Taken in Characters or
+      Short-Hand, as They Were Delivered by Him at the Public Meeting-Houses of the People
+      Called Quakers, in and about London. Faithfully Transcribed and Published, Together
+      with His Prayers after Sermon.
+    description: >-
+      TODO
+    partial_description: >-
+      TODO
+    tags:
+      - spiritual life
+    editions:
+      - type: modernized
+        isbn: 978-1-64476-349-0
+        draft: true
+      - type: original
+        isbn: 978-1-64476-350-6
+        draft: true
